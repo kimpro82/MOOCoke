@@ -4,7 +4,7 @@
 
 (Special.: Specialization / Beg.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
-| Product | Title | Level | Duration(h) | Coursera+ | Korean | Language | Partner | Instructor |
+| Product | Title | Level | Hours | Coursera+ | Korean | Language | Partner | Instructor |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|:-:|:-:|
 | Special. | [Applied Data Science](https://www.coursera.org/specializations/applied-data-science) | Beg. | 69 | × | ○ | Python | IBM | Joseph Santarcangelo +3 |
 | | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Beg. | 19 | | | | | |
