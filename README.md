@@ -17,9 +17,7 @@
 | | &nbsp;&nbsp;· [Smart Contracts](https://www.coursera.org/learn/smarter-contracts) | Itm. | 17 | | | | | |
 | | &nbsp;&nbsp;· [Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain) | Itm. | 18 | | | | | |
 | | &nbsp;&nbsp;· [Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms) | Itm. | 16 | | | | | |
-| Special. | [Data Science Foundations: Data Structures and Algorithms](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Adv. | 106 | ○ | × | Python | University of Colorado Boulder | Sriram 
-
-Sankaranaraya |
+| Special. | [Data Science Foundations: Data Structures and Algorithms](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Adv. | 106 | ○ | × | Python | University of Colorado Boulder | Sriram Sankaranaraya |
 | | &nbsp;&nbsp;· [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing) | Itm. | 34 | | | | | |
 | | &nbsp;&nbsp;· [Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics) | Adv. | 34 | | | | | |
 | | &nbsp;&nbsp;· [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms) | Adv. | 38 | | | | | |
@@ -62,12 +60,8 @@ Sankaranaraya |
 | | &nbsp;&nbsp;· [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods) | Itm. | 8 | | | | | |
 | | &nbsp;&nbsp;· [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency) | Itm. | 9 | | | | | |
 | Course | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Beg. | 14 | × | × | OpenCV | HSE University | Andrey Savchenko +3 |
-| Course | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Assembly | Hebrew University of Jerusalem | Shimon 
-
-Schocken +1 |
-| Course | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Assembly | Hebrew University of Jerusalem | Shimon 
-
-Schocken |
+| Course | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Assembly | Hebrew University of Jerusalem | Shimon Schocken +1 |
+| Course | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Assembly | Hebrew University of Jerusalem | Shimon Schocken |
 | Course | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Beg. | 105 | ○ | × | C C++ | Moscow Institute of Physics and Technology | Oleg Hristenko +2 |
 | Course | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Any Language | Saint Petersburg State University | Alexander S. Kulikov +3 |
 | Course | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | Java | University of California San Diego | Christine Alvarado +2 |
