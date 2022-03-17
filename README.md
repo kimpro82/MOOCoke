@@ -8,7 +8,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 (Special.: Specialization / Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Product | Title | Language | Level | Hours | Plus | Korean | Partner | Instructor |
-|:-:|:-:|:-:|:-:|--:|:-:|:-:|:-:|:-:|
+|:-:|:--|:-:|:-:|--:|:-:|:-:|:-:|:-:|
 | Special. | [Applied Data Science](https://www.coursera.org/specializations/applied-data-science) | Python | Bgn. | 69 | × | ○ | IBM | Joseph Santarcangelo +3 |
 | | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | | Bgn. | 19 | | | | |
 | | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | | Itm. | 7 | | | | |
