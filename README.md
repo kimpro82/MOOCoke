@@ -79,8 +79,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | OpenCV | Bgn. | 14 | × | × | HSE University |
 | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | Assembly | - | 44 | ○ | × | Hebrew University of Jerusalem |
 | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | Assembly | - | 90 | ○ | × | Hebrew University of Jerusalem |
-| [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | C C++ | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
-| [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Any Language | Itm. | 32 | × | × | Saint Petersburg State University |
+| [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | C/C++ | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
+| [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Anything | Itm. | 32 | × | × | Saint Petersburg State University |
 | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Java | Itm. | 42 | ○ | ○ | University of California San Diego |
 | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Julia | Bgn. | 18 | ○ | × | University of Cape Town |
 | [Machine Learning](https://www.coursera.org/learn/machine-learning) | MATLAB Octave | - | 61 | × | × | Stanford University |
