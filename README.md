@@ -4,10 +4,10 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ## \<List>
 
-- [Coursera / Specialization : Development]()
-- [Coursera / Specialization : Finance]()
-- [Coursera / Course]()
-- [Coursera / Guided Project]()
+- [Coursera / Specialization : Development](#coursera--specialization--development)
+- [Coursera / Specialization : Finance](#coursera--specialization--finance)
+- [Coursera / Course](#coursera--course)
+- [Coursera / Guided Project](#coursera--guided-project)
 
 
 ## [Coursera / Specialization : Development](#list)
@@ -115,7 +115,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
-| R Git | [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | Johns Hopkins University |
 | Anything | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 
 
