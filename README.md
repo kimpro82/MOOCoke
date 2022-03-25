@@ -6,16 +6,14 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 ## List
 
 ### \<Coursera>
-
-&nbsp;&nbsp;- [Specialization : Development](#coursera--specialization--development)  
-&nbsp;&nbsp;- [Specialization : Data Science](#coursera--specialization--data-science)  
-&nbsp;&nbsp;- [Specialization : Finance](#coursera--specialization--finance)  
-&nbsp;&nbsp;- [Course](#coursera--course)  
-&nbsp;&nbsp;- [Guided Project](#coursera--guided-project)
+  - [Specialization : Development](#coursera--specialization--development)
+  - [Specialization : Data Science](#coursera--specialization--data-science)
+  - [Specialization : Finance](#coursera--specialization--finance)
+  - [Course](#coursera--course)
+  - [Guided Project](#coursera--guided-project)
 
 ### \<Sololearn>
-
-&nbsp;&nbsp;- [Course](#sololearn--course)
+  - [Course](#sololearn--course)
 
 
 ## [Coursera / Specialization : Development](#list)
