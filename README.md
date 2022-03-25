@@ -125,3 +125,18 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
 | Git | [Introduction to Github and Visual Studio Code](https://www.coursera.org/projects/github-visual-studio-code-desktop) | Bgn. | 1 | ○ | × | Coursera Project Network |
+
+
+## [Sololearn](#list)
+
+| Subject | Title | Code Project |
+|:-:|:--|:-:|
+| C | [C](https://www.sololearn.com/learning/1089) | × |
+| C++ | [C++](https://www.sololearn.com/learning/1051) | ○ |
+| C# | [C#](https://www.sololearn.com/learning/1080) | ○ |
+| Python | [Python Core](https://www.sololearn.com/learning/1073) | ○ |
+| | [Python for Beginners](https://www.sololearn.com/learning/1157) | ○ |
+| | [Python for Data Science](https://www.sololearn.com/learning/1161) | ○ |
+| | [Python for Fice](https://www.sololearn.com/learning/1139) | × |
+| | [Intermediate Python](https://www.sololearn.com/learning/1158) | ○ |
+| | [Python Data Structures](https://www.sololearn.com/learning/1159) | ○ |
