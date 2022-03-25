@@ -8,7 +8,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 - [Coursera / Specialization : Finance](#coursera--specialization--finance)
 - [Coursera / Course](#coursera--course)
 - [Coursera / Guided Project](#coursera--guided-project)
-
+- [Sololearn / Course](#sololearn--course)
 
 ## [Coursera / Specialization : Development](#list)
 
@@ -127,16 +127,36 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Git | [Introduction to Github and Visual Studio Code](https://www.coursera.org/projects/github-visual-studio-code-desktop) | Bgn. | 1 | ○ | × | Coursera Project Network |
 
 
-## [Sololearn](#list)
+## [Sololearn / Course](#list)
 
-| Subject | Title | Code Project |
-|:-:|:--|:-:|
-| C | [C](https://www.sololearn.com/learning/1089) | × |
-| C++ | [C++](https://www.sololearn.com/learning/1051) | ○ |
-| C# | [C#](https://www.sololearn.com/learning/1080) | ○ |
-| Python | [Python Core](https://www.sololearn.com/learning/1073) | ○ |
-| | [Python for Beginners](https://www.sololearn.com/learning/1157) | ○ |
-| | [Python for Data Science](https://www.sololearn.com/learning/1161) | ○ |
-| | [Python for Fice](https://www.sololearn.com/learning/1139) | × |
-| | [Intermediate Python](https://www.sololearn.com/learning/1158) | ○ |
-| | [Python Data Structures](https://www.sololearn.com/learning/1159) | ○ |
+| Subject | Title | Lessons | Code Project |
+|:-:|:--|--:|:-:|
+| C | [C](https://www.sololearn.com/learning/1089) | 46 | × |
+| C++ | [C++](https://www.sololearn.com/learning/1051) | 87 | ○ |
+| C# | [C#](https://www.sololearn.com/learning/1080) | 81 | ○ |
+| Data Science | [Data Science](https://www.sololearn.com/learning/1093) | 41 | ○ |
+| | [Machine Learning](https://www.sololearn.com/learning/1094) | 54 | ○ |
+| Go | [Go](https://www.sololearn.com/learning/1164) | 44 | ○ |
+| Java | [Java](https://www.sololearn.com/learning/1068) | 71 | ○ |
+| Kotlin | [Kotlin](https://www.sololearn.com/learning/1160) | 34 | ○ |
+| Python | [Python Core](https://www.sololearn.com/learning/1073) | 103 | ○ |
+| | [Python for Beginners](https://www.sololearn.com/learning/1157) | 45 | ○ |
+| | [Intermediate Python](https://www.sololearn.com/learning/1158) | 39 | ○ |
+| | [Python Data Structures](https://www.sololearn.com/learning/1159) | 28 | ○ |
+| | [Python for Data Science](https://www.sololearn.com/learning/1161) | 27 | ○ |
+| | [Python for Fice](https://www.sololearn.com/learning/1139) | 27 | × |
+| R | [R](https://www.sololearn.com/learning/1147) | 41 | ○ |
+| Ruby | [Ruby](https://www.sololearn.com/learning/1081) | 57 | × |
+| SQL | [SQL](https://www.sololearn.com/learning/1060) | 30 | ○ |
+| Swift | [Swift 4](https://www.sololearn.com/learning/1075) | 53 | × |
+| Web | [Web Development Fundamentals](https://www.sololearn.com/learning/1141) | 35 | × |
+| | [HTML](https://www.sololearn.com/learning/1014) | 44 | × |
+| | [CSS](https://www.sololearn.com/learning/1023) | 76 | × |
+| | [JavaScript](https://www.sololearn.com/learning/1024) | 65 | ○ |
+| | [Responsive Web Design](https://www.sololearn.com/learning/1162) | 21 | × |
+| | [jQuery](https://www.sololearn.com/learning/1082) | 26 | × |
+| | [React + Redux](https://www.sololearn.com/learning/1097) | 23 | × |
+| | [Angular + NestJS](https://www.sololearn.com/learning/1092) | 45 | × |
+| | [PHP](https://www.sololearn.com/learning/1059) | 51 | × |
+| | [Game Development with JS](https://www.sololearn.com/learning/1140) | 24 | × |
+| | [Coding for Marketers](https://www.sololearn.com/learning/1165) | 25 | × |
