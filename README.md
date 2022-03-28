@@ -121,15 +121,15 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
 | Assembly | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Hebrew University of Jerusalem |
-| Assembly | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
+| | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
 | Bash | [The Unix Workbench](https://www.coursera.org/learn/unix) | Bgn. | 19 | ○ | × | Johns Hopkins University |
-| C/C++ | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
+| Competitive Programming | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
+| | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 | Git | [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | ○ | × | Google |
 | Java | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | University of California San Diego |
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
-| Anything | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 
 
 ## [Coursera / Guided Project](#list)
