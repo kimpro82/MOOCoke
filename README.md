@@ -121,24 +121,45 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
 | Assembly | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Hebrew University of Jerusalem |
-| Assembly | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
+| | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
 | Bash | [The Unix Workbench](https://www.coursera.org/learn/unix) | Bgn. | 19 | ○ | × | Johns Hopkins University |
-| C/C++ | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
+| Competitive Programming | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
+| | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 | Git | [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | ○ | × | Google |
 | Java | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | University of California San Diego |
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
-| Anything | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 
 
 ## [Coursera / Guided Project](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
+| Subject | Title | Level | Hours | Plus | Korean | Note |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Git | [Introduction to Github and Visual Studio Code](https://www.coursera.org/projects/github-visual-studio-code-desktop) | Bgn. | 1 | ○ | × | Coursera Project Network |
+| AI / Analytics | [Creating a Wordcloud using NLP and TF-IDF in Python](https://www.coursera.org/projects/wordcloud-nlp-tfidf-python) | Bgn. | 1.5 | ○ | × | |
+| | [Introduction to Sentiment Analysis in R with quanteda](https://www.coursera.org/projects/sentiment-analysis-in-r-with-quanteda) | Bgn. | 2 | ○ | × | |
+| | [Machine Learning Pipelines with Azure ML Studio](https://www.coursera.org/projects/azure-machine-learning-studio-pipeline) | Bgn. | 2 | ○ | × | |
+| | [NLP: Twitter Sentiment Analysis](https://www.coursera.org/projects/twitter-sentiment-analysis) | Bgn. | 2 | ○ | × | |
+| | [Segment your market using factor analysis with R programming](https://www.coursera.org/projects/segment-your-market-using-factor-analysis-with-r-programming) | Adv. | 2 | ○ | × | Deprecated |
+| | [TensorFlow for AI: Get to Know Tensorflow](https://www.coursera.org/projects/tensorflow-for-ai-get-to-know-tensorflow) | Itm. | 1.5 | ○ | × | |
+| Block Chain | [Cryptocurrency Data Visualization using Plotly Express](https://www.coursera.org/projects/cryptocurrency-data-visualization-using-plotly-express) | Bgn. | 1 | ○ | × | Deprecated |
+| | [Introduction to Ethereum DeFi Smart Contract Security & Exploits](https://www.coursera.org/projects/ethereum-smart-contract-security-exploits) | Itm. | 2 | ○ | × | Deprecated |
+| Development | [Automation Scripts Using Bash](https://www.coursera.org/projects/auto-scripts-bash) | Itm. | 2 | ○ | × | |
+| | [Build a Python GUI with Tkinter](https://www.coursera.org/projects/build-a-python-gui-with-tkinter) | Itm. | 1 | ○ | × | |
+| | [Introduction to Bash Shell Scripting](https://www.coursera.org/projects/introduction-to-bash-shell-scripting) | Bgn. | 1 | ○ | × | |
+| | [Introduction to Github and Visual Studio Code](https://www.coursera.org/projects/github-visual-studio-code-desktop) | Bgn. | 1 | ○ | × | |
+| Investment | [Analyze Stock Data using R and Quantmod Package](https://www.coursera.org/projects/analyze-stock-data-using-r-quantmod) | Bgn. | 2 | ○ | × | |
+| | [Build a day trading journal with Google sheets for beginners](https://www.coursera.org/projects/day-trading-stocks-google-sheets) | Bgn. | 1 | ○ | × | |
+| | [Create a Buy Signal using RSI in R with the Quantmod Package](https://www.coursera.org/projects/create-rsi-buy-signal-using-r) | Bgn. | 2 | ○ | × | |
+| | [Create Technical Stock Charts Using R and Quantmod](https://www.coursera.org/projects/create-technical-stock-charts-r-quantmod) | Bgn. | 2 | ○ | × | |
+| | [Screening Stocks for Investment](https://www.coursera.org/projects/screening-stocks-investment) | Itm. | 1 | ○ | × | Deprecated |
+| | [Stock Analysis: Create a Buy Signal Filter using R and the Quantmod Package](https://www.coursera.org/projects/create-buy-signal-filter-using-r-quantmod-package) | Bgn. | 2 | ○ | × | |
+| ETC | [Build a Full Website using WordPress](https://www.coursera.org/projects/build-a-full-website-using-wordpress) | Adv. | 2 | ○ | × | |
+| | [Compose and Program Music in Python using Earsketch](https://www.coursera.org/projects/compose-program-music-in-python-using-earsketch) | Bgn. | 2 | ○ | × | |
+| | [Introduction to PowerBI](https://www.coursera.org/projects/introduction-to-power-bi) | Bgn. | 2 | ○ | × | Deprecated |
+| | [Utilize LinkedIn for Career Search](https://www.coursera.org/projects/utilize-linkedin-for-career-search) | Itm. | 2 | ○ | × | |
 
 
 ## [Sololearn / Course](#list)
