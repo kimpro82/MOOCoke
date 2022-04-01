@@ -12,8 +12,9 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Course](#coursera--course)
   - [Guided Project](#coursera--guided-project)
 
-### \<Sololearn>
-  - [Course](#sololearn--course)
+### \<Others>
+  - [Sololearn Course](#sololearn--course)
+  - [Elice Academy / Free Course](#elice-academy--free-course)
 
 
 ## [Coursera / Specialization : Development](#list)
@@ -195,3 +196,44 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [PHP](https://www.sololearn.com/learning/1059) | 51 | × |
 | | [Game Development with JS](https://www.sololearn.com/learning/1140) | 24 | × |
 | | [Coding for Marketers](https://www.sololearn.com/learning/1165) | 25 | × |
+
+
+## [Elice Academy / Free Course](#list)
+
+| Subject | Title | Level | Problems |
+|:-:|:--|:-:|:-:|
+| C | [Do it! C언어 입문](https://academy.elice.io/courses/18909) | 입문 | 109 |
+| | [모두의 C언어](https://academy.elice.io/courses/18876) | 입문 | 133 |
+| | [혼자 공부하는 C언어](https://academy.elice.io/courses/18898) | 입문 | 157 |
+| Java | [Do it! 첫 코딩](https://academy.elice.io/courses/18865) | 입문 | 21 |
+| | [생활코딩! 자바 프로그래밍 입문](https://academy.elice.io/courses/19967) | 입문 | 101 |
+| | [Do it! 자바 프로그래밍 입문](https://academy.elice.io/courses/18835) | 입문 | 248 |
+| Python | [모두의 파이썬](https://academy.elice.io/courses/18895) | 입문 | 49 |
+| | [Do it! 첫 파이썬](https://academy.elice.io/courses/18873) | 입문 | 60 |
+| | [혼자 공부하는 첫 프로그래밍 with 파이썬](https://academy.elice.io/courses/18891) | 입문 | 88 |
+| | [똑똑한 파이썬](https://academy.elice.io/courses/18950) | 입문 | 99 |
+| | [Do it! 파이썬 생활 프로그래밍](https://academy.elice.io/courses/18893) | 입문 | 111 |
+| | [프로그래밍 PYTHON](https://academy.elice.io/courses/21468) | 입문 | 118 |
+| | [혼자 공부하는 파이썬](https://academy.elice.io/courses/18859) | 입문 | 174 |
+| | [시간순삭 파이썬](https://academy.elice.io/courses/18946) | 입문 | 184 |
+| | [따라하며 배우는 파이썬과 데이터 과학](https://academy.elice.io/courses/18864) | 입문 | 236 |
+| | [예제 중심 파이썬 입문](https://academy.elice.io/courses/18945) | 초급 | 227 |
+| Scratch | [모두의 스크래치](https://academy.elice.io/courses/18821) | 입문 | 134 |
+| 데이터 분석 | [파이썬으로 데이터 주무르기](https://academy.elice.io/courses/18836) | 입문 | 91 |
+| | [Do it! 쉽게 배우는 R 데이터 분석](https://academy.elice.io/courses/18863) | 입문 | 104 |
+| | [모두의 데이터 분석 with 파이썬](https://academy.elice.io/courses/18829) | 초급 | 59 |
+| 알고리즘 | [체셔의 퀴즈](https://academy.elice.io/courses/18914) | - | - |
+| | [모두의 스크래치 알고리즘](https://academy.elice.io/courses/18900) | 초급 | 34 |
+| | [모두의 알고리즘 with 파이썬](https://academy.elice.io/courses/18828) | 초급 | 47 |
+| | [파이썬 알고리즘](https://academy.elice.io/courses/18858) | - | 76 |
+| 웹 | [Do it! HTML5+CSS3 웹 표준의 정석](https://academy.elice.io/courses/18908) | 입문 | 92 |
+| | [생활코딩! HTML + CSS + 자바스크립트](https://academy.elice.io/courses/19968) | 입문 | 140 |
+| | [Do it! 자바스크립트+제이쿼리 입문](https://academy.elice.io/courses/18890) | 입문 | 155 |
+| | [Do it! HTML + CSS + 자바스크립트 웹 표준의 정석](https://academy.elice.io/courses/18881) | 입문 | 217 |
+| | [Do it! 장고+부트스트랩](https://academy.elice.io/courses/18877) | 초급 | 141 |
+| 인공지능 | [모두의 딥러닝](https://academy.elice.io/courses/18841) | 초급 | 32 |
+| | [혼자 공부하는 머신러닝+딥러닝](https://academy.elice.io/courses/18879) | 초급 | 93 |
+| | [Do it! 딥러닝 입문](https://academy.elice.io/courses/18913) | 고급 | 46 |
+| 챌린지 | [Java 레벨 테스트](https://academy.elice.io/courses/18878) | 입문 | 20 |
+| | [파이썬 레벨 테스트](https://academy.elice.io/courses/18831) | 초급 | 30 |
+| | [주간 알고리즘](https://academy.elice.io/courses/18888) | - | - |
