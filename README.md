@@ -6,7 +6,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 ## List
 
 ### \<Coursera>
-  - [Master's Degree]()
+  - [Master's Degree](#coursera--masters-degree)
   - [Specialization : Development](#coursera--specialization--development)
   - [Specialization : Data Science](#coursera--specialization--data-science)
   - [Specialization : Finance](#coursera--specialization--finance)
@@ -32,6 +32,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | Imperial College London | [Master of Science in Machine Learning and Data Science](https://www.coursera.org/degrees/msc-machine-learning-imperial) | 30 | 24 | 36 | 3.75 | IELTS 7.0 | |
 | Electrical Engineering | University of Colorado Boulder | [Master of Science in Electrical Engineering](https://www.coursera.org/degrees/msee-boulder) | 20.01 | 24 | 30 | - | - | No Letters of Recommendation |
 | Business Analytics | O.P. Jindal Global University | [MBA in Business Analytics](https://www.coursera.org/degrees/mba-business-analytics-jgu) | 705 | 24-36 | 80 | ? | ? | |
+
+\* Credits : It regarded as 3 credits per a course it there is no information.
 
 
 ## [Coursera / Specialization : Development](#list)
