@@ -22,16 +22,16 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
-| Subject | Partner | Title | Total Cost (1K USD) | Months | Credits* | GPA | TOEFL (IBT) |
+| Subject | Partner | Title | Total Cost (USD) | Months | Credits* | GPA | TOEFL (IBT) |
 |:-:|:-:|:--|--:|:-:|--:|:-:|:-:|
-| Computer Science | Arizona State University | [Online Master of Computer Science](https://www.coursera.org/degrees/master-of-computer-science-asu) | 15 | 18-36 | 30 | 3.0 | 90 |
-| | University of Illinois | [Master of Computer Science (Featuring Data Science Track)](https://www.coursera.org/degrees/master-of-computer-science-illinois) | 21.44 | 12-36 | 32 | 3.2 | 103 |
-| | University of Pennsylvania | [Master of Computer and Information Technology](https://www.coursera.org/degrees/mcit-penn) | 32.14 | 16-40 | 30 | 3.0 | 100 |
-| Data Science | University of Colorado Boulder | [Master of Science in Data Science](https://www.coursera.org/degrees/master-of-science-data-science-boulder) | 20.01 | 24 | 30 | - | - |
-| | University of Michigan | [Master of Applied Data Science](https://www.coursera.org/degrees/master-of-applied-data-science-umich) | 43.894 | 12-36 | 34 | ? | 100 |
-| | Imperial College London | [Master of Science in Machine Learning and Data Science](https://www.coursera.org/degrees/msc-machine-learning-imperial) | 30 | 24 | 36 | 3.75 | IELTS 7.0 |
-| Electrical Engineering | University of Colorado Boulder | [Master of Science in Electrical Engineering](https://www.coursera.org/degrees/msee-boulder) | 20.01 | 24 | 30 | - | - |
-| Business Analytics | O.P. Jindal Global University | [MBA in Business Analytics](https://www.coursera.org/degrees/mba-business-analytics-jgu) | 705 | 24-36 | 80 | ? | ? |
+| Computer Science | Arizona State University | [Online Master of Computer Science](https://www.coursera.org/degrees/master-of-computer-science-asu) | 15,000 | 18-36 | 30 | 3.0 | 90 |
+| | University of Illinois | [Master of Computer Science (Featuring Data Science Track)](https://www.coursera.org/degrees/master-of-computer-science-illinois) | 21,440 | 12-36 | 32 | 3.2 | 103 |
+| | University of Pennsylvania | [Master of Computer and Information Technology](https://www.coursera.org/degrees/mcit-penn) | 32,140 | 16-40 | 30 | 3.0 | 100 |
+| Data Science | University of Colorado Boulder | [Master of Science in Data Science](https://www.coursera.org/degrees/master-of-science-data-science-boulder) | 20,010 | 24 | 30 | - | - |
+| | University of Michigan | [Master of Applied Data Science](https://www.coursera.org/degrees/master-of-applied-data-science-umich) | 43,894 | 12-36 | 34 | ? | 100 |
+| | Imperial College London | [Master of Science in Machine Learning and Data Science](https://www.coursera.org/degrees/msc-machine-learning-imperial) | 30,000 | 24 | 36 | 3.75 | IELTS 7.0 |
+| Electrical Engineering | University of Colorado Boulder | [Master of Science in Electrical Engineering](https://www.coursera.org/degrees/msee-boulder) | 20,010 | 24 | 30 | - | - |
+| Business Analytics | O.P. Jindal Global University | [MBA in Business Analytics](https://www.coursera.org/degrees/mba-business-analytics-jgu) | 7,050 | 24-36 | 80 | ? | ? |
 
 \* Credits : It regarded as 3 credits per a course it there is no information.
 
