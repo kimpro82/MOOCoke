@@ -23,7 +23,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Subject | Partner | Title | Total Cost (1K USD) | Months | Credits* | GPA | TOEFL (IBT) |
-|:-:|:-:|:--|--:|:-:|--:|:-:|:-:|:-:|
+|:-:|:-:|:--|--:|:-:|--:|:-:|:-:|
 | Computer Science | Arizona State University | [Online Master of Computer Science](https://www.coursera.org/degrees/master-of-computer-science-asu) | 15 | 18-36 | 30 | 3.0 | 90 |
 | | University of Illinois | [Master of Computer Science (Featuring Data Science Track)](https://www.coursera.org/degrees/master-of-computer-science-illinois) | 21.44 | 12-36 | 32 | 3.2 | 103 |
 | | University of Pennsylvania | [Master of Computer and Information Technology](https://www.coursera.org/degrees/mcit-penn) | 32.14 | 16-40 | 30 | 3.0 | 100 |
