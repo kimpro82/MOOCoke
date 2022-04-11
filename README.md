@@ -5,8 +5,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ## List
 
+### \<Master's Degree>
+  - [Coursera](#coursera--masters-degree)
+  - [Edx](#edx--masters-degree)
+
 ### \<Coursera>
-  - [Master's Degree](#coursera--masters-degree)
   - [Specialization : Development](#coursera--specialization--development)
   - [Specialization : Data Science](#coursera--specialization--data-science)
   - [Specialization : Finance](#coursera--specialization--finance)
@@ -20,8 +23,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ## [Coursera / Master's Degree](#list)
 
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
 | Subject | Partner | Title | Total Cost (USD) | Months | Credits* | GPA | TOEFL (IBT) |
 |:-:|:-:|:--|:-:|:-:|:-:|:-:|:-:|
 | Computer Science | Arizona State University | [Online Master of Computer Science](https://www.coursera.org/degrees/master-of-computer-science-asu) | 15,000 | 18-36 | 30 | 3.0 | 90 |
@@ -32,6 +33,18 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | Imperial College London | [Master of Science in Machine Learning and Data Science](https://www.coursera.org/degrees/msc-machine-learning-imperial) | 30,000 | 24 | 36 | 3.75 | IELTS 7.0 |
 | Electrical Engineering | University of Colorado Boulder | [Master of Science in Electrical Engineering](https://www.coursera.org/degrees/msee-boulder) | 20,010 | 24 | 30 | - | - |
 | Business Analytics | O.P. Jindal Global University | [MBA in Business Analytics](https://www.coursera.org/degrees/mba-business-analytics-jgu) | 7,050 | 24-36 | 80 | ? | ? |
+
+\* Credits : It regarded as 3 credits per a course it there is no information.
+
+
+## [Edx / Master's Degree](#list)
+
+| Subject | Partner | Title | Tuition (USD) | Months | Credits* | GPA | TOEFL (IBT) |
+|:-:|:-:|:--|--:|:-:|--:|--:|--:|
+| Computer Science | University of Texas at Austin | [Master’s Degree in Computer Science](https://www.edx.org/masters/online-master-science-computer-science-utaustinx) | 10000 | 18-36 | 30 | 3 | 79 |
+| | Georgia Tech | [Master of Science in Computer Science](https://omscs.gatech.edu/explore-oms-cs) | 9900 | 12-36 | 36 | 3 | 100 |
+| Data Science | University of Texas at Austin | [Master’s Degree in Data Science](https://www.edx.org/masters/online-master-data-science-utaustinx) | 10000 | 18-36 | 30 | 3 | 79 |
+| Analytics | Georgia Tech | [Master’s Degree in Analytics](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | 9900 | 12-36 | 36 | 3 | 100 |
 
 \* Credits : It regarded as 3 credits per a course it there is no information.
 
