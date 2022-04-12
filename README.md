@@ -40,12 +40,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 ## [Master's Degree / Edx](#list)
 
 | Subject | Partner | Title | Tuition (USD) | Months | Credits* | GPA | TOEFL (IBT) |
-|:-:|:-:|:--|--:|:-:|--:|--:|--:|
-| Computer Science | University of Texas at Austin | [Master’s Degree in Computer Science](https://www.edx.org/masters/online-master-science-computer-science-utaustinx) | 10,000 | 18-36 | 30 | 3 | 79 |
-| | Georgia Tech | [Master of Science in Computer Science](https://omscs.gatech.edu/explore-oms-cs) | 9,900 | 12-36 | 36 | 3 | 100 |
-| Cybersecurity | Georgia Tech | [Master’s Degree in Cybersecurity](https://www.edx.org/masters/online-master-science-cybersecurity-georgia-tech) | 9,920 | 24-36 | 30 | 3 | 100 |
-| Data Science | University of Texas at Austin | [Master’s Degree in Data Science](https://www.edx.org/masters/online-master-data-science-utaustinx) | 10,000 | 18-36 | 30 | 3 | 79 |
-| Analytics | Georgia Tech | [Master’s Degree in Analytics](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | 9,900 | 12-36 | 36 | 3 | 100 |
+|:-:|:-:|:--|:-:|:-:|:-:|:-:|:-:|
+| Computer Science | University of Texas at Austin | [Master’s Degree in Computer Science](https://www.edx.org/masters/online-master-science-computer-science-utaustinx) | 10,000 | 18-36 | 30 | 3.0 | 79 |
+| | Georgia Tech | [Master of Science in Computer Science](https://omscs.gatech.edu/explore-oms-cs) | 9,900 | 12-36 | 36 | 3.0 | 100 |
+| Cybersecurity | Georgia Tech | [Master’s Degree in Cybersecurity](https://www.edx.org/masters/online-master-science-cybersecurity-georgia-tech) | 9,920 | 24-36 | 30 | 3.0 | 100 |
+| Data Science | University of Texas at Austin | [Master’s Degree in Data Science](https://www.edx.org/masters/online-master-data-science-utaustinx) | 10,000 | 18-36 | 30 | 3.0 | 79 |
+| Analytics | Georgia Tech | [Master’s Degree in Analytics](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | 9,900 | 12-36 | 36 | 3.0 | 100 |
 
 \* Credits : It regarded as 3 credits per a course it there is no information.
 
