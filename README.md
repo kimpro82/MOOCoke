@@ -158,7 +158,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [World Design for Video Games](https://www.coursera.org/learn/video-game-world) | Bgn. | 8 | | | |
 | | &nbsp;&nbsp;· [Character Design for Video Games](https://www.coursera.org/learn/game-character-design) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [Game Design Document: Define the Art & Concepts](https://www.coursera.org/learn/game-design-document) | Itm. | 16 | | | |
-| Game Design | [Art for Games](https://www.coursera.org/specializations/art-for-games] | Bgn. | 47 | ○ | × | Michigan State University |
+| Game Design | [Art for Games](https://www.coursera.org/specializations/art-for-games) | Bgn. | 47 | ○ | × | Michigan State University |
 | | &nbsp;&nbsp;· [Pixel Art for Video Games](https://www.coursera.org/learn/pixel-art-video-games) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
 | | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
