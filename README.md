@@ -57,6 +57,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Blockchain Solidity | [**Blockchain**](https://www.coursera.org/specializations/blockchain) | Itm. | 67 | ○ | ○ | University at Buffalo +1 |
+| | &nbsp;&nbsp;· [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Smart Contracts](https://www.coursera.org/learn/smarter-contracts) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms) | Itm. | 16 | | | |
 | Golang | [**Programming with Google Go**](https://www.coursera.org/specializations/google-golang) | Itm. | 28 | ○ | × | University of California, Irvine |
 | | &nbsp;&nbsp;· [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | Itm. | 11 | | | |
 | | &nbsp;&nbsp;· [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods) | Itm. | 8 | | | |
@@ -79,11 +84,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Django: Introduction to Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-intro-drf) | Adv. | 9 | ○ | | |
 | | &nbsp;&nbsp;· [Advanced Django: Advanced Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-advanced-drf) | Adv. | 9 | ○ | | |
 | | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | ○ | | |
-| Solidity | [**Blockchain**](https://www.coursera.org/specializations/blockchain) | Itm. | 67 | ○ | ○ | University at Buffalo +1 |
-| | &nbsp;&nbsp;· [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) | Bgn. | 16 | | | |
-| | &nbsp;&nbsp;· [Smart Contracts](https://www.coursera.org/learn/smarter-contracts) | Itm. | 17 | | | |
-| | &nbsp;&nbsp;· [Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain) | Itm. | 18 | | | |
-| | &nbsp;&nbsp;· [Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms) | Itm. | 16 | | | |
+| Scala | [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
+| | &nbsp;&nbsp;· [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | Itm. | 56 | | | |
+| | &nbsp;&nbsp;· [Functional Program Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | Itm. | 35 | | | |
+| | &nbsp;&nbsp;· [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming) | Itm. | 33 | | | |
+| | &nbsp;&nbsp;· [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | Itm. | 28 | | | |
+| | &nbsp;&nbsp;· [Functional Programming in Scala Capstone](https://www.coursera.org/learn/scala-capstone) | - | 32 | | | |
 | VBA | [**Excel/VBA for Creative Problem Solving**](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) | Bgn. | 54 | ○ | × | University of Colorado Boulder |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2) | Itm. | 20 | | | |
@@ -200,6 +206,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
+| Racket | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
 
 
 ## [Coursera / Guided Project](#list)
