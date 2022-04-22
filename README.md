@@ -18,6 +18,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Guided Project](#coursera--guided-project)
 
 ### \<Others>
+  - [Edx / Professional Certificate & Course]()
   - [Sololearn / Course](#sololearn--course)
   - [Elice Academy / Free Course](#elice-academy--free-course)
 
@@ -238,6 +239,30 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [Introduction to PowerBI](https://www.coursera.org/projects/introduction-to-power-bi) | Bgn. | 2 | ○ | × | Deprecated |
 | | [Utilize LinkedIn for Career Search](https://www.coursera.org/projects/utilize-linkedin-for-career-search) | Itm. | 2 | ○ | × | |
 
+
+## [Edx / Professional Certificate & Course](#list)
+
+| Subject | Title | Level | Weeks | Payment($) | Koean | Partner | Note |
+|:-:|:--|:-:|--:|--:|:-:|:-:|:-:|
+| Java | [Data Structures and Algorithms](https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms) | Itm. | 20 | 596 | × | Georgia Institute of Technology | |
+| | &nbsp;&nbsp;· [Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/course/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) | Itm. | 5 | 149 | | | |
+| | &nbsp;&nbsp;· [Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/course/data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps) | Itm. | 5 | 149 | | | |
+| | &nbsp;&nbsp;· [Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/course/data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms) | Itm. | 5 | 149 | | | |
+| | &nbsp;&nbsp;· [Data Structures & Algorithms IV: Pattern Matching, Dijkstra's, MST, and Dynamic Programming Algorithms](https://www.edx.org/course/data-structures-algorithms-iv-pattern-matching-djikstras-mst-and-dynamic-programming-algorithms) | Itm. | 5 | 149 | | | |
+| Math | [Introductory Linear Algebra](https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra) | Itm. | 6 | 398 | × | Georgia Institute of Technology | |
+| | &nbsp;&nbsp;· [Linear Algebra I: Linear Equations](https://www.edx.org/course/linear-equations-part-1) | Itm. | 3 | 199 | | | |
+| | &nbsp;&nbsp;· [Linear Algebra II: Matrix Algebra](https://www.edx.org/course/matrix-algebra) | Itm. | 3 | 199 | | | |
+| Math | [Applications of Linear Algebra](https://www.edx.org/professional-certificate/gtx-applications-of-linear-algebra) | Itm. | 6 | 398 | × | Georgia Institute of Technology | |
+| | &nbsp;&nbsp;· [Linear Algebra III: Determits and Eigenvalues](https://www.edx.org/course/determits-and-eigenvalues) | Itm. | 3 | 199 | | | |
+| | &nbsp;&nbsp;· [Linear Algebra IV: Orthogonality & Symmetric Matrices and the SVD](https://www.edx.org/course/orthogonality-symmetric-matrices-and-the-svd) | Itm. | 3 | 199 | | | |
+| Math | [Probability/Random Variables](https://www.edx.org/professional-certificate/gtx-probability-random-variables) | Itm. | 7 | 398 | × | Georgia Institute of Technology | |
+| | &nbsp;&nbsp;· [Probability and Statistics I: A Gentle Introduction to Probability](https://www.edx.org/course/probability-and-statistics-i-a-gentle-introduction-to-probability) | Itm. | 3 | 199 | | | |
+| | &nbsp;&nbsp;· [Probability and Statistics II: Random Variables – Great Expectations to Bell Curves](https://www.edx.org/course/probability-and-statistics-ii-random-variables-great-expectations-to-bell-curves) | Itm. | 4 | 199 | | | |
+| Math | [Statistics, Confidence Intervals and Hypothesis Tests](https://www.edx.org/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests) | Itm. | 8 | 398 | × | Georgia Institute of Technology | |
+| | &nbsp;&nbsp;· [Probability and Statistics III: A Gentle Introduction to Statistics](https://www.edx.org/course/probability-and-statistics-iii-a-gentle-introduction-to-statistics) | Itm. | 4 | 199 | | | |
+| | &nbsp;&nbsp;· [Probability and Statistics IV: Confidence Intervals and Hypothesis Tests](https://www.edx.org/course/probability-and-statistics-iv-confidence-intervals-and-hypothesis-tests) | Itm. | 4 | 199 | | | |
+| C# | [Introduction to C#](https://learning.edx.org/course/course-v1:Microsoft+DEV204.1x+2T2018) | | | | × | Microsoft | Archived |
+| F# | [Programming in F#](https://learning.edx.org/course/course-v1:Microsoft+DEV207.1x+1T2016) | | | | × | Microsoft | Archived |
 
 ## [Sololearn / Course](#list)
 
