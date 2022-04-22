@@ -255,10 +255,10 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Math | [Applications of Linear Algebra](https://www.edx.org/professional-certificate/gtx-applications-of-linear-algebra) | Itm. | 6 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Linear Algebra III: Determits and Eigenvalues](https://www.edx.org/course/determits-and-eigenvalues) | Itm. | 3 | 199 | | | |
 | | &nbsp;&nbsp;· [Linear Algebra IV: Orthogonality & Symmetric Matrices and the SVD](https://www.edx.org/course/orthogonality-symmetric-matrices-and-the-svd) | Itm. | 3 | 199 | | | |
-| Math | [Probability/Random Variables](https://www.edx.org/professional-certificate/gtx-probability-random-variables) | Itm. | 7 | 398 | × | Georgia Institute of Technology | |
+| Statistics | [Probability/Random Variables](https://www.edx.org/professional-certificate/gtx-probability-random-variables) | Itm. | 7 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Probability and Statistics I: A Gentle Introduction to Probability](https://www.edx.org/course/probability-and-statistics-i-a-gentle-introduction-to-probability) | Itm. | 3 | 199 | | | |
 | | &nbsp;&nbsp;· [Probability and Statistics II: Random Variables – Great Expectations to Bell Curves](https://www.edx.org/course/probability-and-statistics-ii-random-variables-great-expectations-to-bell-curves) | Itm. | 4 | 199 | | | |
-| Math | [Statistics, Confidence Intervals and Hypothesis Tests](https://www.edx.org/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests) | Itm. | 8 | 398 | × | Georgia Institute of Technology | |
+| Statistics | [Statistics, Confidence Intervals and Hypothesis Tests](https://www.edx.org/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests) | Itm. | 8 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Probability and Statistics III: A Gentle Introduction to Statistics](https://www.edx.org/course/probability-and-statistics-iii-a-gentle-introduction-to-statistics) | Itm. | 4 | 199 | | | |
 | | &nbsp;&nbsp;· [Probability and Statistics IV: Confidence Intervals and Hypothesis Tests](https://www.edx.org/course/probability-and-statistics-iv-confidence-intervals-and-hypothesis-tests) | Itm. | 4 | 199 | | | |
 | C# | [Introduction to C#](https://learning.edx.org/course/course-v1:Microsoft+DEV204.1x+2T2018) | | | | × | Microsoft | Archived |
