@@ -18,7 +18,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Guided Project](#coursera--guided-project)
 
 ### \<Others>
-  - [Edx / Professional Certificate & Course]()
+  - [Edx / Professional Certificate & Course](#edx--professional-certificate--course)
   - [Sololearn / Course](#sololearn--course)
   - [Elice Academy / Free Course](#elice-academy--free-course)
 
