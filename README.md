@@ -11,7 +11,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ### \<Coursera>
   - [Specialization : Development - General](#coursera--specialization--development---general)
-  - [Specialization : Programming Language - C/C++]()
+  - [Specialization : Programming Language - C/C++](#specialization--programming-language---cc)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Data Science](#coursera--specialization--data-science)
   - [Specialization : Finance](#coursera--specialization--finance)
@@ -82,10 +82,10 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Django Features and Libraries](https://www.coursera.org/learn/django-features-libraries) | Itm. | 16 | | | |
 | | &nbsp;&nbsp;· [Using JavaScript, JQuery, and JSON in Django](https://www.coursera.org/learn/django-javascript-jquery-json) | Itm. | 19 | | | |
 | Python Django | [**Advanced Django: Mastering Django and Django Rest Framework**](https://www.coursera.org/specializations/codio-advanced-django-and-django-rest-framework) | Adv. | 37 | ○ | × | Codio |
-| | &nbsp;&nbsp;· [Advanced Django: Building a Blog](https://www.coursera.org/learn/codio-advanced-django-building-blog) | Adv. | 10 | ○ | | |
-| | &nbsp;&nbsp;· [Advanced Django: Introduction to Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-intro-drf) | Adv. | 9 | ○ | | |
-| | &nbsp;&nbsp;· [Advanced Django: Advanced Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-advanced-drf) | Adv. | 9 | ○ | | |
-| | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | ○ | | |
+| | &nbsp;&nbsp;· [Advanced Django: Building a Blog](https://www.coursera.org/learn/codio-advanced-django-building-blog) | Adv. | 10 | | | |
+| | &nbsp;&nbsp;· [Advanced Django: Introduction to Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-intro-drf) | Adv. | 9 | | | |
+| | &nbsp;&nbsp;· [Advanced Django: Advanced Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-advanced-drf) | Adv. | 9 | | | |
+| | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
 | Scala | [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
 | | &nbsp;&nbsp;· [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | Itm. | 56 | | | |
 | | &nbsp;&nbsp;· [Functional Program Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | Itm. | 35 | | | |
