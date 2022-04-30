@@ -77,7 +77,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing) | Itm. | 34 | | | |
 | | &nbsp;&nbsp;· [Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics) | Adv. | 34 | | | |
 | | &nbsp;&nbsp;· [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms) | Adv. | 38 | | | |
-| Scala | [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
+| Scala | [**Functional Programming in Scala**](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
 | | &nbsp;&nbsp;· [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | Itm. | 56 | | | |
 | | &nbsp;&nbsp;· [Functional Program Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | Itm. | 35 | | | |
 | | &nbsp;&nbsp;· [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming) | Itm. | 33 | | | |
@@ -158,29 +158,29 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Unity | [C# Programming for Unity Game Development](https://www.coursera.org/specializations/programming-unity-game-development) | Bgn. | 123 | ○ | × | University of Colorado System |
+| Unity | [**C# Programming for Unity Game Development**](https://www.coursera.org/specializations/programming-unity-game-development) | Bgn. | 123 | ○ | × | University of Colorado System |
 | | &nbsp;&nbsp;· [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity) | Bgn. | 19 | | | |
 | | &nbsp;&nbsp;· [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity) | Itm. | 22 | | | |
 | | &nbsp;&nbsp;· [C# Class Development](https://www.coursera.org/learn/csharp-class-development) | Itm. | 28 | | | |
 | | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games) | Itm. | 54 | | | |
-| Unity | [Game Design and Development with Unity 2020](https://www.coursera.org/specializations/game-design-and-development) | Bgn. | 71 | ○ | × | Michigan State University |
+| Unity | [**Game Design and Development with Unity 2020**](https://www.coursera.org/specializations/game-design-and-development) | Bgn. | 71 | ○ | × | Michigan State University |
 | | &nbsp;&nbsp;· [Game Design and Development 1: 2D Shooter](https://www.coursera.org/learn/game-design-and-development-1) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 2: 2D Platformer](https://www.coursera.org/learn/game-design-and-development-2) | Itm. | 12 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 3: 3D Shooter](https://www.coursera.org/learn/game-design-and-development-3) | Itm. | 14 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 4: 3D Platformer](https://www.coursera.org/learn/game-design-and-development-4) | Itm. | 13 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 5: Capstone Project](https://www.coursera.org/learn/game-design-and-development-5) | Itm. | 17 | | | |
-| Unreal | [C++ Programming for Unreal Game Development](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment) | Itm. | 72 | ○ | × | University of Colorado System |
+| Unreal | [**C++ Programming for Unreal Game Development**](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment) | Itm. | 72 | ○ | × | University of Colorado System |
 | | &nbsp;&nbsp;· [Introduction to C++ Programming and Unreal](https://www.coursera.org/learn/introductionprogrammingunreal) | Itm. | 20 | | | |
 | | &nbsp;&nbsp;· [More C++ Programming and Unreal](https://www.coursera.org/learn/more-programming-unreal) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [C++ Class Development](https://www.coursera.org/learn/cpp-class-development) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unreal Games](https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games) | Itm. | 16 | | | |
-| Game Design | [Game Design: Art and Concepts](https://www.coursera.org/specializations/game-design) | Bgn. | 51 | ○ | × | California Institute of the Arts |
+| Game Design | [**Game Design: Art and Concepts**](https://www.coursera.org/specializations/game-design) | Bgn. | 51 | ○ | × | California Institute of the Arts |
 | | &nbsp;&nbsp;· [Introduction to Game Design](https://www.coursera.org/learn/game-design) | Bgn. | 6 | | | |
 | | &nbsp;&nbsp;· [Story and Narrative Development for Video Games](https://www.coursera.org/learn/video-game-story) | Bgn. | 12 | | | |
 | | &nbsp;&nbsp;· [World Design for Video Games](https://www.coursera.org/learn/video-game-world) | Bgn. | 8 | | | |
 | | &nbsp;&nbsp;· [Character Design for Video Games](https://www.coursera.org/learn/game-character-design) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [Game Design Document: Define the Art & Concepts](https://www.coursera.org/learn/game-design-document) | Itm. | 16 | | | |
-| Game Design | [Art for Games](https://www.coursera.org/specializations/art-for-games) | Bgn. | 47 | ○ | × | Michigan State University |
+| Game Design | [**Art for Games**](https://www.coursera.org/specializations/art-for-games) | Bgn. | 47 | ○ | × | Michigan State University |
 | | &nbsp;&nbsp;· [Pixel Art for Video Games](https://www.coursera.org/learn/pixel-art-video-games) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
 | | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
