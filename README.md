@@ -100,19 +100,39 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Python | [Python for Everybody Specialization](https://www.coursera.org/specializations/python) | Bgn. | 81 | ○ | ○ | University of Michigan |
+| Python | [**Python for Everybody**](https://www.coursera.org/specializations/python) | Bgn. | 81 | ○ | ○ | University of Michigan |
 | | &nbsp;&nbsp;· [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) | - | 19 | | | |
 | | &nbsp;&nbsp;· [Python Data Structures](https://www.coursera.org/learn/python-data) | - | 19 | | | |
 | | &nbsp;&nbsp;· [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | - | 19 | | | |
 | | &nbsp;&nbsp;· [Using Databases with Python](https://www.coursera.org/learn/python-databases) | - | 15 | | | |
 | | &nbsp;&nbsp;· [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | - | 9 | | | |
-| Python | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | Bgn. | 121 | ○ | △ | University of Michigan |
+| Python | [**Python 3 Programming**](https://www.coursera.org/specializations/python-3-programming) | Bgn. | 121 | ○ | △ | University of Michigan |
 | | &nbsp;&nbsp;· [Python Basics](https://www.coursera.org/learn/python-basics) | Bgn. | 36 | | ○ | |
 | | &nbsp;&nbsp;· [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) | Bgn. | 31 | | ○ | |
 | | &nbsp;&nbsp;· [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python) | Itm. | 16 | | ○ | |
 | | &nbsp;&nbsp;· [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance) | Itm. | 18 | | × | |
 | | &nbsp;&nbsp;· [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) | Itm. | 20 | | × | |
-| Python Django | [**Django for Everybody Specialization**](https://www.coursera.org/specializations/django) | Itm. | 63 | ○ | × | University of Michigan |
+| Python | [**Programming in Python: A Hands-on Introduction**](https://www.coursera.org/specializations/hands-on-python) | Bgn. | 40 | ○ | × | Codio |
+| | &nbsp;&nbsp;· [Python Basics: Selection and Iteration](https://www.coursera.org/learn/codio-python-basics) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Python Basic Structures: Lists, Strings, and Files](https://www.coursera.org/learn/python-basic-structures-lists-strings-and-files) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Python Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/python-object-basics) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Object-Oriented Python: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-python) | Itm. | 10 | | | |
+| Python AWS NoSQL | [**Modern Application Development with Python on AWS**](https://www.coursera.org/specializations/aws-python-serverless-development) | Bgn. | 51 | ○ | × | Amazon Web Services |
+| | &nbsp;&nbsp;· [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Improve Your Python Code Using Amazon CodeGuru](https://www.coursera.org/learn/aws-improve-python-code-amazon-codeguru) | Itm. | 5 | | | |
+| Python Bash SQL | [**Python, Bash and SQL Essentials for Data Engineering**](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke) | Bgn. | 94 | ○ | × | Duke University |
+| | &nbsp;&nbsp;· [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke) | Bgn. | 38 | | | |
+| | &nbsp;&nbsp;· [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke) | Itm. | 15 | | | |
+| Python DevOps | [**Python Scripting for DevOps**](https://www.coursera.org/specializations/python-scripting-devops) | Bgn. | 59 | ○ | × | LearnQuest |
+| | &nbsp;&nbsp;· [Introduction to Python Scripting for DevOps](https://www.coursera.org/learn/python-scripting-intro) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Python Scripting: Dates, Classes and Collections](https://www.coursera.org/learn/python-scripting-dates-classes-collections) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Python Scripting: Files, Inheritance, and Databases](https://www.coursera.org/learn/python-scripting-files-inheritance-databases) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [DevOps and Build Automation with Python](https://www.coursera.org/learn/devops-build-automation-python) | Bgn. | 13 | | | |
+| Python Django | [**Django for Everybody**](https://www.coursera.org/specializations/django) | Itm. | 63 | ○ | × | University of Michigan |
 | | &nbsp;&nbsp;· [Web Application Technologies and Django](https://www.coursera.org/learn/django-database-web-apps) | Itm. | 15 | | | |
 | | &nbsp;&nbsp;· [Building Web Applications in Django](https://www.coursera.org/learn/django-build-web-apps) | Itm. | 13 | | | |
 | | &nbsp;&nbsp;· [Django Features and Libraries](https://www.coursera.org/learn/django-features-libraries) | Itm. | 16 | | | |
