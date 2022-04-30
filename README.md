@@ -130,22 +130,22 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| C | [Introductory C Programming Specialization](https://www.coursera.org/specializations/c-programming) | Bgn. | 82 | ○ | × | Duke University |
+| C | [**Introductory C Programming**](https://www.coursera.org/specializations/c-programming) | Bgn. | 82 | ○ | × | Duke University |
 | | &nbsp;&nbsp;· [Programming Fundamentals](https://www.coursera.org/learn/programming-fundamentals) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Writing, Running, and Fixing Code in C](https://www.coursera.org/learn/writing-running-fixing-code) | Bgn. | 20 | | | |
 | | &nbsp;&nbsp;· [Pointers, Arrays, and Recursion](https://www.coursera.org/learn/pointers-arrays-recursion) | Bgn. | 21 | | | |
 | | &nbsp;&nbsp;· [Interacting with the System and Managing Memory](https://www.coursera.org/learn/interacting-system-managing-memory) | Bgn. | 23 | | | |
-| C | [Computational Thinking with Beginning C Programming Specialization](https://www.coursera.org/specializations/computational-thinking-c-programming) | Bgn. | 54 | ○ | × | University of Colorado System |
+| C | [**Computational Thinking with Beginning C Programming**](https://www.coursera.org/specializations/computational-thinking-c-programming) | Bgn. | 54 | ○ | × | University of Colorado System |
 | | &nbsp;&nbsp;· [Algorithms, Data Collection, and Starting to Code](https://www.coursera.org/learn/algorithms-data-collection-code) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [Data Analysis and Representation, Selection and Iteration](https://www.coursera.org/learn/data-analysis-representation-selection-iteration) | Bgn. | 11 | | | |
 | | &nbsp;&nbsp;· [Abstraction, Problem Decomposition, and Functions](https://www.coursera.org/learn/abstraction-problem-decomposition-functions) | Bgn. | 17 | | | |
 | | &nbsp;&nbsp;· [Simulation, Algorithm Analysis, and Pointers](https://www.coursera.org/learn/simulation-algorithm-analysis-pointers) | Bgn. | 11 | | | |
-| C++ | [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/specializations/hands-on-cpp) | Bgn. | 36 | ○ | × | Codio |
+| C++ | [**Programming in C++: A Hands-on Introduction**](https://www.coursera.org/specializations/hands-on-cpp) | Bgn. | 36 | ○ | × | Codio |
 | | &nbsp;&nbsp;· [C++ Basics: Selection and Iteration](https://www.coursera.org/learn/codio-cpp-basics) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [C++ Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/cpp-object-basics) | Itm. | 9 | | | |
 | | &nbsp;&nbsp;· [Object-Oriented C++: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-cpp) | Itm. | 9 | | | |
-| C C++ | [Coding for Everyone: C and C++ Specialization](https://www.coursera.org/specializations/coding-for-everyone) | Bgn. | 53 | ○ | × | University of California, Santa Cruz |
+| C C++ | [**Coding for Everyone: C and C++**](https://www.coursera.org/specializations/coding-for-everyone) | Bgn. | 53 | ○ | × | University of California, Santa Cruz |
 | | &nbsp;&nbsp;· [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [C for Everyone: Structured Programming](https://www.coursera.org/learn/c-structured-programming) | Itm. | 10 | | | |
 | | &nbsp;&nbsp;· [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a) | - | 13 | | | |
