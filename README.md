@@ -11,6 +11,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ### \<Coursera>
   - [Specialization : Development - General](#coursera--specialization--development---general)
+  - [Specialization : Programming Language - Python](#specialization--programming-language---python)
   - [Specialization : Programming Language - C/C++](#specialization--programming-language---cc)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Data Science](#coursera--specialization--data-science)
@@ -76,17 +77,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing) | Itm. | 34 | | | |
 | | &nbsp;&nbsp;· [Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics) | Adv. | 34 | | | |
 | | &nbsp;&nbsp;· [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms) | Adv. | 38 | | | |
-| Python Django | [**Django for Everybody Specialization**](https://www.coursera.org/specializations/django) | Itm. | 63 | ○ | × | University of Michigan |
-| | &nbsp;&nbsp;· [Web Application Technologies and Django](https://www.coursera.org/learn/django-database-web-apps) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [Building Web Applications in Django](https://www.coursera.org/learn/django-build-web-apps) | Itm. | 13 | | | |
-| | &nbsp;&nbsp;· [Django Features and Libraries](https://www.coursera.org/learn/django-features-libraries) | Itm. | 16 | | | |
-| | &nbsp;&nbsp;· [Using JavaScript, JQuery, and JSON in Django](https://www.coursera.org/learn/django-javascript-jquery-json) | Itm. | 19 | | | |
-| Python Django | [**Advanced Django: Mastering Django and Django Rest Framework**](https://www.coursera.org/specializations/codio-advanced-django-and-django-rest-framework) | Adv. | 37 | ○ | × | Codio |
-| | &nbsp;&nbsp;· [Advanced Django: Building a Blog](https://www.coursera.org/learn/codio-advanced-django-building-blog) | Adv. | 10 | | | |
-| | &nbsp;&nbsp;· [Advanced Django: Introduction to Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-intro-drf) | Adv. | 9 | | | |
-| | &nbsp;&nbsp;· [Advanced Django: Advanced Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-advanced-drf) | Adv. | 9 | | | |
-| | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
-| Scala | [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
+| Scala | [**Functional Programming in Scala**](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
 | | &nbsp;&nbsp;· [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | Itm. | 56 | | | |
 | | &nbsp;&nbsp;· [Functional Program Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | Itm. | 35 | | | |
 | | &nbsp;&nbsp;· [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming) | Itm. | 33 | | | |
@@ -103,28 +94,78 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [FPGA Capstone: Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) | Itm. | 29 | | | |
 
 
+## [Specialization : Programming Language - Python](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Python | [**Python for Everybody**](https://www.coursera.org/specializations/python) | Bgn. | 81 | ○ | ○ | University of Michigan |
+| | &nbsp;&nbsp;· [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) | - | 19 | | | |
+| | &nbsp;&nbsp;· [Python Data Structures](https://www.coursera.org/learn/python-data) | - | 19 | | | |
+| | &nbsp;&nbsp;· [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | - | 19 | | | |
+| | &nbsp;&nbsp;· [Using Databases with Python](https://www.coursera.org/learn/python-databases) | - | 15 | | | |
+| | &nbsp;&nbsp;· [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | - | 9 | | | |
+| Python | [**Python 3 Programming**](https://www.coursera.org/specializations/python-3-programming) | Bgn. | 121 | ○ | △ | University of Michigan |
+| | &nbsp;&nbsp;· [Python Basics](https://www.coursera.org/learn/python-basics) | Bgn. | 36 | | ○ | |
+| | &nbsp;&nbsp;· [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) | Bgn. | 31 | | ○ | |
+| | &nbsp;&nbsp;· [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python) | Itm. | 16 | | ○ | |
+| | &nbsp;&nbsp;· [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance) | Itm. | 18 | | × | |
+| | &nbsp;&nbsp;· [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) | Itm. | 20 | | × | |
+| Python | [**Programming in Python: A Hands-on Introduction**](https://www.coursera.org/specializations/hands-on-python) | Bgn. | 40 | ○ | × | Codio |
+| | &nbsp;&nbsp;· [Python Basics: Selection and Iteration](https://www.coursera.org/learn/codio-python-basics) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Python Basic Structures: Lists, Strings, and Files](https://www.coursera.org/learn/python-basic-structures-lists-strings-and-files) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Python Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/python-object-basics) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Object-Oriented Python: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-python) | Itm. | 10 | | | |
+| Python AWS NoSQL | [**Modern Application Development with Python on AWS**](https://www.coursera.org/specializations/aws-python-serverless-development) | Bgn. | 51 | ○ | × | Amazon Web Services |
+| | &nbsp;&nbsp;· [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Improve Your Python Code Using Amazon CodeGuru](https://www.coursera.org/learn/aws-improve-python-code-amazon-codeguru) | Itm. | 5 | | | |
+| Python Bash SQL | [**Python, Bash and SQL Essentials for Data Engineering**](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke) | Bgn. | 94 | ○ | × | Duke University |
+| | &nbsp;&nbsp;· [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke) | Bgn. | 38 | | | |
+| | &nbsp;&nbsp;· [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Web Applications and Command-Line Tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke) | Itm. | 15 | | | |
+| Python DevOps | [**Python Scripting for DevOps**](https://www.coursera.org/specializations/python-scripting-devops) | Bgn. | 59 | ○ | × | LearnQuest |
+| | &nbsp;&nbsp;· [Introduction to Python Scripting for DevOps](https://www.coursera.org/learn/python-scripting-intro) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Python Scripting: Dates, Classes and Collections](https://www.coursera.org/learn/python-scripting-dates-classes-collections) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Python Scripting: Files, Inheritance, and Databases](https://www.coursera.org/learn/python-scripting-files-inheritance-databases) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [DevOps and Build Automation with Python](https://www.coursera.org/learn/devops-build-automation-python) | Bgn. | 13 | | | |
+| Python Django | [**Django for Everybody**](https://www.coursera.org/specializations/django) | Itm. | 63 | ○ | × | University of Michigan |
+| | &nbsp;&nbsp;· [Web Application Technologies and Django](https://www.coursera.org/learn/django-database-web-apps) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Building Web Applications in Django](https://www.coursera.org/learn/django-build-web-apps) | Itm. | 13 | | | |
+| | &nbsp;&nbsp;· [Django Features and Libraries](https://www.coursera.org/learn/django-features-libraries) | Itm. | 16 | | | |
+| | &nbsp;&nbsp;· [Using JavaScript, JQuery, and JSON in Django](https://www.coursera.org/learn/django-javascript-jquery-json) | Itm. | 19 | | | |
+| Python Django | [**Advanced Django: Mastering Django and Django Rest Framework**](https://www.coursera.org/specializations/codio-advanced-django-and-django-rest-framework) | Adv. | 37 | ○ | × | Codio |
+| | &nbsp;&nbsp;· [Advanced Django: Building a Blog](https://www.coursera.org/learn/codio-advanced-django-building-blog) | Adv. | 10 | | | |
+| | &nbsp;&nbsp;· [Advanced Django: Introduction to Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-intro-drf) | Adv. | 9 | | | |
+| | &nbsp;&nbsp;· [Advanced Django: Advanced Django Rest Framework](https://www.coursera.org/learn/codio-advanced-django-advanced-drf) | Adv. | 9 | | | |
+| | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
+
+
 ## [Specialization : Programming Language - C/C++](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| C | [Introductory C Programming Specialization](https://www.coursera.org/specializations/c-programming) | Bgn. | 82 | ○ | × | Duke University |
+| C | [**Introductory C Programming**](https://www.coursera.org/specializations/c-programming) | Bgn. | 82 | ○ | × | Duke University |
 | | &nbsp;&nbsp;· [Programming Fundamentals](https://www.coursera.org/learn/programming-fundamentals) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Writing, Running, and Fixing Code in C](https://www.coursera.org/learn/writing-running-fixing-code) | Bgn. | 20 | | | |
 | | &nbsp;&nbsp;· [Pointers, Arrays, and Recursion](https://www.coursera.org/learn/pointers-arrays-recursion) | Bgn. | 21 | | | |
 | | &nbsp;&nbsp;· [Interacting with the System and Managing Memory](https://www.coursera.org/learn/interacting-system-managing-memory) | Bgn. | 23 | | | |
-| C | [Computational Thinking with Beginning C Programming Specialization](https://www.coursera.org/specializations/computational-thinking-c-programming) | Bgn. | 54 | ○ | × | University of Colorado System |
+| C | [**Computational Thinking with Beginning C Programming**](https://www.coursera.org/specializations/computational-thinking-c-programming) | Bgn. | 54 | ○ | × | University of Colorado System |
 | | &nbsp;&nbsp;· [Algorithms, Data Collection, and Starting to Code](https://www.coursera.org/learn/algorithms-data-collection-code) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [Data Analysis and Representation, Selection and Iteration](https://www.coursera.org/learn/data-analysis-representation-selection-iteration) | Bgn. | 11 | | | |
 | | &nbsp;&nbsp;· [Abstraction, Problem Decomposition, and Functions](https://www.coursera.org/learn/abstraction-problem-decomposition-functions) | Bgn. | 17 | | | |
 | | &nbsp;&nbsp;· [Simulation, Algorithm Analysis, and Pointers](https://www.coursera.org/learn/simulation-algorithm-analysis-pointers) | Bgn. | 11 | | | |
-| C++ | [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/specializations/hands-on-cpp) | Bgn. | 36 | ○ | × | Codio |
+| C++ | [**Programming in C++: A Hands-on Introduction**](https://www.coursera.org/specializations/hands-on-cpp) | Bgn. | 36 | ○ | × | Codio |
 | | &nbsp;&nbsp;· [C++ Basics: Selection and Iteration](https://www.coursera.org/learn/codio-cpp-basics) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [C++ Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/cpp-object-basics) | Itm. | 9 | | | |
 | | &nbsp;&nbsp;· [Object-Oriented C++: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-cpp) | Itm. | 9 | | | |
-| C C++ | [Coding for Everyone: C and C++ Specialization](https://www.coursera.org/specializations/coding-for-everyone) | Bgn. | 53 | ○ | × | University of California, Santa Cruz |
+| C C++ | [**Coding for Everyone: C and C++**](https://www.coursera.org/specializations/coding-for-everyone) | Bgn. | 53 | ○ | × | University of California, Santa Cruz |
 | | &nbsp;&nbsp;· [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [C for Everyone: Structured Programming](https://www.coursera.org/learn/c-structured-programming) | Itm. | 10 | | | |
 | | &nbsp;&nbsp;· [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a) | - | 13 | | | |
@@ -137,29 +178,29 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Unity | [C# Programming for Unity Game Development](https://www.coursera.org/specializations/programming-unity-game-development) | Bgn. | 123 | ○ | × | University of Colorado System |
+| Unity | [**C# Programming for Unity Game Development**](https://www.coursera.org/specializations/programming-unity-game-development) | Bgn. | 123 | ○ | × | University of Colorado System |
 | | &nbsp;&nbsp;· [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity) | Bgn. | 19 | | | |
 | | &nbsp;&nbsp;· [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity) | Itm. | 22 | | | |
 | | &nbsp;&nbsp;· [C# Class Development](https://www.coursera.org/learn/csharp-class-development) | Itm. | 28 | | | |
 | | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games) | Itm. | 54 | | | |
-| Unity | [Game Design and Development with Unity 2020](https://www.coursera.org/specializations/game-design-and-development) | Bgn. | 71 | ○ | × | Michigan State University |
+| Unity | [**Game Design and Development with Unity 2020**](https://www.coursera.org/specializations/game-design-and-development) | Bgn. | 71 | ○ | × | Michigan State University |
 | | &nbsp;&nbsp;· [Game Design and Development 1: 2D Shooter](https://www.coursera.org/learn/game-design-and-development-1) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 2: 2D Platformer](https://www.coursera.org/learn/game-design-and-development-2) | Itm. | 12 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 3: 3D Shooter](https://www.coursera.org/learn/game-design-and-development-3) | Itm. | 14 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 4: 3D Platformer](https://www.coursera.org/learn/game-design-and-development-4) | Itm. | 13 | | | |
 | | &nbsp;&nbsp;· [Game Design and Development 5: Capstone Project](https://www.coursera.org/learn/game-design-and-development-5) | Itm. | 17 | | | |
-| Unreal | [C++ Programming for Unreal Game Development](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment) | Itm. | 72 | ○ | × | University of Colorado System |
+| Unreal | [**C++ Programming for Unreal Game Development**](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment) | Itm. | 72 | ○ | × | University of Colorado System |
 | | &nbsp;&nbsp;· [Introduction to C++ Programming and Unreal](https://www.coursera.org/learn/introductionprogrammingunreal) | Itm. | 20 | | | |
 | | &nbsp;&nbsp;· [More C++ Programming and Unreal](https://www.coursera.org/learn/more-programming-unreal) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [C++ Class Development](https://www.coursera.org/learn/cpp-class-development) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unreal Games](https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games) | Itm. | 16 | | | |
-| Game Design | [Game Design: Art and Concepts](https://www.coursera.org/specializations/game-design) | Bgn. | 51 | ○ | × | California Institute of the Arts |
+| Game Design | [**Game Design: Art and Concepts**](https://www.coursera.org/specializations/game-design) | Bgn. | 51 | ○ | × | California Institute of the Arts |
 | | &nbsp;&nbsp;· [Introduction to Game Design](https://www.coursera.org/learn/game-design) | Bgn. | 6 | | | |
 | | &nbsp;&nbsp;· [Story and Narrative Development for Video Games](https://www.coursera.org/learn/video-game-story) | Bgn. | 12 | | | |
 | | &nbsp;&nbsp;· [World Design for Video Games](https://www.coursera.org/learn/video-game-world) | Bgn. | 8 | | | |
 | | &nbsp;&nbsp;· [Character Design for Video Games](https://www.coursera.org/learn/game-character-design) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [Game Design Document: Define the Art & Concepts](https://www.coursera.org/learn/game-design-document) | Itm. | 16 | | | |
-| Game Design | [Art for Games](https://www.coursera.org/specializations/art-for-games) | Bgn. | 47 | ○ | × | Michigan State University |
+| Game Design | [**Art for Games**](https://www.coursera.org/specializations/art-for-games) | Bgn. | 47 | ○ | × | Michigan State University |
 | | &nbsp;&nbsp;· [Pixel Art for Video Games](https://www.coursera.org/learn/pixel-art-video-games) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
 | | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
