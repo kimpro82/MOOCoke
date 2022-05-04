@@ -11,8 +11,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ### \<Coursera>
   - [Specialization : Development - General](#coursera--specialization--development---general)
-  - [Specialization : Programming Language - Python](#specialization--programming-language---python)
-  - [Specialization : Programming Language - C/C++](#specialization--programming-language---cc)
+  - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
+  - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Data Science](#coursera--specialization--data-science)
   - [Specialization : Finance](#coursera--specialization--finance)
@@ -95,7 +95,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [FPGA Capstone: Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) | Itm. | 29 | | | |
 
 
-## [Specialization : Programming Language - Python](#list)
+## [Coursera / Specialization : Programming Language - Python](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -145,7 +145,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
 
 
-## [Specialization : Programming Language - C/C++](#list)
+## [Coursera / Specialization : Programming Language - C/C++](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
