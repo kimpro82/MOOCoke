@@ -408,3 +408,19 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | 챌린지 | [Java 레벨 테스트](https://academy.elice.io/courses/18878) | 입문 | 20 |
 | | [파이썬 레벨 테스트](https://academy.elice.io/courses/18831) | 초급 | 30 |
 | | [주간 알고리즘](https://academy.elice.io/courses/18888) | - | - |
+
+
+## ETC / Functional Programming Languages
+
+| Category | Language | Organization | Tutorials Point | Wikipedia |
+|:-:|:-:|:-:|:-:|:-:|
+| Functional Programming | Clojure | [Link](https://clojure.org/) | [Link](https://www.tutorialspoint.com/clojure/) | [Kr](https://ko.wikipedia.org/wiki/클로저_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Clojure) |
+| | Erlang | [Link](https://www.erlang.org/) | [Link](https://www.tutorialspoint.com/erlang/) | [Kr](https://ko.wikipedia.org/wiki/얼랭) [En](https://en.wikipedia.org/wiki/Erlang_(programming_language)) |
+| | F# | [Link](https://fsharp.org/) | [Link](https://www.tutorialspoint.com/fsharp/) | [Kr](https://ko.wikipedia.org/wiki/F_샤프) [En](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) |
+| | Haskell | [Link](https://www.haskell.org/) | [Link](https://www.tutorialspoint.com/haskell/) | [Kr](https://ko.wikipedia.org/wiki/하스켈) [En](https://en.wikipedia.org/wiki/Haskell) |
+| | Common Lisp | [Link](https://lisp-lang.org/) | [Link](https://www.tutorialspoint.com/lisp/) | [Kr](https://ko.wikipedia.org/wiki/커먼_리스프) [En](https://en.wikipedia.org/wiki/Common_Lisp) |
+| | OCaml | [Link](https://ocaml.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/OCaml) [En](https://en.wikipedia.org/wiki/OCaml) |
+| | Racket | [Link](https://racket-lang.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/래킷_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Racket_(programming_language)) |
+| | Scala | [Link](https://www.scala-lang.org/) | [Link](https://www.tutorialspoint.com/scala/) | [Kr](https://ko.wikipedia.org/wiki/스칼라_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scala_(programming_language)) |
+| | Scheme | [Link](http://scheme-reports.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/스킴_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scheme_(programming_language)) |
+| | SML | [Link](https://smlfamily.github.io/) | Link | [Kr](https://ko.wikipedia.org/wiki/표준_ML) [En](https://en.wikipedia.org/wiki/Standard_ML) |
