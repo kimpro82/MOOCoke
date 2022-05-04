@@ -278,7 +278,9 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
-| Racket | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
+| Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
+| (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
+| (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
 
 
 ## [Coursera / Guided Project](#list)
