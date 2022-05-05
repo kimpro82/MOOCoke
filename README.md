@@ -11,8 +11,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ### \<Coursera>
   - [Specialization : Development - General](#coursera--specialization--development---general)
-  - [Specialization : Programming Language - Python](#specialization--programming-language---python)
-  - [Specialization : Programming Language - C/C++](#specialization--programming-language---cc)
+  - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
+  - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Data Science](#coursera--specialization--data-science)
   - [Specialization : Finance](#coursera--specialization--finance)
@@ -23,6 +23,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Edx / Professional Certificate & Course](#edx--professional-certificate--course)
   - [Sololearn / Course](#sololearn--course)
   - [Elice Academy / Free Course](#elice-academy--free-course)
+  - [ETC / Functional Programming Languages](#etc--functional-programming-languages)
 
 
 ## [Master's Degree / Coursera](#list)
@@ -94,7 +95,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [FPGA Capstone: Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) | Itm. | 29 | | | |
 
 
-## [Specialization : Programming Language - Python](#list)
+## [Coursera / Specialization : Programming Language - Python](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -144,7 +145,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
 
 
-## [Specialization : Programming Language - C/C++](#list)
+## [Coursera / Specialization : Programming Language - C/C++](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -277,7 +278,9 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
-| Racket | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
+| Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
+| (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
+| (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
 
 
 ## [Coursera / Guided Project](#list)
@@ -314,25 +317,27 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Weeks | Payment($) | Koean | Partner | Note |
 |:-:|:--|:-:|--:|--:|:-:|:-:|:-:|
-| Java | [Data Structures and Algorithms](https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms) | Itm. | 20 | 596 | × | Georgia Institute of Technology | |
+| Java | [**Data Structures and Algorithms**](https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms) | Itm. | 20 | 596 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/course/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) | Itm. | 5 | 149 | | | |
 | | &nbsp;&nbsp;· [Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/course/data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps) | Itm. | 5 | 149 | | | |
 | | &nbsp;&nbsp;· [Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms](https://www.edx.org/course/data-structures-algorithms-iii-avl-and-2-4-trees-divide-and-conquer-algorithms) | Itm. | 5 | 149 | | | |
 | | &nbsp;&nbsp;· [Data Structures & Algorithms IV: Pattern Matching, Dijkstra's, MST, and Dynamic Programming Algorithms](https://www.edx.org/course/data-structures-algorithms-iv-pattern-matching-djikstras-mst-and-dynamic-programming-algorithms) | Itm. | 5 | 149 | | | |
-| Math | [Introductory Linear Algebra](https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra) | Itm. | 6 | 398 | × | Georgia Institute of Technology | |
+| Math | [**Introductory Linear Algebra**](https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra) | Itm. | 6 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Linear Algebra I: Linear Equations](https://www.edx.org/course/linear-equations-part-1) | Itm. | 3 | 199 | | | |
 | | &nbsp;&nbsp;· [Linear Algebra II: Matrix Algebra](https://www.edx.org/course/matrix-algebra) | Itm. | 3 | 199 | | | |
-| Math | [Applications of Linear Algebra](https://www.edx.org/professional-certificate/gtx-applications-of-linear-algebra) | Itm. | 6 | 398 | × | Georgia Institute of Technology | |
+| Math | [**Applications of Linear Algebra**](https://www.edx.org/professional-certificate/gtx-applications-of-linear-algebra) | Itm. | 6 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Linear Algebra III: Determits and Eigenvalues](https://www.edx.org/course/determits-and-eigenvalues) | Itm. | 3 | 199 | | | |
 | | &nbsp;&nbsp;· [Linear Algebra IV: Orthogonality & Symmetric Matrices and the SVD](https://www.edx.org/course/orthogonality-symmetric-matrices-and-the-svd) | Itm. | 3 | 199 | | | |
-| Statistics | [Probability/Random Variables](https://www.edx.org/professional-certificate/gtx-probability-random-variables) | Itm. | 7 | 398 | × | Georgia Institute of Technology | |
+| Statistics | [**Probability/Random Variables**](https://www.edx.org/professional-certificate/gtx-probability-random-variables) | Itm. | 7 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Probability and Statistics I: A Gentle Introduction to Probability](https://www.edx.org/course/probability-and-statistics-i-a-gentle-introduction-to-probability) | Itm. | 3 | 199 | | | |
 | | &nbsp;&nbsp;· [Probability and Statistics II: Random Variables – Great Expectations to Bell Curves](https://www.edx.org/course/probability-and-statistics-ii-random-variables-great-expectations-to-bell-curves) | Itm. | 4 | 199 | | | |
-| Statistics | [Statistics, Confidence Intervals and Hypothesis Tests](https://www.edx.org/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests) | Itm. | 8 | 398 | × | Georgia Institute of Technology | |
+| Statistics | [**Statistics, Confidence Intervals and Hypothesis Tests**](https://www.edx.org/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests) | Itm. | 8 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Probability and Statistics III: A Gentle Introduction to Statistics](https://www.edx.org/course/probability-and-statistics-iii-a-gentle-introduction-to-statistics) | Itm. | 4 | 199 | | | |
 | | &nbsp;&nbsp;· [Probability and Statistics IV: Confidence Intervals and Hypothesis Tests](https://www.edx.org/course/probability-and-statistics-iv-confidence-intervals-and-hypothesis-tests) | Itm. | 4 | 199 | | | |
+| Haskell | [Introduction to Functional Programming](https://www.edx.org/course/introduction-to-functional-programming) | Intro. | 4 | 50 | × | Delft University of Technology | |
 | C# | [Introduction to C#](https://learning.edx.org/course/course-v1:Microsoft+DEV204.1x+2T2018) | | | | × | Microsoft | Archived |
 | F# | [Programming in F#](https://learning.edx.org/course/course-v1:Microsoft+DEV207.1x+1T2016) | | | | × | Microsoft | Archived |
+
 
 ## [Sololearn / Course](#list)
 
@@ -408,3 +413,19 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | 챌린지 | [Java 레벨 테스트](https://academy.elice.io/courses/18878) | 입문 | 20 |
 | | [파이썬 레벨 테스트](https://academy.elice.io/courses/18831) | 초급 | 30 |
 | | [주간 알고리즘](https://academy.elice.io/courses/18888) | - | - |
+
+
+## [ETC / Functional Programming Languages](#list)
+
+| Category | Language | Organization | Tutorials Point | Wikipedia |
+|:-:|:-:|:-:|:-:|:-:|
+| Functional Programming | Clojure | [Link](https://clojure.org/) | [Link](https://www.tutorialspoint.com/clojure/) | [Kr](https://ko.wikipedia.org/wiki/클로저_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Clojure) |
+| | Erlang | [Link](https://www.erlang.org/) | [Link](https://www.tutorialspoint.com/erlang/) | [Kr](https://ko.wikipedia.org/wiki/얼랭) [En](https://en.wikipedia.org/wiki/Erlang_(programming_language)) |
+| | F# | [Link](https://fsharp.org/) | [Link](https://www.tutorialspoint.com/fsharp/) | [Kr](https://ko.wikipedia.org/wiki/F_샤프) [En](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) |
+| | Haskell | [Link](https://www.haskell.org/) | [Link](https://www.tutorialspoint.com/haskell/) | [Kr](https://ko.wikipedia.org/wiki/하스켈) [En](https://en.wikipedia.org/wiki/Haskell) |
+| | Common Lisp | [Link](https://lisp-lang.org/) | [Link](https://www.tutorialspoint.com/lisp/) | [Kr](https://ko.wikipedia.org/wiki/커먼_리스프) [En](https://en.wikipedia.org/wiki/Common_Lisp) |
+| | OCaml | [Link](https://ocaml.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/OCaml) [En](https://en.wikipedia.org/wiki/OCaml) |
+| | Racket | [Link](https://racket-lang.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/래킷_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Racket_(programming_language)) |
+| | Scala | [Link](https://www.scala-lang.org/) | [Link](https://www.tutorialspoint.com/scala/) | [Kr](https://ko.wikipedia.org/wiki/스칼라_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scala_(programming_language)) |
+| | Scheme | [Link](http://scheme-reports.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/스킴_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scheme_(programming_language)) |
+| | SML | [Link](https://smlfamily.github.io/) | Link | [Kr](https://ko.wikipedia.org/wiki/표준_ML) [En](https://en.wikipedia.org/wiki/Standard_ML) |
