@@ -14,7 +14,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
   - [Specialization : Data Science](#coursera--specialization--data-science)
-  - [Specialization : Data Structure & Algorithms]()
+  - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Finance](#coursera--specialization--finance)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Course](#coursera--course)
