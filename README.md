@@ -11,11 +11,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ### \<Coursera>
   - [Specialization : Development - General](#coursera--specialization--development---general)
-  - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
-  - [Specialization : Game Programming](#coursera--specialization--game-programming)
+  - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
   - [Specialization : Data Science](#coursera--specialization--data-science)
+  - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Finance](#coursera--specialization--finance)
+  - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Course](#coursera--course)
   - [Guided Project](#coursera--guided-project)
 
@@ -74,10 +75,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Introduction to Java as a Second Language](https://www.coursera.org/learn/intro-java-second-language) | Itm. | 7 | | | |
 | | &nbsp;&nbsp;· [The Java Language](https://www.coursera.org/learn/java-as-a-second-language-the-java-language) | Itm. | 7 | | | |
 | | &nbsp;&nbsp;· [Writing Java Application Code](https://www.coursera.org/learn/writing-java-code-for-applications) | Itm. | 14 | | | |
-| Python | [**Data Science Foundations: Data Structures and Algorithms**](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Adv. | 106 | ○ | × | University of Colorado Boulder |
-| | &nbsp;&nbsp;· [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing) | Itm. | 34 | | | |
-| | &nbsp;&nbsp;· [Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics) | Adv. | 34 | | | |
-| | &nbsp;&nbsp;· [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms) | Adv. | 38 | | | |
 | Scala | [**Functional Programming in Scala**](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
 | | &nbsp;&nbsp;· [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | Itm. | 56 | | | |
 | | &nbsp;&nbsp;· [Functional Program Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | Itm. | 35 | | | |
@@ -93,6 +90,34 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) | Itm. | 36 | | | |
 | | &nbsp;&nbsp;· [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) | Itm. | 10 | | | |
 | | &nbsp;&nbsp;· [FPGA Capstone: Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) | Itm. | 29 | | | |
+
+
+## [Coursera / Specialization : Programming Language - C/C++](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| C | [**Introductory C Programming**](https://www.coursera.org/specializations/c-programming) | Bgn. | 82 | ○ | × | Duke University |
+| | &nbsp;&nbsp;· [Programming Fundamentals](https://www.coursera.org/learn/programming-fundamentals) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Writing, Running, and Fixing Code in C](https://www.coursera.org/learn/writing-running-fixing-code) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [Pointers, Arrays, and Recursion](https://www.coursera.org/learn/pointers-arrays-recursion) | Bgn. | 21 | | | |
+| | &nbsp;&nbsp;· [Interacting with the System and Managing Memory](https://www.coursera.org/learn/interacting-system-managing-memory) | Bgn. | 23 | | | |
+| C | [**Computational Thinking with Beginning C Programming**](https://www.coursera.org/specializations/computational-thinking-c-programming) | Bgn. | 54 | ○ | × | University of Colorado System |
+| | &nbsp;&nbsp;· [Algorithms, Data Collection, and Starting to Code](https://www.coursera.org/learn/algorithms-data-collection-code) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Data Analysis and Representation, Selection and Iteration](https://www.coursera.org/learn/data-analysis-representation-selection-iteration) | Bgn. | 11 | | | |
+| | &nbsp;&nbsp;· [Abstraction, Problem Decomposition, and Functions](https://www.coursera.org/learn/abstraction-problem-decomposition-functions) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [Simulation, Algorithm Analysis, and Pointers](https://www.coursera.org/learn/simulation-algorithm-analysis-pointers) | Bgn. | 11 | | | |
+| C++ | [**Programming in C++: A Hands-on Introduction**](https://www.coursera.org/specializations/hands-on-cpp) | Bgn. | 36 | ○ | × | Codio |
+| | &nbsp;&nbsp;· [C++ Basics: Selection and Iteration](https://www.coursera.org/learn/codio-cpp-basics) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [C++ Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/cpp-object-basics) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Object-Oriented C++: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-cpp) | Itm. | 9 | | | |
+| C C++ | [**Coding for Everyone: C and C++**](https://www.coursera.org/specializations/coding-for-everyone) | Bgn. | 53 | ○ | × | University of California, Santa Cruz |
+| | &nbsp;&nbsp;· [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [C for Everyone: Structured Programming](https://www.coursera.org/learn/c-structured-programming) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a) | - | 13 | | | |
+| | &nbsp;&nbsp;· [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b) | - | 15 | | | |
 
 
 ## [Coursera / Specialization : Programming Language - Python](#list)
@@ -145,32 +170,87 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
 
 
-## [Coursera / Specialization : Programming Language - C/C++](#list)
+## [Coursera / Specialization : Data Science](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| C | [**Introductory C Programming**](https://www.coursera.org/specializations/c-programming) | Bgn. | 82 | ○ | × | Duke University |
-| | &nbsp;&nbsp;· [Programming Fundamentals](https://www.coursera.org/learn/programming-fundamentals) | Bgn. | 18 | | | |
-| | &nbsp;&nbsp;· [Writing, Running, and Fixing Code in C](https://www.coursera.org/learn/writing-running-fixing-code) | Bgn. | 20 | | | |
-| | &nbsp;&nbsp;· [Pointers, Arrays, and Recursion](https://www.coursera.org/learn/pointers-arrays-recursion) | Bgn. | 21 | | | |
-| | &nbsp;&nbsp;· [Interacting with the System and Managing Memory](https://www.coursera.org/learn/interacting-system-managing-memory) | Bgn. | 23 | | | |
-| C | [**Computational Thinking with Beginning C Programming**](https://www.coursera.org/specializations/computational-thinking-c-programming) | Bgn. | 54 | ○ | × | University of Colorado System |
-| | &nbsp;&nbsp;· [Algorithms, Data Collection, and Starting to Code](https://www.coursera.org/learn/algorithms-data-collection-code) | Bgn. | 15 | | | |
-| | &nbsp;&nbsp;· [Data Analysis and Representation, Selection and Iteration](https://www.coursera.org/learn/data-analysis-representation-selection-iteration) | Bgn. | 11 | | | |
-| | &nbsp;&nbsp;· [Abstraction, Problem Decomposition, and Functions](https://www.coursera.org/learn/abstraction-problem-decomposition-functions) | Bgn. | 17 | | | |
-| | &nbsp;&nbsp;· [Simulation, Algorithm Analysis, and Pointers](https://www.coursera.org/learn/simulation-algorithm-analysis-pointers) | Bgn. | 11 | | | |
-| C++ | [**Programming in C++: A Hands-on Introduction**](https://www.coursera.org/specializations/hands-on-cpp) | Bgn. | 36 | ○ | × | Codio |
-| | &nbsp;&nbsp;· [C++ Basics: Selection and Iteration](https://www.coursera.org/learn/codio-cpp-basics) | Bgn. | 9 | | | |
-| | &nbsp;&nbsp;· [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files) | Bgn. | 9 | | | |
-| | &nbsp;&nbsp;· [C++ Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/cpp-object-basics) | Itm. | 9 | | | |
-| | &nbsp;&nbsp;· [Object-Oriented C++: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-cpp) | Itm. | 9 | | | |
-| C C++ | [**Coding for Everyone: C and C++**](https://www.coursera.org/specializations/coding-for-everyone) | Bgn. | 53 | ○ | × | University of California, Santa Cruz |
-| | &nbsp;&nbsp;· [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone) | Bgn. | 15 | | | |
-| | &nbsp;&nbsp;· [C for Everyone: Structured Programming](https://www.coursera.org/learn/c-structured-programming) | Itm. | 10 | | | |
-| | &nbsp;&nbsp;· [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a) | - | 13 | | | |
-| | &nbsp;&nbsp;· [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b) | - | 15 | | | |
+| MATLAB | [**Mathematics for Engineers**](https://www.coursera.org/specializations/mathematics-engineers) | Bgn. | 127 | ○ | × | The Hong Kong University of Science and Technology |
+| | &nbsp;&nbsp;· [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) | Bgn. | 27 | | | |
+| | &nbsp;&nbsp;· [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) | Bgn. | 28 | | | |
+| | &nbsp;&nbsp;· [Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers) | Itm. | 42 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Engineers: The Capstone Course](https://www.coursera.org/learn/mathematics-engineers-capstone) | Itm. | 10 | | | |
+| MATLAB | [**Practical Data Science with MATLAB**](https://www.coursera.org/specializations/practical-data-science-matlab) | Bgn. | 72 | ○ | × | MathWorks |
+| | &nbsp;&nbsp;· [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
+| Python | [**Applied Data Science**](https://www.coursera.org/specializations/applied-data-science) | Bgn. | 69 | × | △ | IBM |
+| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 19 | | ○ | |
+| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 7 | | ○ | |
+| | &nbsp;&nbsp;· [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) | Bgn. | 15 | | × | |
+| | &nbsp;&nbsp;· [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) | Itm. | 17 | | ○ | |
+| | &nbsp;&nbsp;· [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) | Itm. | 11 | | × | |
+| Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
+| R | [**Data Science: Foundations using R**](https://www.coursera.org/specializations/data-science-foundations-r) | Bgn. | 158 | ○ | ○ | Johns Hopkins University |
+| (Git) | &nbsp;&nbsp;· [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | |
+| | &nbsp;&nbsp;· [R Programming](https://www.coursera.org/learn/r-programming) | Itm. | 57 | | | |
+| | &nbsp;&nbsp;· [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) | - | 55 | | | |
+| | &nbsp;&nbsp;· [Reproducible Research](https://www.coursera.org/learn/reproducible-research) | - | 8 | | | |
+
+
+## [Coursera / Specialization : Data Structure & Algorithms](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Data Structure & Algorithms (Any Languages) | [**Data Structures and Algorithms**](https://www.coursera.org/specializations/data-structures-algorithms) | Itm. | 184 | ○ | × | University of California San Diego |
+| | &nbsp;&nbsp;· [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | Itm. | 40 | | | |
+| | &nbsp;&nbsp;· [Data Structures](https://www.coursera.org/learn/data-structures) | Itm. | 25 | | | |
+| | &nbsp;&nbsp;· [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) | Itm. | 55 | | | |
+| | &nbsp;&nbsp;· [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | Adv. | 27 | | | |
+| | &nbsp;&nbsp;· [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | Adv. | 18 | | | |
+| Data Structure & Algorithms (Any Languages) | [**Algorithms**](https://www.coursera.org/specializations/algorithms) | Itm. | 61 | × | × | Stanford University |
+| | &nbsp;&nbsp;· [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | Itm. | 14 | | | |
+| Data Structure & Algorithms (Python) | [**Data Science Foundations: Data Structures and Algorithms**](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Adv. | 106 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing) | Itm. | 34 | | | |
+| | &nbsp;&nbsp;· [Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics) | Adv. | 34 | | | |
+| | &nbsp;&nbsp;· [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms) | Adv. | 38 | | | |
+| Data Structure & Algorithms (Any Languages) | [**Data Structures and Algorithms**](https://www.coursera.org/specializations/data-structures-algorithms-tsinghua) | Itm. | 115 | ○ | × | Tsinghua University |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (I)](https://www.coursera.org/learn/data-structures-algorithms-1) | Itm. | 26 | | | |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) | Itm. | 37 | | | |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) | Itm. | 27 | | | |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) | Itm. | 25 | | | |
+
+
+## [Coursera / Specialization : Finance](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Finance | [**Finance & Quantitative Modeling for Analysts**](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts) | Bgn. | 30 | ○ | △ | The University of Pennsylvania |
+| | &nbsp;&nbsp;· [Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/wharton-quantitative-modeling) | - | 8 | | × | |
+| | &nbsp;&nbsp;· [Introduction to Spreadsheets and Models](https://www.coursera.org/learn/wharton-introduction-spreadsheets-models) | - | 6 | | × | |
+| | &nbsp;&nbsp;· [Ficial Acumen for Non-Ficial Managers](https://www.coursera.org/learn/finance-healthcare-managers) | Bgn. | 9 | | × | |
+| | &nbsp;&nbsp;· [Introduction to Corporate Finance](https://www.coursera.org/learn/wharton-finance) | - | 7 | | ○ | |
+| Finance | [**Trading Strategies in Emerging Markets**](https://www.coursera.org/specializations/trading-strategy) | Bgn. | 62 | ○ | × | Indian School of Business |
+| | &nbsp;&nbsp;· [Trading Basics](https://www.coursera.org/learn/trading-basics) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Trading Algorithms](https://www.coursera.org/learn/trading-algorithm) | Itm. | 12 | | | |
+| | &nbsp;&nbsp;· [Advanced Trading Algorithms](https://www.coursera.org/learn/advanced-trading-algorithms) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Creating a Portfolio](https://www.coursera.org/learn/investment-portfolio) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Design your own trading strategy – Culminating Project](https://www.coursera.org/learn/design-trading-strategy-culminating-project) | Itm. | 21 | | | |
 
 
 ## [Coursera / Specialization : Game Programming](#list)
@@ -208,60 +288,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Concept Art for Video Games](https://www.coursera.org/learn/concept-art-video-games) | - | 6 | | | |
 
 
-## [Coursera / Specialization : Data Science](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| MATLAB | [**Mathematics for Engineers**](https://www.coursera.org/specializations/mathematics-engineers) | Bgn. | 127 | ○ | × | The Hong Kong University of Science and Technology |
-| | &nbsp;&nbsp;· [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) | Bgn. | 20 | | | |
-| | &nbsp;&nbsp;· [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) | Bgn. | 27 | | | |
-| | &nbsp;&nbsp;· [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) | Bgn. | 28 | | | |
-| | &nbsp;&nbsp;· [Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers) | Itm. | 42 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Engineers: The Capstone Course](https://www.coursera.org/learn/mathematics-engineers-capstone) | Itm. | 10 | | | |
-| MATLAB | [**Practical Data Science with MATLAB**](https://www.coursera.org/specializations/practical-data-science-matlab) | Bgn. | 72 | ○ | × | MathWorks |
-| | &nbsp;&nbsp;· [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
-| | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
-| | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
-| Python | [**Applied Data Science**](https://www.coursera.org/specializations/applied-data-science) | Bgn. | 69 | × | △ | IBM |
-| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 19 | | ○ | |
-| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 7 | | ○ | |
-| | &nbsp;&nbsp;· [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) | Bgn. | 15 | | × | |
-| | &nbsp;&nbsp;· [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) | Itm. | 17 | | ○ | |
-| | &nbsp;&nbsp;· [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) | Itm. | 11 | | × | |
-| Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
-| R | [**Data Science: Foundations using R**](https://www.coursera.org/specializations/data-science-foundations-r) | Bgn. | 158 | ○ | ○ | Johns Hopkins University |
-| (Git) | &nbsp;&nbsp;· [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | |
-| | &nbsp;&nbsp;· [R Programming](https://www.coursera.org/learn/r-programming) | Itm. | 57 | | | |
-| | &nbsp;&nbsp;· [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) | - | 20 | | | |
-| | &nbsp;&nbsp;· [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) | - | 55 | | | |
-| | &nbsp;&nbsp;· [Reproducible Research](https://www.coursera.org/learn/reproducible-research) | - | 8 | | | |
-
-
-## [Coursera / Specialization : Finance](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Finance | [**Finance & Quantitative Modeling for Analysts**](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts) | Bgn. | 30 | ○ | △ | The University of Pennsylvania |
-| | &nbsp;&nbsp;· [Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/wharton-quantitative-modeling) | - | 8 | | × | |
-| | &nbsp;&nbsp;· [Introduction to Spreadsheets and Models](https://www.coursera.org/learn/wharton-introduction-spreadsheets-models) | - | 6 | | × | |
-| | &nbsp;&nbsp;· [Ficial Acumen for Non-Ficial Managers](https://www.coursera.org/learn/finance-healthcare-managers) | Bgn. | 9 | | × | |
-| | &nbsp;&nbsp;· [Introduction to Corporate Finance](https://www.coursera.org/learn/wharton-finance) | - | 7 | | ○ | |
-| Finance | [**Trading Strategies in Emerging Markets**](https://www.coursera.org/specializations/trading-strategy) | Bgn. | 62 | ○ | × | Indian School of Business |
-| | &nbsp;&nbsp;· [Trading Basics](https://www.coursera.org/learn/trading-basics) | Bgn. | 8 | | | |
-| | &nbsp;&nbsp;· [Trading Algorithms](https://www.coursera.org/learn/trading-algorithm) | Itm. | 12 | | | |
-| | &nbsp;&nbsp;· [Advanced Trading Algorithms](https://www.coursera.org/learn/advanced-trading-algorithms) | Itm. | 11 | | | |
-| | &nbsp;&nbsp;· [Creating a Portfolio](https://www.coursera.org/learn/investment-portfolio) | Bgn. | 10 | | | |
-| | &nbsp;&nbsp;· [Design your own trading strategy – Culminating Project](https://www.coursera.org/learn/design-trading-strategy-culminating-project) | Itm. | 21 | | | |
-
-
 ## [Coursera / Course](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
@@ -273,14 +299,16 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Bash | [The Unix Workbench](https://www.coursera.org/learn/unix) | Bgn. | 19 | ○ | × | Johns Hopkins University |
 | Competitive Programming | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
 | | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
+| Data Structure & Algorithms (Java) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Itm. | 54 | Free | ○ | Princeton University |
+| | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Itm. | 63 | Free | ○ | Princeton University |
+| Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
+| (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
+| (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
 | Git | [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | ○ | × | Google |
 | Java | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | University of California San Diego |
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
-| Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
-| (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
-| (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
 
 
 ## [Coursera / Guided Project](#list)
