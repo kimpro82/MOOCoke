@@ -41,7 +41,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Electrical Engineering | University of Colorado Boulder | [Master of Science in Electrical Engineering](https://www.coursera.org/degrees/msee-boulder) | 20,010 | 24 | 30 | - | - |
 | Business Analytics | O.P. Jindal Global University | [MBA in Business Analytics](https://www.coursera.org/degrees/mba-business-analytics-jgu) | 7,050 | 24-36 | 80 | ? | ? |
 
-\* Credits : It regarded as 3 credits per a course it there is no information.
+\* Credits : It regarded as 3 credits per a course if there is no information.
 
 
 ## [Master's Degree / Edx](#list)
@@ -54,7 +54,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Data Science | University of Texas at Austin | [Master’s Degree in Data Science](https://www.edx.org/masters/online-master-data-science-utaustinx) | 10,000 | 18-36 | 30 | 3.0 | 79 |
 | Analytics | Georgia Tech | [Master’s Degree in Analytics](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | 9,900 | 12-36 | 36 | 3.0 | 100 |
 
-\* Credits : It regarded as 3 credits per a course it there is no information.
+\* Credits : It regarded as 3 credits per a course if there is no information.
 
 
 ## [Coursera / Specialization : Development - General](#list)
@@ -267,7 +267,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
 | | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
 | | &nbsp;&nbsp;· [Concept Art for Video Games](https://www.coursera.org/learn/concept-art-video-games) | - | 6 | | | |
-
 
 
 ## [Coursera / Specialization : Investment](#list)
