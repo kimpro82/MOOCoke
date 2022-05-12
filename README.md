@@ -15,8 +15,9 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
   - [Specialization : Data Science](#coursera--specialization--data-science)
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
-  - [Specialization : Finance](#coursera--specialization--finance)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
+  - [Specialization : Investment](#coursera--specialization--investment)
+  - [Specialization : Investment with Python](#coursera--specialization--investment-with-python)
   - [Course](#coursera--course)
   - [Guided Project](#coursera--guided-project)
 
@@ -233,26 +234,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) | Itm. | 27 | | | |
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) | Itm. | 25 | | | |
 
-
-## [Coursera / Specialization : Finance](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Finance | [**Finance & Quantitative Modeling for Analysts**](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts) | Bgn. | 30 | ○ | △ | The University of Pennsylvania |
-| | &nbsp;&nbsp;· [Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/wharton-quantitative-modeling) | - | 8 | | × | |
-| | &nbsp;&nbsp;· [Introduction to Spreadsheets and Models](https://www.coursera.org/learn/wharton-introduction-spreadsheets-models) | - | 6 | | × | |
-| | &nbsp;&nbsp;· [Ficial Acumen for Non-Ficial Managers](https://www.coursera.org/learn/finance-healthcare-managers) | Bgn. | 9 | | × | |
-| | &nbsp;&nbsp;· [Introduction to Corporate Finance](https://www.coursera.org/learn/wharton-finance) | - | 7 | | ○ | |
-| Finance | [**Trading Strategies in Emerging Markets**](https://www.coursera.org/specializations/trading-strategy) | Bgn. | 62 | ○ | × | Indian School of Business |
-| | &nbsp;&nbsp;· [Trading Basics](https://www.coursera.org/learn/trading-basics) | Bgn. | 8 | | | |
-| | &nbsp;&nbsp;· [Trading Algorithms](https://www.coursera.org/learn/trading-algorithm) | Itm. | 12 | | | |
-| | &nbsp;&nbsp;· [Advanced Trading Algorithms](https://www.coursera.org/learn/advanced-trading-algorithms) | Itm. | 11 | | | |
-| | &nbsp;&nbsp;· [Creating a Portfolio](https://www.coursera.org/learn/investment-portfolio) | Bgn. | 10 | | | |
-| | &nbsp;&nbsp;· [Design your own trading strategy – Culminating Project](https://www.coursera.org/learn/design-trading-strategy-culminating-project) | Itm. | 21 | | | |
-
-
 ## [Coursera / Specialization : Game Programming](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
@@ -286,6 +267,65 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
 | | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
 | | &nbsp;&nbsp;· [Concept Art for Video Games](https://www.coursera.org/learn/concept-art-video-games) | - | 6 | | | |
+
+
+
+## [Coursera / Specialization : Investment](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Investment | [**Investment Management**](https://www.coursera.org/specializations/investment-management) | Bgn. | 49 | ○ | × | University of Geneva |
+| | &nbsp;&nbsp;· [Understanding Ficial Markets](https://www.coursera.org/learn/understanding-ficial-markets) | Bgn. | 11 | | | |
+| | &nbsp;&nbsp;· [Meeting Investors' Goals](https://www.coursera.org/learn/meeting-investors-goals) | - | 9 | | | |
+| | &nbsp;&nbsp;· [Portfolio and Risk Management](https://www.coursera.org/learn/portfolio-risk-management) | - | 8 | | | |
+| | &nbsp;&nbsp;· [Securing Investment Returns in the Long Run](https://www.coursera.org/learn/investment-returns-long-run) | - | 8 | | | |
+| | &nbsp;&nbsp;· [Planning your Client's Wealth over a 5-year Horizon](https://www.coursera.org/learn/wealth-planning-capstone) | - | 13 | | | |
+| Investment | [**Investment and Portfolio Management**](https://www.coursera.org/specializations/investment-portolio-management) | Bgn. | 84 | ○ | × | Rice University |
+| | &nbsp;&nbsp;· [Global Ficial Markets and Instruments](https://www.coursera.org/learn/global-ficial-markets-instruments) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Portfolio Selection and Risk Management](https://www.coursera.org/learn/portfolio-selection-risk-management) | - | 23 | | | |
+| | &nbsp;&nbsp;· [Biases and Portfolio Selection](https://www.coursera.org/learn/biases-portfolio-selection) | - | 16 | | | |
+| | &nbsp;&nbsp;· [Investment Strategies and Portfolio Analysis](https://www.coursera.org/learn/investment-strategies-portfolio-analysis) | - | 15 | | | |
+| | &nbsp;&nbsp;· [Capstone: Build a Winning Investment Portfolio](https://www.coursera.org/learn/investment-portfolio-management-capstone) | - | 10 | | | |
+| Investment | [**Trading Strategies in Emerging Markets**](https://www.coursera.org/specializations/trading-strategy) | Bgn. | 62 | ○ | × | Indian School of Business |
+| | &nbsp;&nbsp;· [Trading Basics](https://www.coursera.org/learn/trading-basics) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Trading Algorithms](https://www.coursera.org/learn/trading-algorithm) | Itm. | 12 | | | |
+| | &nbsp;&nbsp;· [Advanced Trading Algorithms](https://www.coursera.org/learn/advanced-trading-algorithms) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Creating a Portfolio](https://www.coursera.org/learn/investment-portfolio) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Design your own trading strategy – Culminating Project](https://www.coursera.org/learn/design-trading-strategy-culminating-project) | Itm. | 21 | | | |
+| Investment | [**Practical Guide to Trading**](https://www.coursera.org/specializations/ficial-instruments-trading-investing) | Bgn. | 57 | ○ | × | Interactive Brokers |
+| | &nbsp;&nbsp;· [Fundamentals of Equities](https://www.coursera.org/learn/equities-fundamentals) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Forex - Trading Around the World](https://www.coursera.org/learn/forex-trading) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [U.S. Bond Investing Basics](https://www.coursera.org/learn/fixed-income) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Derivatives - Options & Futures](https://www.coursera.org/learn/derivatives-options-futures) | Itm. | 16 | | | |
+
+
+## [Coursera / Specialization : Investment with Python](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Investment (Python) | [**Data Science for Investment Professionals**](https://www.coursera.org/specializations/data-science-investment-professionals) | Bgn. | 56 | ○ | × | CFA Institute |
+| | &nbsp;&nbsp;· [Data and Statistics Foundation for Investment Professionals](https://www.coursera.org/learn/data-statistics-foundation-investment) | Bgn. | 21 | | | |
+| | &nbsp;&nbsp;· [Statistics for Machine Learning for Investment Professionals](https://www.coursera.org/learn/statistics-machine-learning-investment) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Machine Learning for Investment Professionals](https://www.coursera.org/learn/machine-learning-investment) | Bgn. | 17 | | | |
+| Investment (Python) | [**Investment Management with Python and Machine Learning**](https://www.coursera.org/specializations/investment-management-python-machine-learning) | Bgn. | 73 | ○ | × | EDHEC Business School |
+| | &nbsp;&nbsp;· [Introduction to Portfolio Construction and Analysis with Python](https://www.coursera.org/learn/introduction-portfolio-construction-python) | - | 24 | | | |
+| | &nbsp;&nbsp;· [Advanced Portfolio Construction and Analysis with Python](https://www.coursera.org/learn/advanced-portfolio-construction-python) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Python and Machine Learning for Asset Management](https://www.coursera.org/learn/python-machine-learning-for-investment-management) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Python and Machine-Learning for Asset Management with Alternative Data Sets](https://www.coursera.org/learn/machine-learning-asset-management-alternative-data) | Itm. | 20 | | | |
+| Investment (Python) | [**Machine Learning for Trading**](https://www.coursera.org/specializations/machine-learning-trading) | Itm. | 40 | ○ | × | New York Institute of Fice, Google Cloud |
+| | &nbsp;&nbsp;· [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/learn/introduction-trading-machine-learning-gcp) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Using Machine Learning in Trading and Fice](https://www.coursera.org/learn/machine-learning-trading-fice) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Reinforcement Learning for Trading Strategies](https://www.coursera.org/learn/trading-strategies-reinforcement-learning) | Itm. | 12 | | | |
+| Investment (Python) | [**Ficial Engineering and Risk Management**](https://www.coursera.org/specializations/ficialengineering) | Itm. | 86 | ○ | △ | Columbia University |
+| | &nbsp;&nbsp;· [Introduction to Ficial Engineering and Risk Management](https://www.coursera.org/learn/ficial-engineering-intro) | Itm. | 18 | | ○ | |
+| | &nbsp;&nbsp;· [Term-Structure and Credit Derivatives](https://www.coursera.org/learn/ficial-engineering-termstructure) | Itm. | 14 | | ○ | |
+| | &nbsp;&nbsp;· [Optimization Methods in Asset Management](https://www.coursera.org/learn/ficial-engineering-optimizationmethods) | Itm. | 14 | | × | |
+| | &nbsp;&nbsp;· [Advanced Topics in Derivative Pricing](https://www.coursera.org/learn/ficial-engineering-advancedtopics) | Itm. | 16 | | × | |
+| | &nbsp;&nbsp;· [Computational Methods in Pricing and Model Calibration](https://www.coursera.org/learn/ficial-engineering-computationalmethods) | Itm. | 24 | | × | |
 
 
 ## [Coursera / Course](#list)
