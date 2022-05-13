@@ -276,13 +276,13 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
 | Investment | [**Investment Management**](https://www.coursera.org/specializations/investment-management) | Bgn. | 49 | ○ | × | University of Geneva |
-| | &nbsp;&nbsp;· [Understanding Ficial Markets](https://www.coursera.org/learn/understanding-ficial-markets) | Bgn. | 11 | | | |
+| | &nbsp;&nbsp;· [Understanding Financial Markets](https://www.coursera.org/learn/understanding-financial-markets) | Bgn. | 11 | | | |
 | | &nbsp;&nbsp;· [Meeting Investors' Goals](https://www.coursera.org/learn/meeting-investors-goals) | - | 9 | | | |
 | | &nbsp;&nbsp;· [Portfolio and Risk Management](https://www.coursera.org/learn/portfolio-risk-management) | - | 8 | | | |
 | | &nbsp;&nbsp;· [Securing Investment Returns in the Long Run](https://www.coursera.org/learn/investment-returns-long-run) | - | 8 | | | |
 | | &nbsp;&nbsp;· [Planning your Client's Wealth over a 5-year Horizon](https://www.coursera.org/learn/wealth-planning-capstone) | - | 13 | | | |
 | Investment | [**Investment and Portfolio Management**](https://www.coursera.org/specializations/investment-portolio-management) | Bgn. | 84 | ○ | × | Rice University |
-| | &nbsp;&nbsp;· [Global Ficial Markets and Instruments](https://www.coursera.org/learn/global-ficial-markets-instruments) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Global Financial Markets and Instruments](https://www.coursera.org/learn/global-financial-markets-instruments) | - | 20 | | | |
 | | &nbsp;&nbsp;· [Portfolio Selection and Risk Management](https://www.coursera.org/learn/portfolio-selection-risk-management) | - | 23 | | | |
 | | &nbsp;&nbsp;· [Biases and Portfolio Selection](https://www.coursera.org/learn/biases-portfolio-selection) | - | 16 | | | |
 | | &nbsp;&nbsp;· [Investment Strategies and Portfolio Analysis](https://www.coursera.org/learn/investment-strategies-portfolio-analysis) | - | 15 | | | |
@@ -293,7 +293,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Trading Algorithms](https://www.coursera.org/learn/advanced-trading-algorithms) | Itm. | 11 | | | |
 | | &nbsp;&nbsp;· [Creating a Portfolio](https://www.coursera.org/learn/investment-portfolio) | Bgn. | 10 | | | |
 | | &nbsp;&nbsp;· [Design your own trading strategy – Culminating Project](https://www.coursera.org/learn/design-trading-strategy-culminating-project) | Itm. | 21 | | | |
-| Investment | [**Practical Guide to Trading**](https://www.coursera.org/specializations/ficial-instruments-trading-investing) | Bgn. | 57 | ○ | × | Interactive Brokers |
+| Investment | [**Practical Guide to Trading**](https://www.coursera.org/specializations/financial-instruments-trading-investing) | Bgn. | 57 | ○ | × | Interactive Brokers |
 | | &nbsp;&nbsp;· [Fundamentals of Equities](https://www.coursera.org/learn/equities-fundamentals) | Bgn. | 12 | | | |
 | | &nbsp;&nbsp;· [Forex - Trading Around the World](https://www.coursera.org/learn/forex-trading) | Bgn. | 13 | | | |
 | | &nbsp;&nbsp;· [U.S. Bond Investing Basics](https://www.coursera.org/learn/fixed-income) | Bgn. | 16 | | | |
@@ -315,16 +315,16 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Portfolio Construction and Analysis with Python](https://www.coursera.org/learn/advanced-portfolio-construction-python) | Itm. | 11 | | | |
 | | &nbsp;&nbsp;· [Python and Machine Learning for Asset Management](https://www.coursera.org/learn/python-machine-learning-for-investment-management) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Python and Machine-Learning for Asset Management with Alternative Data Sets](https://www.coursera.org/learn/machine-learning-asset-management-alternative-data) | Itm. | 20 | | | |
-| Investment (Python) | [**Machine Learning for Trading**](https://www.coursera.org/specializations/machine-learning-trading) | Itm. | 40 | ○ | × | New York Institute of Fice, Google Cloud |
+| Investment (Python) | [**Machine Learning for Trading**](https://www.coursera.org/specializations/machine-learning-trading) | Itm. | 40 | ○ | × | New York Institute of Finance, Google Cloud |
 | | &nbsp;&nbsp;· [Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/learn/introduction-trading-machine-learning-gcp) | Itm. | 9 | | | |
-| | &nbsp;&nbsp;· [Using Machine Learning in Trading and Fice](https://www.coursera.org/learn/machine-learning-trading-fice) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Using Machine Learning in Trading and Finance](https://www.coursera.org/learn/machine-learning-trading-finance) | Itm. | 19 | | | |
 | | &nbsp;&nbsp;· [Reinforcement Learning for Trading Strategies](https://www.coursera.org/learn/trading-strategies-reinforcement-learning) | Itm. | 12 | | | |
-| Investment (Python) | [**Ficial Engineering and Risk Management**](https://www.coursera.org/specializations/ficialengineering) | Itm. | 86 | ○ | △ | Columbia University |
-| | &nbsp;&nbsp;· [Introduction to Ficial Engineering and Risk Management](https://www.coursera.org/learn/ficial-engineering-intro) | Itm. | 18 | | ○ | |
-| | &nbsp;&nbsp;· [Term-Structure and Credit Derivatives](https://www.coursera.org/learn/ficial-engineering-termstructure) | Itm. | 14 | | ○ | |
-| | &nbsp;&nbsp;· [Optimization Methods in Asset Management](https://www.coursera.org/learn/ficial-engineering-optimizationmethods) | Itm. | 14 | | × | |
-| | &nbsp;&nbsp;· [Advanced Topics in Derivative Pricing](https://www.coursera.org/learn/ficial-engineering-advancedtopics) | Itm. | 16 | | × | |
-| | &nbsp;&nbsp;· [Computational Methods in Pricing and Model Calibration](https://www.coursera.org/learn/ficial-engineering-computationalmethods) | Itm. | 24 | | × | |
+| Investment (Python) | [**Financial Engineering and Risk Management**](https://www.coursera.org/specializations/financialengineering) | Itm. | 86 | ○ | △ | Columbia University |
+| | &nbsp;&nbsp;· [Introduction to Financial Engineering and Risk Management](https://www.coursera.org/learn/financial-engineering-intro) | Itm. | 18 | | ○ | |
+| | &nbsp;&nbsp;· [Term-Structure and Credit Derivatives](https://www.coursera.org/learn/financial-engineering-termstructure) | Itm. | 14 | | ○ | |
+| | &nbsp;&nbsp;· [Optimization Methods in Asset Management](https://www.coursera.org/learn/financial-engineering-optimizationmethods) | Itm. | 14 | | × | |
+| | &nbsp;&nbsp;· [Advanced Topics in Derivative Pricing](https://www.coursera.org/learn/financial-engineering-advancedtopics) | Itm. | 16 | | × | |
+| | &nbsp;&nbsp;· [Computational Methods in Pricing and Model Calibration](https://www.coursera.org/learn/financial-engineering-computationalmethods) | Itm. | 24 | | × | |
 
 
 ## [Coursera / Course](#list)
@@ -423,7 +423,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [Intermediate Python](https://www.sololearn.com/learning/1158) | 39 | ○ |
 | | [Python Data Structures](https://www.sololearn.com/learning/1159) | 28 | ○ |
 | | [Python for Data Science](https://www.sololearn.com/learning/1161) | 27 | ○ |
-| | [Python for Fice](https://www.sololearn.com/learning/1139) | 27 | × |
+| | [Python for Finance](https://www.sololearn.com/learning/1139) | 27 | × |
 | R | [R](https://www.sololearn.com/learning/1147) | 41 | ○ |
 | Ruby | [Ruby](https://www.sololearn.com/learning/1081) | 57 | × |
 | SQL | [SQL](https://www.sololearn.com/learning/1060) | 30 | ○ |
