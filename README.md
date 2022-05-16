@@ -76,6 +76,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Introduction to Java as a Second Language](https://www.coursera.org/learn/intro-java-second-language) | Itm. | 7 | | | |
 | | &nbsp;&nbsp;· [The Java Language](https://www.coursera.org/learn/java-as-a-second-language-the-java-language) | Itm. | 7 | | | |
 | | &nbsp;&nbsp;· [Writing Java Application Code](https://www.coursera.org/learn/writing-java-code-for-applications) | Itm. | 14 | | | |
+| Open Source Linux Git | [**Open Source Software Development, Linux and Git**](https://www.coursera.org/specializations/oss-development-linux-git) | Bgn. | 60 | ○ | × | The Linux Foundation |
+| | &nbsp;&nbsp;· [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods) | Bgn. | 4 | | | |
+| | &nbsp;&nbsp;· [Linux for Developers](https://www.coursera.org/learn/linux-for-developers) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Linux Tools for Developers](https://www.coursera.org/learn/linux-tools-for-developers) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Using Git for Distributed Development](https://www.coursera.org/learn/git-distributed-development) | Bgn. | 22 | | | |
 | Scala | [**Functional Programming in Scala**](https://www.coursera.org/specializations/scala) | Itm. | 184 | ○ | × | École Polytechnique Fédérale de Lausanne |
 | | &nbsp;&nbsp;· [Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) | Itm. | 56 | | | |
 | | &nbsp;&nbsp;· [Functional Program Design in Scala](https://www.coursera.org/learn/scala-functional-program-design) | Itm. | 35 | | | |
