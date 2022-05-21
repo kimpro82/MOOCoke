@@ -10,6 +10,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Edx](#masters-degree--edx)
 
 ### \<Coursera>
+  - [Professional Certificate](#coursera--professional-certificate)
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
@@ -55,6 +56,52 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Analytics | Georgia Tech | [Master’s Degree in Analytics](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | 9,900 | 12-36 | 36 | 3.0 | 100 |
 
 \* Credits : It regarded as 3 credits per a course if there is no information.
+
+
+## [Coursera / Professional Certificate](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| IT Support | [**Google IT Support**](https://www.coursera.org/professional-certificates/google-it-support) | Bgn. | 124 | ○ | × | Google |
+| | &nbsp;&nbsp;· [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Bgn. | 25 | | | |
+| | &nbsp;&nbsp;· [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user) | Bgn. | 31 | | | |
+| | &nbsp;&nbsp;· [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services) | Bgn. | 24 | | | |
+| | &nbsp;&nbsp;· [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security) | Bgn. | 24 | | | |
+| IT Support | [**IBM Technical Support**](https://www.coursera.org/professional-certificates/ibm-technical-support) | Bgn. | 48+ | × | × | IBM |
+| | &nbsp;&nbsp;· [Introduction to Hardware and Operating Systems](https://www.coursera.org/learn/introduction-to-hardware-and-operating-systems) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-software-programming-and-databases) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Introduction to Networking and Storage](https://www.coursera.org/learn/introduction-to-networking-and-storage) | Bgn. | 5 | | | |
+| | &nbsp;&nbsp;· [Introduction to Cybersecurity Essentials](https://www.coursera.org/learn/introduction-to-cybersecurity-essentials) | Bgn. | 5 | | | |
+| | &nbsp;&nbsp;· [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [Introduction to Technical Support](https://www.coursera.org/learn/introduction-to-technical-support) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Technical Support Case Studies and Project](https://www.coursera.org/learn/technical-support-case-studies) | Bgn. | - | | | |
+| IT Automation Python | [**Google IT Automation with Python**](https://www.coursera.org/professional-certificates/google-it-automation) | Bgn. | 115 | ○ | △ | Google |
+| | &nbsp;&nbsp;· [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | Bgn. | 28 | | ○ | |
+| | &nbsp;&nbsp;· [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system) | Bgn. | 27 | | × | |
+| | &nbsp;&nbsp;· [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | | × | |
+| | &nbsp;&nbsp;· [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques) | Bgn. | 16 | | × | |
+| | &nbsp;&nbsp;· [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud) | Bgn. | 15 | | × | |
+| | &nbsp;&nbsp;· [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python) | Bgn. | 13 | | × | |
+| Google Cloud Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
+| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
+| | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
+| Project Management | [**Google Project Management**](https://www.coursera.org/professional-certificates/google-project-management) | Bgn. | 155 | ○ | × | Google |
+| | &nbsp;&nbsp;· [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google) | Bgn. | 22 | | | |
+| | &nbsp;&nbsp;· [Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google) | Bgn. | 29 | | | |
+| | &nbsp;&nbsp;· [Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google) | Bgn. | 26 | | | |
+| | &nbsp;&nbsp;· [Agile Project Management](https://www.coursera.org/learn/agile-project-management) | Bgn. | 26 | | | |
+| | &nbsp;&nbsp;· [Capstone: Applying Project Management in the Real World](https://www.coursera.org/learn/applying-project-management) | Bgn. | 34 | | | |
 
 
 ## [Coursera / Specialization : Development - General](#list)
