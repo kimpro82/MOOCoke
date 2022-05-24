@@ -10,7 +10,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Edx](#masters-degree--edx)
 
 ### \<Coursera>
-  - [MasterTrack® Certificate]()
+  - [MasterTrack® Certificate](#coursera--mastertrack-certificate)
   - [Professional Certificate](#coursera--professional-certificate)
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
@@ -61,26 +61,26 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ## [Coursera / MasterTrack® Certificate](#list)
 
-| Subject | Partner | Course | Title | Payment ($) | Months | Related Degree |
+| Subject | Partner | Course | Title | Payment($) | Months | Related Degree |
 |:-:|:-:|:-:|:--|--:|:-:|:-:|
-| IT | Arizona State University | | [**AI & Machine Learning**](https://www.coursera.org/mastertrack/ai-machine-learning-asu) \* | 4,500 | 6-9 | Master of Computer Science |
+| IT | Arizona State University | | [**AI & Machine Learning**](https://www.coursera.org/mastertrack/ai-machine-learning-asu)\* | 4,500 | 6-9 | Master of Computer Science |
 | | | 1 | Statistical Machine Learning | | | |
 | | | 2 | Artificial Intelligence | | | |
 | | | 3 | Knowledge Representation and Reasoning | | | |
 | | | 4 | Intro to Deep Learning in Visual Computing | | | |
-| | Arizona State University | | [**Big Data**](https://www.coursera.org/mastertrack/big-data-asu) \* | 4,500 | 6-9 | Master of Computer Science |
+| | Arizona State University | | [**Big Data**](https://www.coursera.org/mastertrack/big-data-asu)\* | 4,500 | 6-9 | Master of Computer Science |
 | | | 1 | Data Processing at Scale | | | |
 | | | 2 | Data Mining | | | |
 | | | 3 | Statistical Machine Learning | | | |
 | | | 4 | Data Visualization | | | |
-| | Arizona State University | | [**Cybersecurity**](https://www.coursera.org/mastertrack/cybersecurity-asu) \* | 4,500 | 6-9 | Master of Computer Science |
+| | Arizona State University | | [**Cybersecurity**](https://www.coursera.org/mastertrack/cybersecurity-asu)\* | 4,500 | 6-9 | Master of Computer Science |
 | | | 1 | Information Assurance and Security | | | |
 | | | 2 | Applied Cryptography | | | |
 | | | 3 | Software Security | | | |
 | | | 4 | Advanced Computer and Network Security | | | |
 | | | 5 | Distributed and Multiprocessor Operating Systems | | | |
 | | | 6 | Accelerated Applied Security | | | |
-| | Arizona State University | | [**Software Engineering**](https://www.coursera.org/mastertrack/software-engineering-asu) \* | 4,500 | 6-9 | Master of Computer Science |
+| | Arizona State University | | [**Software Engineering**](https://www.coursera.org/mastertrack/software-engineering-asu)\* | 4,500 | 6-9 | Master of Computer Science |
 | | | 1 | Software Verification, Validation, and Testing | | | |
 | | | 2 | Advanced Software Analysis and Design | | | |
 | | | 3 | Engineering Blockchain Applications | | | |
@@ -96,6 +96,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | | 3 | Data Analytics In Product Development and Production | | | |
 | | | 4 | Marketing and Sales Data Decision Making | | | |
 | | | 5 | Data Analytics Applications Fice and Economics | | | |
+
+\* Take 3 of the 4 courses listed to earn your certificate.
 
 
 ## [Coursera / Professional Certificate](#list)
