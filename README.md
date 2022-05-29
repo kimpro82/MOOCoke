@@ -15,7 +15,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
-  - [Specialization : Data Science](#coursera--specialization--data-science)
+  - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
+  - [Specialization : Data Science - Others](#coursera--specialization--data-science---others)
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Investment](#coursera--specialization--investment)
@@ -265,7 +266,41 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
 
 
-## [Coursera / Specialization : Data Science](#list)
+## [Coursera / Specialization : Data Science - Python](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Python | [**Statistics with Python**](https://www.coursera.org/specializations/statistics-with-python) | Bgn. | 55 | ○ | ○ | University of Michigan |
+| | &nbsp;&nbsp;· [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) | Bgn. | 21 | | | |
+| | &nbsp;&nbsp;· [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) | Itm. | 15 | | | |
+| Python | [**Applied Data Science with Python**](https://www.coursera.org/specializations/data-science-python) | Itm. | 143 | ○ | ○ | University of Michigan |
+| | &nbsp;&nbsp;· [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | Itm. | 31 | | | |
+| | &nbsp;&nbsp;· [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) | Itm. | 34 | | | |
+| | &nbsp;&nbsp;· [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) | Itm. | 29 | | | |
+| | &nbsp;&nbsp;· [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) | Itm. | 29 | | | |
+| Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
+| Python | [**Data Science Fundamentals with Python and SQL**](https://www.coursera.org/specializations/data-science-fundamentals-python-sql) | Bgn. | 101 | × | △ | IBM |
+| | &nbsp;&nbsp;· [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) | Bgn. | 20 | | × | |
+| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 22 | | ○ | |
+| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 8 | | × | |
+| | &nbsp;&nbsp;· [Statistics for Data Science with Python](https://www.coursera.org/learn/statistics-for-data-science-python) | - | 14 | | × | |
+| (SQL) | &nbsp;&nbsp;· [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | Bgn. | 37 | | × | |
+| Python | [**Applied Data Science**](https://www.coursera.org/specializations/applied-data-science) | Bgn. | 69 | × | △ | IBM |
+| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 19 | | ○ | |
+| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 7 | | ○ | |
+| | &nbsp;&nbsp;· [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) | Bgn. | 15 | | × | |
+| | &nbsp;&nbsp;· [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) | Itm. | 17 | | ○ | |
+| | &nbsp;&nbsp;· [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) | Itm. | 11 | | × | |
+
+
+## [Coursera / Specialization : Data Science - Others](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -282,16 +317,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
 | | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
-| Python | [**Applied Data Science**](https://www.coursera.org/specializations/applied-data-science) | Bgn. | 69 | × | △ | IBM |
-| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 19 | | ○ | |
-| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 7 | | ○ | |
-| | &nbsp;&nbsp;· [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) | Bgn. | 15 | | × | |
-| | &nbsp;&nbsp;· [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) | Itm. | 17 | | ○ | |
-| | &nbsp;&nbsp;· [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) | Itm. | 11 | | × | |
-| Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
 | R | [**Data Science: Foundations using R**](https://www.coursera.org/specializations/data-science-foundations-r) | Bgn. | 158 | ○ | ○ | Johns Hopkins University |
 | (Git) | &nbsp;&nbsp;· [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | |
 | | &nbsp;&nbsp;· [R Programming](https://www.coursera.org/learn/r-programming) | Itm. | 57 | | | |
