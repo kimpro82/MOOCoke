@@ -509,6 +509,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [NLP: Twitter Sentiment Analysis](https://www.coursera.org/projects/twitter-sentiment-analysis) | Bgn. | 2 | ○ | × | |
 | | [Segment your market using factor analysis with R programming](https://www.coursera.org/projects/segment-your-market-using-factor-analysis-with-r-programming) | Adv. | 2 | ○ | × | Deprecated |
 | | [TensorFlow for AI: Get to Know Tensorflow](https://www.coursera.org/projects/tensorflow-for-ai-get-to-know-tensorflow) | Itm. | 1.5 | ○ | × | |
+| | [Using Shiny to Plot Differential Gene Expression](https://www.coursera.org/projects/shiny-to-plot-differential-gene-expression) | Bgn. | 1 | ○ | × | |
 | Block Chain | [Cryptocurrency Data Visualization using Plotly Express](https://www.coursera.org/projects/cryptocurrency-data-visualization-using-plotly-express) | Bgn. | 1 | ○ | × | Deprecated |
 | | [Introduction to Ethereum DeFi Smart Contract Security & Exploits](https://www.coursera.org/projects/ethereum-smart-contract-security-exploits) | Itm. | 2 | ○ | × | Deprecated |
 | Development | [Automation Scripts Using Bash](https://www.coursera.org/projects/auto-scripts-bash) | Itm. | 2 | ○ | × | |
