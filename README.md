@@ -16,6 +16,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
+  - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
   - [Specialization : Data Science - Others](#coursera--specialization--data-science---others)
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
@@ -300,6 +301,38 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) | Itm. | 11 | | × | |
 
 
+## [Coursera / Specialization : Data Science - R](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| R | [**Data Science: Foundations using R**](https://www.coursera.org/specializations/data-science-foundations-r) | Bgn. | 158 | ○ | ○ | Johns Hopkins University |
+| (Git) | &nbsp;&nbsp;· [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | |
+| | &nbsp;&nbsp;· [R Programming](https://www.coursera.org/learn/r-programming) | Itm. | 57 | | | |
+| | &nbsp;&nbsp;· [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) | - | 55 | | | |
+| | &nbsp;&nbsp;· [Reproducible Research](https://www.coursera.org/learn/reproducible-research) | - | 8 | | | |
+| R | [**Data Science: Statistics and Machine Learning**](https://www.coursera.org/specializations/data-science-statistics-machine-learning) | Itm. | 133 | ○ | ○ | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Statistical Inference](https://www.coursera.org/learn/statistical-inference) | - | 54 | | | |
+| | &nbsp;&nbsp;· [Regression Models](https://www.coursera.org/learn/regression-models) | - | 54 | | | |
+| | &nbsp;&nbsp;· [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) | - | 9 | | | |
+| | &nbsp;&nbsp;· [Developing Data Products](https://www.coursera.org/learn/data-products) | - | 10 | | | |
+| | &nbsp;&nbsp;· [Data Science Capstone](https://www.coursera.org/learn/data-science-project) | - | 6 | | | |
+| R | [**Data Visualization & Dashboarding with R**](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Bgn. | 70 | ○ | × | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r) | Itm. | 13 | | | |
+| | &nbsp;&nbsp;· [Advanced Data Visualization with R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r) | - | 11 | | | |
+| (Shiny) | &nbsp;&nbsp;· [Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards) | - | 12 | | | |
+| | &nbsp;&nbsp;· [Data Visualization Capstone](https://www.coursera.org/learn/data-visualization-capstone) | - | 22 | | | |
+| R | [**Applied Data Science with R**](https://www.coursera.org/specializations/applied-data-science-r) | Bgn. | | × | × | IBM |
+| | &nbsp;&nbsp;· [Introduction to R Programming for Data Science](https://www.coursera.org/learn/introducton-r-programming-data-science) | Bgn. | 11 | | | |
+| (SQL) | &nbsp;&nbsp;· [SQL for Data Science with R](https://www.coursera.org/learn/sql-data-science-r) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
+| (Shiny) | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
+
+
 ## [Coursera / Specialization : Data Science - Others](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
@@ -317,12 +350,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
 | | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
-| R | [**Data Science: Foundations using R**](https://www.coursera.org/specializations/data-science-foundations-r) | Bgn. | 158 | ○ | ○ | Johns Hopkins University |
-| (Git) | &nbsp;&nbsp;· [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | |
-| | &nbsp;&nbsp;· [R Programming](https://www.coursera.org/learn/r-programming) | Itm. | 57 | | | |
-| | &nbsp;&nbsp;· [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) | - | 20 | | | |
-| | &nbsp;&nbsp;· [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) | - | 55 | | | |
-| | &nbsp;&nbsp;· [Reproducible Research](https://www.coursera.org/learn/reproducible-research) | - | 8 | | | |
 
 
 ## [Coursera / Specialization : Data Structure & Algorithms](#list)
@@ -352,6 +379,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) | Itm. | 37 | | | |
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) | Itm. | 27 | | | |
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) | Itm. | 25 | | | |
+
 
 ## [Coursera / Specialization : Game Programming](#list)
 
