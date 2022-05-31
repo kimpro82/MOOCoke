@@ -17,7 +17,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
   - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
-  - [Specialization : Data Science - Others](#coursera--specialization--data-science---others)
+  - [Specialization : Data Science - MATLAB](#coursera--specialization--data-science---matlab)
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Investment](#coursera--specialization--investment)
@@ -333,7 +333,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
 
 
-## [Coursera / Specialization : Data Science - Others](#list)
+## [Coursera / Specialization : Data Science - MATLAB](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
