@@ -325,7 +325,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Data Visualization with R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r) | - | 11 | | | |
 | (Shiny) | &nbsp;&nbsp;· [Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards) | - | 12 | | | |
 | | &nbsp;&nbsp;· [Data Visualization Capstone](https://www.coursera.org/learn/data-visualization-capstone) | - | 22 | | | |
-| R | [**Applied Data Science with R**](https://www.coursera.org/specializations/applied-data-science-r) | Bgn. | | × | × | IBM |
+| R | [**Applied Data Science with R**](https://www.coursera.org/specializations/applied-data-science-r) | Bgn. | 69 | × | × | IBM |
 | | &nbsp;&nbsp;· [Introduction to R Programming for Data Science](https://www.coursera.org/learn/introducton-r-programming-data-science) | Bgn. | 11 | | | |
 | (SQL) | &nbsp;&nbsp;· [SQL for Data Science with R](https://www.coursera.org/learn/sql-data-science-r) | Bgn. | 17 | | | |
 | | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
