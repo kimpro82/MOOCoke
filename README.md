@@ -22,7 +22,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Investment](#coursera--specialization--investment)
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
-  - [Coursera / Specialization : Investment - ESG](#coursera--specialization--investment---esg)
+  - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Course](#coursera--course)
   - [Guided Project](#coursera--guided-project)
 
