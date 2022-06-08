@@ -9,7 +9,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Master's Degree / Coursera](#masters-degree--coursera)
   - [Master's Degree / Edx](#masters-degree--edx)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
-  - [MicroMaster® Certificate / Edx](#)
+  - [MicroMaster® Certificate / Edx](#edx--micromaster-certificate)
 
 ### \<Coursera>
   - [Professional Certificate](#coursera--professional-certificate)
@@ -27,8 +27,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Course](#coursera--course)
   - [Guided Project](#coursera--guided-project)
 
+### \<Edx>
+  - [Edx / Professional Certificate](#edx--professional-certificate)
+  - [Edx / Course](#edx--course)
+
 ### \<Others>
-  - [Edx / Professional Certificate & Course](#edx--professional-certificate--course)
   - [Sololearn / Course](#sololearn--course)
   - [Elice Academy / Free Course](#elice-academy--free-course)
   - [ETC / Functional Programming Languages](#etc--functional-programming-languages)
@@ -593,7 +596,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [Utilize LinkedIn for Career Search](https://www.coursera.org/projects/utilize-linkedin-for-career-search) | Itm. | 2 | ○ | × | |
 
 
-## [Edx / Professional Certificate & Course](#list)
+## [Edx / Professional Certificate](#list)
 
 | Subject | Title | Level | Weeks | Payment($) | Koean | Partner | Note |
 |:-:|:--|:-:|--:|--:|:-:|:-:|:-:|
@@ -614,6 +617,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Statistics | [**Statistics, Confidence Intervals and Hypothesis Tests**](https://www.edx.org/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests) | Itm. | 8 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Probability and Statistics III: A Gentle Introduction to Statistics](https://www.edx.org/course/probability-and-statistics-iii-a-gentle-introduction-to-statistics) | Itm. | 4 | 199 | | | |
 | | &nbsp;&nbsp;· [Probability and Statistics IV: Confidence Intervals and Hypothesis Tests](https://www.edx.org/course/probability-and-statistics-iv-confidence-intervals-and-hypothesis-tests) | Itm. | 4 | 199 | | | |
+
+
+## [Edx / Course](#list)
+
+| Subject | Title | Level | Weeks | Payment($) | Koean | Partner | Note |
+|:-:|:--|:-:|--:|--:|:-:|:-:|:-:|
 | Haskell | [Introduction to Functional Programming](https://www.edx.org/course/introduction-to-functional-programming) | Intro. | 4 | 50 | × | Delft University of Technology | |
 | C# | [Introduction to C#](https://learning.edx.org/course/course-v1:Microsoft+DEV204.1x+2T2018) | | | | × | Microsoft | Archived |
 | F# | [Programming in F#](https://learning.edx.org/course/course-v1:Microsoft+DEV207.1x+1T2016) | | | | × | Microsoft | Archived |
