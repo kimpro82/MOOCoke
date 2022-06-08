@@ -109,7 +109,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ## [Edx / MicroMaster® Certificate](#list)
 
-| Subject | Partner | Course | Title | Payment($) | Months | Related Degree |
+| Subject | Partner | Course | Title | Payment($) \* | Months | Related Degree |
 |:-:|:-:|:-:|:--|--:|:-:|:-:|
 | Computer Science | University of British Columbia | | [**Software Development**](https://www.edx.org/micromasters/ubcx-software-development) | 925 | 9 | [Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/ubcx-software-development)<br>[Master of Science (Computer Science) at Curtin University](https://study.curtin.edu.au/offering/course-pg-computer-science-major-msc-science--mjrp-cmscmv1/) |
 | | | 1 | How to Code: Simple Data | | | |
@@ -150,6 +150,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | | 3 | Applied Quantum Computing I: Fundamentals | | | |
 | | | 4 | Applied Quantum Computing II: Hardware | | | |
 | | | 5 | Applied Quantum Computing III: Algorithm and Software | | | |
+
+\* They may be discounted.
 
 
 ## [Coursera / Professional Certificate](#list)
