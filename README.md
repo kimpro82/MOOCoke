@@ -5,12 +5,13 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ## List
 
-### \<Master's Degree>
-  - [Coursera](#masters-degree--coursera)
-  - [Edx](#masters-degree--edx)
+### \<Master's Degree and Pathway Programs>
+  - [Master's Degree / Coursera](#masters-degree--coursera)
+  - [Master's Degree / Edx](#masters-degree--edx)
+  - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
+  - [MicroMaster® Certificate / Edx](#edx--micromaster-certificate)
 
 ### \<Coursera>
-  - [MasterTrack® Certificate](#coursera--mastertrack-certificate)
   - [Professional Certificate](#coursera--professional-certificate)
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
@@ -26,8 +27,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Course](#coursera--course)
   - [Guided Project](#coursera--guided-project)
 
+### \<Edx>
+  - [Edx / Professional Certificate](#edx--professional-certificate)
+  - [Edx / Course](#edx--course)
+
 ### \<Others>
-  - [Edx / Professional Certificate & Course](#edx--professional-certificate--course)
   - [Sololearn / Course](#sololearn--course)
   - [Elice Academy / Free Course](#elice-academy--free-course)
   - [ETC / Functional Programming Languages](#etc--functional-programming-languages)
@@ -101,6 +105,53 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | | 5 | Data Analytics Applications Fice and Economics | | | |
 
 \* Take 3 of the 4 courses listed to earn your certificate.
+
+
+## [Edx / MicroMaster® Certificate](#list)
+
+| Subject | Partner | Course | Title | Payment($) \* | Months | Related Degree |
+|:-:|:-:|:-:|:--|--:|:-:|:-:|
+| Computer Science | University of British Columbia | | [**Software Development**](https://www.edx.org/micromasters/ubcx-software-development) | 925 | 9 | [Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/ubcx-software-development),<br>[Master of Science (Computer Science) at Curtin University](https://study.curtin.edu.au/offering/course-pg-computer-science-major-msc-science--mjrp-cmscmv1/) |
+| | | 1 | How to Code: Simple Data | | | |
+| | | 2 | How to Code: Complex Data | | | |
+| | | 3 | Software Construction: Data Abstraction | | | |
+| | | 4 | Software Construction: Object-Oriented Design | | | |
+| | | 5 | Software Engineering: Introduction | | | |
+| | | 6 | Software Development Capstone Project | | | |
+| | The University of California, San Diego | | [**Algorithms and Data Structures**](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) | 1,200 | 9 | [Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/ucsdx-algorithms-data-structure) |
+| | | 1 | Algorithmic Design and Techniques | | | |
+| | | 2 | Data Structures Fundamentals | | | |
+| | | 3 | Graph Algorithms | | | |
+| | | 4 | NP-Complete Problems | | | |
+| | | 5 | String Processing and Pattern Matching Algorithms | | | |
+| | | 6 | Dynamic Programming: Applications In Machine Learning and Genomics | | | |
+| | | 7 | Graph Algorithms in Genome Sequencing | | | |
+| | | 8 | Algorithms and Data Structures Capstone | | | |
+| | Rochester Institute of Technology | | [**Cybersecurity**](https://www.edx.org/micromasters/ritx-cybersecurity) | 1,596 | 10 | [Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/ritx-cybersecurity) |
+| | | 1 | Cybersecurity Fundamentals | | | |
+| | | 2 | Computer Forensics | | | |
+| | | 3 | Cybersecurity Risk Management | | | |
+| | | 4 | Network Security | | | |
+| | | 5 | Cybersecurity Capstone | | | |
+| | University of Maryland Global Campus | | [**Cloud Computing**](https://www.edx.org/micromasters/usmx-umgc-cloud-computing) | 1,196 | 8 | [Master of Science in Cloud Computing Systems](https://www.umgc.edu/online-degrees/masters/cloud-computing-systems) |
+| | | 1 | Cloud Computing for Enterprises | | | |
+| | | 2 | Cloud Computing Infrastructure | | | |
+| | | 3 | Cloud Computing Engineering and Management | | | |
+| | | 4 | Cloud Computing Security | | | |
+| | Purdue University | | [**Quantum Technology: Computing**](https://www.edx.org/micromasters/purduex-quantum-technology-computing) | 5,250 | 10 | [Master of Science in Electrical and Computer Engineering at Purdue University](https://engineering.purdue.edu/online/programs/masters-degrees/interdisciplinary-engineering/electrical-and-computer-engineering),<br>[Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/purduex-quantum-technology-computing) |
+| | | 1 | Introduction to Quantum Science & Technology | | | |
+| | | 2 | Applied Quantum Computing I: Fundamentals | | | |
+| | | 3 | Applied Quantum Computing II: Hardware | | | |
+| | | 4 | Applied Quantum Computing III: Algorithm and Software | | | |
+| | | 5 | Quantum Detectors | | | |
+| | Purdue University | | [**Quantum Technology: Detectors and Networking**](https://www.edx.org/micromasters/purduex-quantum-technology-detectors-and-networking) | 5,250 | 10 | [Master of Science in Electrical and Computer Engineering at Purdue University](https://engineering.purdue.edu/online/programs/masters-degrees/interdisciplinary-engineering/electrical-and-computer-engineering),<br>[Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/purduex-quantum-technology-detectors-and-networking) |
+| | | 1 | Quantum Networking | | | |
+| | | 2 | Quantum Detectors and Sensors | | | |
+| | | 3 | Applied Quantum Computing I: Fundamentals | | | |
+| | | 4 | Applied Quantum Computing II: Hardware | | | |
+| | | 5 | Applied Quantum Computing III: Algorithm and Software | | | |
+
+\* They may be discounted.
 
 
 ## [Coursera / Professional Certificate](#list)
@@ -547,7 +598,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [Utilize LinkedIn for Career Search](https://www.coursera.org/projects/utilize-linkedin-for-career-search) | Itm. | 2 | ○ | × | |
 
 
-## [Edx / Professional Certificate & Course](#list)
+## [Edx / Professional Certificate](#list)
 
 | Subject | Title | Level | Weeks | Payment($) | Koean | Partner | Note |
 |:-:|:--|:-:|--:|--:|:-:|:-:|:-:|
@@ -568,6 +619,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Statistics | [**Statistics, Confidence Intervals and Hypothesis Tests**](https://www.edx.org/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests) | Itm. | 8 | 398 | × | Georgia Institute of Technology | |
 | | &nbsp;&nbsp;· [Probability and Statistics III: A Gentle Introduction to Statistics](https://www.edx.org/course/probability-and-statistics-iii-a-gentle-introduction-to-statistics) | Itm. | 4 | 199 | | | |
 | | &nbsp;&nbsp;· [Probability and Statistics IV: Confidence Intervals and Hypothesis Tests](https://www.edx.org/course/probability-and-statistics-iv-confidence-intervals-and-hypothesis-tests) | Itm. | 4 | 199 | | | |
+
+
+## [Edx / Course](#list)
+
+| Subject | Title | Level | Weeks | Payment($) | Koean | Partner | Note |
+|:-:|:--|:-:|--:|--:|:-:|:-:|:-:|
 | Haskell | [Introduction to Functional Programming](https://www.edx.org/course/introduction-to-functional-programming) | Intro. | 4 | 50 | × | Delft University of Technology | |
 | C# | [Introduction to C#](https://learning.edx.org/course/course-v1:Microsoft+DEV204.1x+2T2018) | | | | × | Microsoft | Archived |
 | F# | [Programming in F#](https://learning.edx.org/course/course-v1:Microsoft+DEV207.1x+1T2016) | | | | × | Microsoft | Archived |
