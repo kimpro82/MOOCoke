@@ -20,6 +20,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
   - [Specialization : Data Science - MATLAB](#coursera--specialization--data-science---matlab)
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
+  - [Coursera / Specialization : Cloud - GCP]()
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Investment](#coursera--specialization--investment)
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
@@ -431,6 +432,35 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) | Itm. | 37 | | | |
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) | Itm. | 27 | | | |
 | | &nbsp;&nbsp;· [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) | Itm. | 25 | | | |
+
+
+## [Coursera / Specialization : Cloud - GCP](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| GCP | [**Developing Applications with Google**](https://www.coursera.org/specializations/developing-apps-gcp) | Itm. | 51 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Getting Started With Application Development](https://www.coursera.org/learn/getting-started-app-development) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Securing and Integrating Components of your Application](https://www.coursera.org/learn/securing-integrating-components-app) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [App Deployment, Debugging, and Performance](https://www.coursera.org/learn/app-deployment-debugging-performance) | Itm. | 9 | | | |
+| GCP | [**Data Engineering, Big Data, and Machine Learning on GCP**](https://www.coursera.org/specializations/gcp-data-machine-learning) | Itm. | 50 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.coursera.org/learn/streaming-analytics-systems-gcp) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) | Itm. | 8 | | | |
+| GCP | [**Advanced Machine Learning on Google Cloud**](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) | Adv. | 74 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp) | Adv. | 13 | | | |
+| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
+| | &nbsp;&nbsp;· [Image Understanding with TensorFlow on GCP](https://www.coursera.org/learn/image-understanding-tensorflow-gcp) | Adv. | 12 | | | |
+| | &nbsp;&nbsp;· [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp) | Adv. | 15 | | | |
+| | &nbsp;&nbsp;· [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp) | Adv. | 13 | | | |
+| GCP | [**Developing APIs with Google Cloud's Apigee API Platform**](https://www.coursera.org/specializations/apigee-api-gcp) | Itm. | 31 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-design-apigee-gcp) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [API Security on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-security-apigee-gcp) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [API Development on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-development-apigee-gcp) | Bgn. | 15 | | | |
 
 
 ## [Coursera / Specialization : Game Programming](#list)
