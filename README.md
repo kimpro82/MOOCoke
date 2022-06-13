@@ -16,12 +16,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
+  - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
+  - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
+  - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
   - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
   - [Specialization : Data Science - MATLAB](#coursera--specialization--data-science---matlab)
-  - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
-  - [Coursera / Specialization : Cloud - GCP]()
-  - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Investment](#coursera--specialization--investment)
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
@@ -320,91 +320,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
 
 
-## [Coursera / Specialization : Data Science - Python](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Python | [**Statistics with Python**](https://www.coursera.org/specializations/statistics-with-python) | Bgn. | 55 | ○ | ○ | University of Michigan |
-| | &nbsp;&nbsp;· [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) | Bgn. | 21 | | | |
-| | &nbsp;&nbsp;· [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) | Itm. | 19 | | | |
-| | &nbsp;&nbsp;· [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) | Itm. | 15 | | | |
-| Python | [**Applied Data Science with Python**](https://www.coursera.org/specializations/data-science-python) | Itm. | 143 | ○ | ○ | University of Michigan |
-| | &nbsp;&nbsp;· [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | Itm. | 31 | | | |
-| | &nbsp;&nbsp;· [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) | Itm. | 20 | | | |
-| | &nbsp;&nbsp;· [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) | Itm. | 34 | | | |
-| | &nbsp;&nbsp;· [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) | Itm. | 29 | | | |
-| | &nbsp;&nbsp;· [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) | Itm. | 29 | | | |
-| Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
-| Python | [**Data Science Fundamentals with Python and SQL**](https://www.coursera.org/specializations/data-science-fundamentals-python-sql) | Bgn. | 101 | × | △ | IBM |
-| | &nbsp;&nbsp;· [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) | Bgn. | 20 | | × | |
-| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 22 | | ○ | |
-| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 8 | | × | |
-| | &nbsp;&nbsp;· [Statistics for Data Science with Python](https://www.coursera.org/learn/statistics-for-data-science-python) | - | 14 | | × | |
-| (SQL) | &nbsp;&nbsp;· [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | Bgn. | 37 | | × | |
-| Python | [**Applied Data Science**](https://www.coursera.org/specializations/applied-data-science) | Bgn. | 69 | × | △ | IBM |
-| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 19 | | ○ | |
-| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 7 | | ○ | |
-| | &nbsp;&nbsp;· [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) | Bgn. | 15 | | × | |
-| | &nbsp;&nbsp;· [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) | Itm. | 17 | | ○ | |
-| | &nbsp;&nbsp;· [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) | Itm. | 11 | | × | |
-
-
-## [Coursera / Specialization : Data Science - R](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| R | [**Data Science: Foundations using R**](https://www.coursera.org/specializations/data-science-foundations-r) | Bgn. | 158 | ○ | ○ | Johns Hopkins University |
-| (Git) | &nbsp;&nbsp;· [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | |
-| | &nbsp;&nbsp;· [R Programming](https://www.coursera.org/learn/r-programming) | Itm. | 57 | | | |
-| | &nbsp;&nbsp;· [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) | - | 20 | | | |
-| | &nbsp;&nbsp;· [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) | - | 55 | | | |
-| | &nbsp;&nbsp;· [Reproducible Research](https://www.coursera.org/learn/reproducible-research) | - | 8 | | | |
-| R | [**Data Science: Statistics and Machine Learning**](https://www.coursera.org/specializations/data-science-statistics-machine-learning) | Itm. | 133 | ○ | ○ | Johns Hopkins University |
-| | &nbsp;&nbsp;· [Statistical Inference](https://www.coursera.org/learn/statistical-inference) | - | 54 | | | |
-| | &nbsp;&nbsp;· [Regression Models](https://www.coursera.org/learn/regression-models) | - | 54 | | | |
-| | &nbsp;&nbsp;· [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) | - | 9 | | | |
-| | &nbsp;&nbsp;· [Developing Data Products](https://www.coursera.org/learn/data-products) | - | 10 | | | |
-| | &nbsp;&nbsp;· [Data Science Capstone](https://www.coursera.org/learn/data-science-project) | - | 6 | | | |
-| R | [**Data Visualization & Dashboarding with R**](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Bgn. | 70 | ○ | × | Johns Hopkins University |
-| | &nbsp;&nbsp;· [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r) | Bgn. | 12 | | | |
-| | &nbsp;&nbsp;· [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r) | Itm. | 13 | | | |
-| | &nbsp;&nbsp;· [Advanced Data Visualization with R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r) | - | 11 | | | |
-| (Shiny) | &nbsp;&nbsp;· [Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards) | - | 12 | | | |
-| | &nbsp;&nbsp;· [Data Visualization Capstone](https://www.coursera.org/learn/data-visualization-capstone) | - | 22 | | | |
-| R | [**Applied Data Science with R**](https://www.coursera.org/specializations/applied-data-science-r) | Bgn. | 69 | × | × | IBM |
-| | &nbsp;&nbsp;· [Introduction to R Programming for Data Science](https://www.coursera.org/learn/introducton-r-programming-data-science) | Bgn. | 11 | | | |
-| (SQL) | &nbsp;&nbsp;· [SQL for Data Science with R](https://www.coursera.org/learn/sql-data-science-r) | Bgn. | 17 | | | |
-| | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
-| (Shiny) | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 10 | | | |
-| | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
-
-
-## [Coursera / Specialization : Data Science - MATLAB](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| MATLAB | [**Mathematics for Engineers**](https://www.coursera.org/specializations/mathematics-engineers) | Bgn. | 127 | ○ | × | The Hong Kong University of Science and Technology |
-| | &nbsp;&nbsp;· [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) | Bgn. | 20 | | | |
-| | &nbsp;&nbsp;· [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) | Bgn. | 27 | | | |
-| | &nbsp;&nbsp;· [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) | Bgn. | 28 | | | |
-| | &nbsp;&nbsp;· [Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers) | Itm. | 42 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Engineers: The Capstone Course](https://www.coursera.org/learn/mathematics-engineers-capstone) | Itm. | 10 | | | |
-| MATLAB | [**Practical Data Science with MATLAB**](https://www.coursera.org/specializations/practical-data-science-matlab) | Bgn. | 72 | ○ | × | MathWorks |
-| | &nbsp;&nbsp;· [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
-| | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
-| | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
-
-
 ## [Coursera / Specialization : Data Structure & Algorithms](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
@@ -496,6 +411,91 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
 | | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
 | | &nbsp;&nbsp;· [Concept Art for Video Games](https://www.coursera.org/learn/concept-art-video-games) | - | 6 | | | |
+
+
+## [Coursera / Specialization : Data Science - Python](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Python | [**Statistics with Python**](https://www.coursera.org/specializations/statistics-with-python) | Bgn. | 55 | ○ | ○ | University of Michigan |
+| | &nbsp;&nbsp;· [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) | Bgn. | 21 | | | |
+| | &nbsp;&nbsp;· [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) | Itm. | 15 | | | |
+| Python | [**Applied Data Science with Python**](https://www.coursera.org/specializations/data-science-python) | Itm. | 143 | ○ | ○ | University of Michigan |
+| | &nbsp;&nbsp;· [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | Itm. | 31 | | | |
+| | &nbsp;&nbsp;· [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) | Itm. | 34 | | | |
+| | &nbsp;&nbsp;· [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) | Itm. | 29 | | | |
+| | &nbsp;&nbsp;· [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) | Itm. | 29 | | | |
+| Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
+| Python | [**Data Science Fundamentals with Python and SQL**](https://www.coursera.org/specializations/data-science-fundamentals-python-sql) | Bgn. | 101 | × | △ | IBM |
+| | &nbsp;&nbsp;· [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) | Bgn. | 20 | | × | |
+| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 22 | | ○ | |
+| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 8 | | × | |
+| | &nbsp;&nbsp;· [Statistics for Data Science with Python](https://www.coursera.org/learn/statistics-for-data-science-python) | - | 14 | | × | |
+| (SQL) | &nbsp;&nbsp;· [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science) | Bgn. | 37 | | × | |
+| Python | [**Applied Data Science**](https://www.coursera.org/specializations/applied-data-science) | Bgn. | 69 | × | △ | IBM |
+| | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 19 | | ○ | |
+| | &nbsp;&nbsp;· [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) | Itm. | 7 | | ○ | |
+| | &nbsp;&nbsp;· [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) | Bgn. | 15 | | × | |
+| | &nbsp;&nbsp;· [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) | Itm. | 17 | | ○ | |
+| | &nbsp;&nbsp;· [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) | Itm. | 11 | | × | |
+
+
+## [Coursera / Specialization : Data Science - R](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| R | [**Data Science: Foundations using R**](https://www.coursera.org/specializations/data-science-foundations-r) | Bgn. | 158 | ○ | ○ | Johns Hopkins University |
+| (Git) | &nbsp;&nbsp;· [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools) | - | 18 | | | |
+| | &nbsp;&nbsp;· [R Programming](https://www.coursera.org/learn/r-programming) | Itm. | 57 | | | |
+| | &nbsp;&nbsp;· [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) | - | 55 | | | |
+| | &nbsp;&nbsp;· [Reproducible Research](https://www.coursera.org/learn/reproducible-research) | - | 8 | | | |
+| R | [**Data Science: Statistics and Machine Learning**](https://www.coursera.org/specializations/data-science-statistics-machine-learning) | Itm. | 133 | ○ | ○ | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Statistical Inference](https://www.coursera.org/learn/statistical-inference) | - | 54 | | | |
+| | &nbsp;&nbsp;· [Regression Models](https://www.coursera.org/learn/regression-models) | - | 54 | | | |
+| | &nbsp;&nbsp;· [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) | - | 9 | | | |
+| | &nbsp;&nbsp;· [Developing Data Products](https://www.coursera.org/learn/data-products) | - | 10 | | | |
+| | &nbsp;&nbsp;· [Data Science Capstone](https://www.coursera.org/learn/data-science-project) | - | 6 | | | |
+| R | [**Data Visualization & Dashboarding with R**](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Bgn. | 70 | ○ | × | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r) | Itm. | 13 | | | |
+| | &nbsp;&nbsp;· [Advanced Data Visualization with R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r) | - | 11 | | | |
+| (Shiny) | &nbsp;&nbsp;· [Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards) | - | 12 | | | |
+| | &nbsp;&nbsp;· [Data Visualization Capstone](https://www.coursera.org/learn/data-visualization-capstone) | - | 22 | | | |
+| R | [**Applied Data Science with R**](https://www.coursera.org/specializations/applied-data-science-r) | Bgn. | 69 | × | × | IBM |
+| | &nbsp;&nbsp;· [Introduction to R Programming for Data Science](https://www.coursera.org/learn/introducton-r-programming-data-science) | Bgn. | 11 | | | |
+| (SQL) | &nbsp;&nbsp;· [SQL for Data Science with R](https://www.coursera.org/learn/sql-data-science-r) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
+| (Shiny) | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
+
+
+## [Coursera / Specialization : Data Science - MATLAB](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| MATLAB | [**Mathematics for Engineers**](https://www.coursera.org/specializations/mathematics-engineers) | Bgn. | 127 | ○ | × | The Hong Kong University of Science and Technology |
+| | &nbsp;&nbsp;· [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) | Bgn. | 27 | | | |
+| | &nbsp;&nbsp;· [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) | Bgn. | 28 | | | |
+| | &nbsp;&nbsp;· [Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers) | Itm. | 42 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Engineers: The Capstone Course](https://www.coursera.org/learn/mathematics-engineers-capstone) | Itm. | 10 | | | |
+| MATLAB | [**Practical Data Science with MATLAB**](https://www.coursera.org/specializations/practical-data-science-matlab) | Bgn. | 72 | ○ | × | MathWorks |
+| | &nbsp;&nbsp;· [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
 
 
 ## [Coursera / Specialization : Investment](#list)
