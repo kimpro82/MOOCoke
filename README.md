@@ -16,11 +16,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
+  - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
+  - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
+  - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
   - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
   - [Specialization : Data Science - MATLAB](#coursera--specialization--data-science---matlab)
-  - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
-  - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Investment](#coursera--specialization--investment)
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
@@ -319,6 +320,99 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Advanced Django: External APIs and Task Queuing](https://www.coursera.org/learn/codio-advanced-django-external-apis-task-queuing) | Adv. | 9 | | | |
 
 
+## [Coursera / Specialization : Data Structure & Algorithms](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Data Structure & Algorithms (Any Languages) | [**Data Structures and Algorithms**](https://www.coursera.org/specializations/data-structures-algorithms) | Itm. | 184 | ○ | × | University of California San Diego |
+| | &nbsp;&nbsp;· [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | Itm. | 40 | | | |
+| | &nbsp;&nbsp;· [Data Structures](https://www.coursera.org/learn/data-structures) | Itm. | 25 | | | |
+| | &nbsp;&nbsp;· [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) | Itm. | 55 | | | |
+| | &nbsp;&nbsp;· [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | Adv. | 27 | | | |
+| | &nbsp;&nbsp;· [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | Adv. | 18 | | | |
+| Data Structure & Algorithms (Any Languages) | [**Algorithms**](https://www.coursera.org/specializations/algorithms) | Itm. | 61 | × | × | Stanford University |
+| | &nbsp;&nbsp;· [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | Itm. | 14 | | | |
+| Data Structure & Algorithms (Python) | [**Data Science Foundations: Data Structures and Algorithms**](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Adv. | 106 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing) | Itm. | 34 | | | |
+| | &nbsp;&nbsp;· [Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics) | Adv. | 34 | | | |
+| | &nbsp;&nbsp;· [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms) | Adv. | 38 | | | |
+| Data Structure & Algorithms (Any Languages) | [**Data Structures and Algorithms**](https://www.coursera.org/specializations/data-structures-algorithms-tsinghua) | Itm. | 115 | ○ | × | Tsinghua University |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (I)](https://www.coursera.org/learn/data-structures-algorithms-1) | Itm. | 26 | | | |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) | Itm. | 37 | | | |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) | Itm. | 27 | | | |
+| | &nbsp;&nbsp;· [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) | Itm. | 25 | | | |
+
+
+## [Coursera / Specialization : Cloud - GCP](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| GCP | [**Developing Applications with Google**](https://www.coursera.org/specializations/developing-apps-gcp) | Itm. | 51 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Getting Started With Application Development](https://www.coursera.org/learn/getting-started-app-development) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Securing and Integrating Components of your Application](https://www.coursera.org/learn/securing-integrating-components-app) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [App Deployment, Debugging, and Performance](https://www.coursera.org/learn/app-deployment-debugging-performance) | Itm. | 9 | | | |
+| GCP | [**Data Engineering, Big Data, and Machine Learning on GCP**](https://www.coursera.org/specializations/gcp-data-machine-learning) | Itm. | 50 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.coursera.org/learn/streaming-analytics-systems-gcp) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) | Itm. | 8 | | | |
+| GCP | [**Advanced Machine Learning on Google Cloud**](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) | Adv. | 74 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp) | Adv. | 13 | | | |
+| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
+| | &nbsp;&nbsp;· [Image Understanding with TensorFlow on GCP](https://www.coursera.org/learn/image-understanding-tensorflow-gcp) | Adv. | 12 | | | |
+| | &nbsp;&nbsp;· [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp) | Adv. | 15 | | | |
+| | &nbsp;&nbsp;· [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp) | Adv. | 13 | | | |
+| GCP | [**Developing APIs with Google Cloud's Apigee API Platform**](https://www.coursera.org/specializations/apigee-api-gcp) | Itm. | 31 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-design-apigee-gcp) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [API Security on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-security-apigee-gcp) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [API Development on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-development-apigee-gcp) | Bgn. | 15 | | | |
+
+
+## [Coursera / Specialization : Game Programming](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Unity | [**C# Programming for Unity Game Development**](https://www.coursera.org/specializations/programming-unity-game-development) | Bgn. | 123 | ○ | × | University of Colorado System |
+| | &nbsp;&nbsp;· [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [C# Class Development](https://www.coursera.org/learn/csharp-class-development) | Itm. | 28 | | | |
+| | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games) | Itm. | 54 | | | |
+| Unity | [**Game Design and Development with Unity 2020**](https://www.coursera.org/specializations/game-design-and-development) | Bgn. | 71 | ○ | × | Michigan State University |
+| | &nbsp;&nbsp;· [Game Design and Development 1: 2D Shooter](https://www.coursera.org/learn/game-design-and-development-1) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Game Design and Development 2: 2D Platformer](https://www.coursera.org/learn/game-design-and-development-2) | Itm. | 12 | | | |
+| | &nbsp;&nbsp;· [Game Design and Development 3: 3D Shooter](https://www.coursera.org/learn/game-design-and-development-3) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Game Design and Development 4: 3D Platformer](https://www.coursera.org/learn/game-design-and-development-4) | Itm. | 13 | | | |
+| | &nbsp;&nbsp;· [Game Design and Development 5: Capstone Project](https://www.coursera.org/learn/game-design-and-development-5) | Itm. | 17 | | | |
+| Unreal | [**C++ Programming for Unreal Game Development**](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment) | Itm. | 72 | ○ | × | University of Colorado System |
+| | &nbsp;&nbsp;· [Introduction to C++ Programming and Unreal](https://www.coursera.org/learn/introductionprogrammingunreal) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [More C++ Programming and Unreal](https://www.coursera.org/learn/more-programming-unreal) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [C++ Class Development](https://www.coursera.org/learn/cpp-class-development) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unreal Games](https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games) | Itm. | 16 | | | |
+| Game Design | [**Game Design: Art and Concepts**](https://www.coursera.org/specializations/game-design) | Bgn. | 51 | ○ | × | California Institute of the Arts |
+| | &nbsp;&nbsp;· [Introduction to Game Design](https://www.coursera.org/learn/game-design) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Story and Narrative Development for Video Games](https://www.coursera.org/learn/video-game-story) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [World Design for Video Games](https://www.coursera.org/learn/video-game-world) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Character Design for Video Games](https://www.coursera.org/learn/game-character-design) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Game Design Document: Define the Art & Concepts](https://www.coursera.org/learn/game-design-document) | Itm. | 16 | | | |
+| Game Design | [**Art for Games**](https://www.coursera.org/specializations/art-for-games) | Bgn. | 47 | ○ | × | Michigan State University |
+| | &nbsp;&nbsp;· [Pixel Art for Video Games](https://www.coursera.org/learn/pixel-art-video-games) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Concept Art for Video Games](https://www.coursera.org/learn/concept-art-video-games) | - | 6 | | | |
+
+
 ## [Coursera / Specialization : Data Science - Python](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
@@ -402,70 +496,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
 | | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
-
-
-## [Coursera / Specialization : Data Structure & Algorithms](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Data Structure & Algorithms (Any Languages) | [**Data Structures and Algorithms**](https://www.coursera.org/specializations/data-structures-algorithms) | Itm. | 184 | ○ | × | University of California San Diego |
-| | &nbsp;&nbsp;· [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) | Itm. | 40 | | | |
-| | &nbsp;&nbsp;· [Data Structures](https://www.coursera.org/learn/data-structures) | Itm. | 25 | | | |
-| | &nbsp;&nbsp;· [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) | Itm. | 55 | | | |
-| | &nbsp;&nbsp;· [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) | Itm. | 19 | | | |
-| | &nbsp;&nbsp;· [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) | Adv. | 27 | | | |
-| | &nbsp;&nbsp;· [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) | Adv. | 18 | | | |
-| Data Structure & Algorithms (Any Languages) | [**Algorithms**](https://www.coursera.org/specializations/algorithms) | Itm. | 61 | × | × | Stanford University |
-| | &nbsp;&nbsp;· [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | Itm. | 17 | | | |
-| | &nbsp;&nbsp;· [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | Itm. | 14 | | | |
-| Data Structure & Algorithms (Python) | [**Data Science Foundations: Data Structures and Algorithms**](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Adv. | 106 | ○ | × | University of Colorado Boulder |
-| | &nbsp;&nbsp;· [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing) | Itm. | 34 | | | |
-| | &nbsp;&nbsp;· [Trees and Graphs: Basics](https://www.coursera.org/learn/trees-graphs-basics) | Adv. | 34 | | | |
-| | &nbsp;&nbsp;· [Dynamic Programming, Greedy Algorithms](https://www.coursera.org/learn/dynamic-programming-greedy-algorithms) | Adv. | 38 | | | |
-| Data Structure & Algorithms (Any Languages) | [**Data Structures and Algorithms**](https://www.coursera.org/specializations/data-structures-algorithms-tsinghua) | Itm. | 115 | ○ | × | Tsinghua University |
-| | &nbsp;&nbsp;· [Data Structures and Algorithms (I)](https://www.coursera.org/learn/data-structures-algorithms-1) | Itm. | 26 | | | |
-| | &nbsp;&nbsp;· [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) | Itm. | 37 | | | |
-| | &nbsp;&nbsp;· [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) | Itm. | 27 | | | |
-| | &nbsp;&nbsp;· [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) | Itm. | 25 | | | |
-
-
-## [Coursera / Specialization : Game Programming](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Unity | [**C# Programming for Unity Game Development**](https://www.coursera.org/specializations/programming-unity-game-development) | Bgn. | 123 | ○ | × | University of Colorado System |
-| | &nbsp;&nbsp;· [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity) | Itm. | 22 | | | |
-| | &nbsp;&nbsp;· [C# Class Development](https://www.coursera.org/learn/csharp-class-development) | Itm. | 28 | | | |
-| | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games) | Itm. | 54 | | | |
-| Unity | [**Game Design and Development with Unity 2020**](https://www.coursera.org/specializations/game-design-and-development) | Bgn. | 71 | ○ | × | Michigan State University |
-| | &nbsp;&nbsp;· [Game Design and Development 1: 2D Shooter](https://www.coursera.org/learn/game-design-and-development-1) | Bgn. | 15 | | | |
-| | &nbsp;&nbsp;· [Game Design and Development 2: 2D Platformer](https://www.coursera.org/learn/game-design-and-development-2) | Itm. | 12 | | | |
-| | &nbsp;&nbsp;· [Game Design and Development 3: 3D Shooter](https://www.coursera.org/learn/game-design-and-development-3) | Itm. | 14 | | | |
-| | &nbsp;&nbsp;· [Game Design and Development 4: 3D Platformer](https://www.coursera.org/learn/game-design-and-development-4) | Itm. | 13 | | | |
-| | &nbsp;&nbsp;· [Game Design and Development 5: Capstone Project](https://www.coursera.org/learn/game-design-and-development-5) | Itm. | 17 | | | |
-| Unreal | [**C++ Programming for Unreal Game Development**](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment) | Itm. | 72 | ○ | × | University of Colorado System |
-| | &nbsp;&nbsp;· [Introduction to C++ Programming and Unreal](https://www.coursera.org/learn/introductionprogrammingunreal) | Itm. | 20 | | | |
-| | &nbsp;&nbsp;· [More C++ Programming and Unreal](https://www.coursera.org/learn/more-programming-unreal) | Itm. | 18 | | | |
-| | &nbsp;&nbsp;· [C++ Class Development](https://www.coursera.org/learn/cpp-class-development) | Itm. | 18 | | | |
-| | &nbsp;&nbsp;· [Intermediate Object-Oriented Programming for Unreal Games](https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games) | Itm. | 16 | | | |
-| Game Design | [**Game Design: Art and Concepts**](https://www.coursera.org/specializations/game-design) | Bgn. | 51 | ○ | × | California Institute of the Arts |
-| | &nbsp;&nbsp;· [Introduction to Game Design](https://www.coursera.org/learn/game-design) | Bgn. | 6 | | | |
-| | &nbsp;&nbsp;· [Story and Narrative Development for Video Games](https://www.coursera.org/learn/video-game-story) | Bgn. | 12 | | | |
-| | &nbsp;&nbsp;· [World Design for Video Games](https://www.coursera.org/learn/video-game-world) | Bgn. | 8 | | | |
-| | &nbsp;&nbsp;· [Character Design for Video Games](https://www.coursera.org/learn/game-character-design) | Bgn. | 9 | | | |
-| | &nbsp;&nbsp;· [Game Design Document: Define the Art & Concepts](https://www.coursera.org/learn/game-design-document) | Itm. | 16 | | | |
-| Game Design | [**Art for Games**](https://www.coursera.org/specializations/art-for-games) | Bgn. | 47 | ○ | × | Michigan State University |
-| | &nbsp;&nbsp;· [Pixel Art for Video Games](https://www.coursera.org/learn/pixel-art-video-games) | Bgn. | 9 | | | |
-| | &nbsp;&nbsp;· [Low Poly Art For Video Games](https://www.coursera.org/learn/low-poly-art-video-games) | Itm. | 17 | | | |
-| | &nbsp;&nbsp;· [Current Gen 3D Game Prop Production](https://www.coursera.org/learn/3d-game-prop-production) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [Concept Art for Video Games](https://www.coursera.org/learn/concept-art-video-games) | - | 6 | | | |
 
 
 ## [Coursera / Specialization : Investment](#list)
