@@ -364,28 +364,27 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | AWS .NET | [**Modern Application Development with .NET on AWS**](https://www.coursera.org/specializations/aws-net-serverless-development) | Bgn. | 44 | ○ | × | Amazon Web Services |
 | | &nbsp;&nbsp;· [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Bgn. | 16 | | | |
 | | &nbsp;&nbsp;· [Building Modern .NET Applications on AWS](https://www.coursera.org/learn/aws-building-modern-net-applications) | Itm. | 18 | | | |
-| (DynamoDB) | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
 | AWS Java | [**Modern Application Development with Java on AWS**](https://www.coursera.org/specializations/aws-java-serverless-development) | Bgn. | 51 | ○ | × | Amazon Web Services |
 | | &nbsp;&nbsp;· [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Bgn. | 16 | | | |
 | | &nbsp;&nbsp;· [Building Modern Java Applications on AWS](https://www.coursera.org/learn/building-modern-java-applications-on-aws) | Itm. | 19 | | | |
-| (DynamoDB) | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
-| (CodeGuru) | &nbsp;&nbsp;· [Improve Your Java Code Using Amazon CodeGuru](https://www.coursera.org/learn/aws-improve-java-code-amazon-codeguru) | Itm. | 6 | | | |
+| | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Improve Your Java Code Using Amazon CodeGuru](https://www.coursera.org/learn/aws-improve-java-code-amazon-codeguru) | Itm. | 6 | | | |
 | AWS Node.js | [**Modern Application Development with Node.js on AWS**](https://www.coursera.org/specializations/aws-nodejs-serverless-development) | Bgn. | 45 | ○ | × | Amazon Web Services |
 | | &nbsp;&nbsp;· [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Bgn. | 16 | | | |
 | | &nbsp;&nbsp;· [Building Modern Node.js Applications on AWS](https://www.coursera.org/learn/building-modern-node-applications-on-aws) | Itm. | 19 | | | |
-| (DynamoDB) | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
 | AWS Python | [**Modern Application Development with Python on AWS**](https://www.coursera.org/specializations/aws-python-serverless-development) | Bgn. | 51 | ○ | × | Amazon Web Services |
 | | &nbsp;&nbsp;· [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Bgn. | 16 | | | |
 | | &nbsp;&nbsp;· [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws) | Itm. | 20 | | | |
-| (DynamoDB) | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
-| (CodeGuru) | &nbsp;&nbsp;· [Improve Your Python Code Using Amazon CodeGuru](https://www.coursera.org/learn/aws-improve-python-code-amazon-codeguru) | Itm. | 5 | | | |
+| | &nbsp;&nbsp;· [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Improve Your Python Code Using Amazon CodeGuru](https://www.coursera.org/learn/aws-improve-python-code-amazon-codeguru) | Itm. | 5 | | | |
 | AWS DevOps | [**DevOps on AWS**](https://www.coursera.org/specializations/aws-devops) | Itm. | 31 | ○ | × | Amazon Web Services |
 | | &nbsp;&nbsp;· [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) | Bgn. | 16 | | | |
 | | &nbsp;&nbsp;· [DevOps on AWS: Code, Build, and Test](https://www.coursera.org/learn/devops-aws-code-build-test) | Itm. | 5 | | | |
 | | &nbsp;&nbsp;· [DevOps on AWS: Release and Deploy](https://www.coursera.org/learn/devops-aws-release-deploy) | Itm. | 5 | | | |
 | | &nbsp;&nbsp;· [DevOps on AWS: Operate and Monitor](https://www.coursera.org/learn/devops-aws-operate-monitor) | Itm. | 5 | | | |
-| AWS<br>Data Science | [**Practical Data Science on the AWS Cloud**](https://www.coursera.org/specializations/practical-data-science) | Adv. | 47 | × | × | Amazon Web Services<br> |
-| | | | | | | DeepLearning.AI |
+| AWS<br>Data Science | [**Practical Data Science on the AWS Cloud**](https://www.coursera.org/specializations/practical-data-science) | Adv. | 47 | × | × | Amazon Web Services<br>DeepLearning.AI |
 | | &nbsp;&nbsp;· [Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models) | Adv. | 19 | | | |
 | | &nbsp;&nbsp;· [Build, Train, and Deploy ML Pipelines using BERT](https://www.coursera.org/learn/ml-pipelines-bert) | Adv. | 14 | | | |
 | | &nbsp;&nbsp;· [Optimize ML Models and Deploy Human-in-the-Loop Pipelines](https://www.coursera.org/learn/ml-models-human-in-the-loop-pipelines) | Adv. | 14 | | | |
