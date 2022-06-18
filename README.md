@@ -30,8 +30,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Guided Project](#coursera--guided-project)
 
 ### \<Edx>
-  - [Edx / Professional Certificate](#edx--professional-certificate)
-  - [Edx / Course](#edx--course)
+  - [Professional Certificate](#edx--professional-certificate)
+  - [Course](#edx--course)
 
 ### \<Others>
   - [Sololearn / Course](#sololearn--course)
