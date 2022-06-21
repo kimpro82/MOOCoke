@@ -162,6 +162,31 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
+| COBOL | [**IBM Mainframe Developer**](https://www.coursera.org/professional-certificates/ibm-mainframe-developer) | Bgn. | 101 | × | × | IBM |
+| | &nbsp;&nbsp;· [Introduction to Enterprise Computing](https://www.coursera.org/learn/introduction-enterprise-computing) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Basics](https://www.coursera.org/learn/ibm-cobol-basics) | Bgn. | 14 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Core](https://www.coursera.org/learn/ibm-cobol-core) | Bgn. | 11 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Software Development Practices](https://www.coursera.org/learn/software-development-practices) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Data and File Management](https://www.coursera.org/learn/cobol-data-file-management) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Basic Testing and Debugging](https://www.coursera.org/learn/cobol-testing-debugging) | Bgn. | 14 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Software Development Process](https://www.coursera.org/learn/software-development-proccess) | Bgn. | 17 | | | |
+| IT Automation<br>Python | [**Google IT Automation with Python**](https://www.coursera.org/professional-certificates/google-it-automation) | Bgn. | 115 | ○ | △ | Google |
+| | &nbsp;&nbsp;· [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | Bgn. | 28 | | ○ | |
+| | &nbsp;&nbsp;· [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system) | Bgn. | 27 | | × | |
+| | &nbsp;&nbsp;· [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | | × | |
+| | &nbsp;&nbsp;· [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques) | Bgn. | 16 | | × | |
+| | &nbsp;&nbsp;· [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud) | Bgn. | 15 | | × | |
+| | &nbsp;&nbsp;· [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python) | Bgn. | 13 | | × | |
+| Google Cloud<br>Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
+| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
+| | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
 | IT Support | [**Google IT Support**](https://www.coursera.org/professional-certificates/google-it-support) | Bgn. | 124 | ○ | × | Google |
 | | &nbsp;&nbsp;· [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) | Bgn. | 20 | | | |
 | | &nbsp;&nbsp;· [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Bgn. | 25 | | | |
@@ -176,23 +201,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud) | Bgn. | 13 | | | |
 | | &nbsp;&nbsp;· [Introduction to Technical Support](https://www.coursera.org/learn/introduction-to-technical-support) | Bgn. | 6 | | | |
 | | &nbsp;&nbsp;· [Technical Support Case Studies and Project](https://www.coursera.org/learn/technical-support-case-studies) | Bgn. | - | | | |
-| IT Automation Python | [**Google IT Automation with Python**](https://www.coursera.org/professional-certificates/google-it-automation) | Bgn. | 115 | ○ | △ | Google |
-| | &nbsp;&nbsp;· [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | Bgn. | 28 | | ○ | |
-| | &nbsp;&nbsp;· [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system) | Bgn. | 27 | | × | |
-| | &nbsp;&nbsp;· [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | | × | |
-| | &nbsp;&nbsp;· [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques) | Bgn. | 16 | | × | |
-| | &nbsp;&nbsp;· [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud) | Bgn. | 15 | | × | |
-| | &nbsp;&nbsp;· [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python) | Bgn. | 13 | | × | |
-| Google Cloud Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
-| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
-| | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
-| | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 | | | |
-| | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
-| | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
-| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
-| | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
 | Project Management | [**Google Project Management**](https://www.coursera.org/professional-certificates/google-project-management) | Bgn. | 155 | ○ | × | Google |
 | | &nbsp;&nbsp;· [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google) | Bgn. | 22 | | | |
