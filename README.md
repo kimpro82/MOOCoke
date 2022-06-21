@@ -666,7 +666,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [Using Shiny to Plot Differential Gene Expression](https://www.coursera.org/projects/shiny-to-plot-differential-gene-expression) | Bgn. | 1 | ○ | × | |
 | Block Chain | [Cryptocurrency Data Visualization using Plotly Express](https://www.coursera.org/projects/cryptocurrency-data-visualization-using-plotly-express) | Bgn. | 1 | ○ | × | Deprecated |
 | | [Introduction to Ethereum DeFi Smart Contract Security & Exploits](https://www.coursera.org/projects/ethereum-smart-contract-security-exploits) | Itm. | 2 | ○ | × | Deprecated |
-| Development | [Automation Scripts Using Bash](https://www.coursera.org/projects/auto-scripts-bash) | Itm. | 2 | ○ | × | |
+| Development | [Absolute Basics of COBOL](https://www.coursera.org/projects/absolute-basics-of-cobol) | Bgn. | 1.5 | ○ | × | |
+| | [Automation Scripts Using Bash](https://www.coursera.org/projects/auto-scripts-bash) | Itm. | 2 | ○ | × | |
 | | [Build a Python GUI with Tkinter](https://www.coursera.org/projects/build-a-python-gui-with-tkinter) | Itm. | 1 | ○ | × | |
 | | [Introduction to Bash Shell Scripting](https://www.coursera.org/projects/introduction-to-bash-shell-scripting) | Bgn. | 1 | ○ | × | |
 | | [Introduction to Github and Visual Studio Code](https://www.coursera.org/projects/github-visual-studio-code-desktop) | Bgn. | 1 | ○ | × | |
