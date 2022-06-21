@@ -74,7 +74,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 |:-:|:-:|:-:|:--|--:|:-:|:-:|
 | IT | Arizona State University | | [**AI & Machine Learning**](https://www.coursera.org/mastertrack/ai-machine-learning-asu)\* | 4,500 | 6-9 | Master of Computer Science |
 | | | 1 | Statistical Machine Learning | | | |
-| | | 2 | Artifinancial Intelligence | | | |
+| | | 2 | Artificial Intelligence | | | |
 | | | 3 | Knowledge Representation and Reasoning | | | |
 | | | 4 | Intro to Deep Learning in Visual Computing | | | |
 | | Arizona State University | | [**Big Data**](https://www.coursera.org/mastertrack/big-data-asu)\* | 4,500 | 6-9 | Master of Computer Science |
