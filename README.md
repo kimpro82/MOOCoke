@@ -74,7 +74,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 |:-:|:-:|:-:|:--|--:|:-:|:-:|
 | IT | Arizona State University | | [**AI & Machine Learning**](https://www.coursera.org/mastertrack/ai-machine-learning-asu)\* | 4,500 | 6-9 | Master of Computer Science |
 | | | 1 | Statistical Machine Learning | | | |
-| | | 2 | Artificial Intelligence | | | |
+| | | 2 | Artifinancial Intelligence | | | |
 | | | 3 | Knowledge Representation and Reasoning | | | |
 | | | 4 | Intro to Deep Learning in Visual Computing | | | |
 | | Arizona State University | | [**Big Data**](https://www.coursera.org/mastertrack/big-data-asu)\* | 4,500 | 6-9 | Master of Computer Science |
@@ -104,7 +104,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | | 2 | Expanding Your Business Analytics Skills | | | |
 | | | 3 | Data Analytics In Product Development and Production | | | |
 | | | 4 | Marketing and Sales Data Decision Making | | | |
-| | | 5 | Data Analytics Applications Fice and Economics | | | |
+| | | 5 | Data Analytics Applications Finance and Economics | | | |
 
 \* Take 3 of the 4 courses listed to earn your certificate.
 
@@ -621,10 +621,10 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [ESG Impact: Investor Perspective](https://www.coursera.org/learn/esg-impact-investor-perspective) | - | 7 | | | |
 | | &nbsp;&nbsp;· [ESG and Climate Change](https://www.coursera.org/learn/esg-and-climate-change) | - | 8 | | | |
 | | &nbsp;&nbsp;· [ESG and Social Activism](https://www.coursera.org/learn/esg-social-activism) | Bgn. | 7 | | | |
-| Investment (ESG) | [**ESG Investing: Ficial Decisions in Flux**](https://www.coursera.org/specializations/esg-investing-ficial-decision-in-flux) | Bgn. | 92 | ○ | × | Interactive Brokers |
+| Investment (ESG) | [**ESG Investing: Financial Decisions in Flux**](https://www.coursera.org/specializations/esg-investing-financial-decision-in-flux) | Bgn. | 92 | ○ | × | Interactive Brokers |
 | | &nbsp;&nbsp;· [ESG Investing: Setting Standards & Conducting Analysis](https://www.coursera.org/learn/esg-investing-setting-standards-conducting-analysis) | Bgn. | 26 | | | |
 | | &nbsp;&nbsp;· [ESG Investing: Industry Impacts & Transformations](https://www.coursera.org/learn/esg-investing-industry-impacts-transformations) | Bgn. | 24 | | | |
-| | &nbsp;&nbsp;· [ESG-focused Ficial Products](https://www.coursera.org/learn/esg-focused-ficial-products) | Bgn. | 22 | | | |
+| | &nbsp;&nbsp;· [ESG-focused Financial Products](https://www.coursera.org/learn/esg-focused-financial-products) | Bgn. | 22 | | | |
 | | &nbsp;&nbsp;· [ESG Data & Accountability](https://www.coursera.org/learn/esg-data-and-accountability) | Bgn. | 20 | | | |
 
 
