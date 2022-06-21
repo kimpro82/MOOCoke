@@ -240,6 +240,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming) | Itm. | 33 | | | |
 | | &nbsp;&nbsp;· [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | Itm. | 28 | | | |
 | | &nbsp;&nbsp;· [Functional Programming in Scala Capstone](https://www.coursera.org/learn/scala-capstone) | - | 32 | | | |
+| VB | [**Introduction to Computer Programming with Visual Basic**](https://www.coursera.org/specializations/visual-basic-computer-programming) | Bgn. | 95 | ○ | × | LearnQuest |
+| | &nbsp;&nbsp;· [Foundations of Computer Science](https://www.coursera.org/learn/computer-science-foundations) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Introduction to Visual Basic Programming](https://www.coursera.org/learn/visual-basic-programming-introduction) | Bgn. | 28 | | | |
+| | &nbsp;&nbsp;· [Visual Basic Programming: Classes and Collections](https://www.coursera.org/learn/visual-basic-classes-collections) | Itm. | 28 | | | |
+| | &nbsp;&nbsp;· [Visual Basic Programming: Inheritance and Polymorphism](https://www.coursera.org/learn/visual-basic-inheritance-polymorphism) | Itm. | 23 | | | |
 | VBA | [**Excel/VBA for Creative Problem Solving**](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) | Bgn. | 54 | ○ | × | University of Colorado Boulder |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2) | Itm. | 20 | | | |
