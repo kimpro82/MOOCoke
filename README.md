@@ -104,7 +104,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | | 2 | Expanding Your Business Analytics Skills | | | |
 | | | 3 | Data Analytics In Product Development and Production | | | |
 | | | 4 | Marketing and Sales Data Decision Making | | | |
-| | | 5 | Data Analytics Applications Fice and Economics | | | |
+| | | 5 | Data Analytics Applications Finance and Economics | | | |
 
 \* Take 3 of the 4 courses listed to earn your certificate.
 
@@ -162,6 +162,31 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
+| COBOL | [**IBM Mainframe Developer**](https://www.coursera.org/professional-certificates/ibm-mainframe-developer) | Bgn. | 101 | × | × | IBM |
+| | &nbsp;&nbsp;· [Introduction to Enterprise Computing](https://www.coursera.org/learn/introduction-enterprise-computing) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Basics](https://www.coursera.org/learn/ibm-cobol-basics) | Bgn. | 14 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Core](https://www.coursera.org/learn/ibm-cobol-core) | Bgn. | 11 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Software Development Practices](https://www.coursera.org/learn/software-development-practices) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Data and File Management](https://www.coursera.org/learn/cobol-data-file-management) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Basic Testing and Debugging](https://www.coursera.org/learn/cobol-testing-debugging) | Bgn. | 14 | | | |
+| | &nbsp;&nbsp;· [IBM COBOL Software Development Process](https://www.coursera.org/learn/software-development-proccess) | Bgn. | 17 | | | |
+| IT Automation<br>Python | [**Google IT Automation with Python**](https://www.coursera.org/professional-certificates/google-it-automation) | Bgn. | 115 | ○ | △ | Google |
+| | &nbsp;&nbsp;· [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | Bgn. | 28 | | ○ | |
+| | &nbsp;&nbsp;· [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system) | Bgn. | 27 | | × | |
+| | &nbsp;&nbsp;· [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | | × | |
+| | &nbsp;&nbsp;· [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques) | Bgn. | 16 | | × | |
+| | &nbsp;&nbsp;· [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud) | Bgn. | 15 | | × | |
+| | &nbsp;&nbsp;· [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python) | Bgn. | 13 | | × | |
+| Google Cloud<br>Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
+| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
+| | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
 | IT Support | [**Google IT Support**](https://www.coursera.org/professional-certificates/google-it-support) | Bgn. | 124 | ○ | × | Google |
 | | &nbsp;&nbsp;· [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) | Bgn. | 20 | | | |
 | | &nbsp;&nbsp;· [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Bgn. | 25 | | | |
@@ -176,23 +201,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud) | Bgn. | 13 | | | |
 | | &nbsp;&nbsp;· [Introduction to Technical Support](https://www.coursera.org/learn/introduction-to-technical-support) | Bgn. | 6 | | | |
 | | &nbsp;&nbsp;· [Technical Support Case Studies and Project](https://www.coursera.org/learn/technical-support-case-studies) | Bgn. | - | | | |
-| IT Automation Python | [**Google IT Automation with Python**](https://www.coursera.org/professional-certificates/google-it-automation) | Bgn. | 115 | ○ | △ | Google |
-| | &nbsp;&nbsp;· [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | Bgn. | 28 | | ○ | |
-| | &nbsp;&nbsp;· [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system) | Bgn. | 27 | | × | |
-| | &nbsp;&nbsp;· [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | | × | |
-| | &nbsp;&nbsp;· [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques) | Bgn. | 16 | | × | |
-| | &nbsp;&nbsp;· [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud) | Bgn. | 15 | | × | |
-| | &nbsp;&nbsp;· [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python) | Bgn. | 13 | | × | |
-| Google Cloud Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
-| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
-| | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
-| | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 | | | |
-| | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
-| | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
-| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
-| | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
 | Project Management | [**Google Project Management**](https://www.coursera.org/professional-certificates/google-project-management) | Bgn. | 155 | ○ | × | Google |
 | | &nbsp;&nbsp;· [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google) | Bgn. | 22 | | | |
@@ -232,6 +240,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Parallel programming](https://www.coursera.org/learn/scala-parallel-programming) | Itm. | 33 | | | |
 | | &nbsp;&nbsp;· [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data) | Itm. | 28 | | | |
 | | &nbsp;&nbsp;· [Functional Programming in Scala Capstone](https://www.coursera.org/learn/scala-capstone) | - | 32 | | | |
+| VB | [**Introduction to Computer Programming with Visual Basic**](https://www.coursera.org/specializations/visual-basic-computer-programming) | Bgn. | 95 | ○ | × | LearnQuest |
+| | &nbsp;&nbsp;· [Foundations of Computer Science](https://www.coursera.org/learn/computer-science-foundations) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Introduction to Visual Basic Programming](https://www.coursera.org/learn/visual-basic-programming-introduction) | Bgn. | 28 | | | |
+| | &nbsp;&nbsp;· [Visual Basic Programming: Classes and Collections](https://www.coursera.org/learn/visual-basic-classes-collections) | Itm. | 28 | | | |
+| | &nbsp;&nbsp;· [Visual Basic Programming: Inheritance and Polymorphism](https://www.coursera.org/learn/visual-basic-inheritance-polymorphism) | Itm. | 23 | | | |
 | VBA | [**Excel/VBA for Creative Problem Solving**](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) | Bgn. | 54 | ○ | × | University of Colorado Boulder |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2) | Itm. | 20 | | | |
@@ -608,10 +621,10 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [ESG Impact: Investor Perspective](https://www.coursera.org/learn/esg-impact-investor-perspective) | - | 7 | | | |
 | | &nbsp;&nbsp;· [ESG and Climate Change](https://www.coursera.org/learn/esg-and-climate-change) | - | 8 | | | |
 | | &nbsp;&nbsp;· [ESG and Social Activism](https://www.coursera.org/learn/esg-social-activism) | Bgn. | 7 | | | |
-| Investment (ESG) | [**ESG Investing: Ficial Decisions in Flux**](https://www.coursera.org/specializations/esg-investing-ficial-decision-in-flux) | Bgn. | 92 | ○ | × | Interactive Brokers |
+| Investment (ESG) | [**ESG Investing: Financial Decisions in Flux**](https://www.coursera.org/specializations/esg-investing-financial-decision-in-flux) | Bgn. | 92 | ○ | × | Interactive Brokers |
 | | &nbsp;&nbsp;· [ESG Investing: Setting Standards & Conducting Analysis](https://www.coursera.org/learn/esg-investing-setting-standards-conducting-analysis) | Bgn. | 26 | | | |
 | | &nbsp;&nbsp;· [ESG Investing: Industry Impacts & Transformations](https://www.coursera.org/learn/esg-investing-industry-impacts-transformations) | Bgn. | 24 | | | |
-| | &nbsp;&nbsp;· [ESG-focused Ficial Products](https://www.coursera.org/learn/esg-focused-ficial-products) | Bgn. | 22 | | | |
+| | &nbsp;&nbsp;· [ESG-focused Financial Products](https://www.coursera.org/learn/esg-focused-financial-products) | Bgn. | 22 | | | |
 | | &nbsp;&nbsp;· [ESG Data & Accountability](https://www.coursera.org/learn/esg-data-and-accountability) | Bgn. | 20 | | | |
 
 
@@ -653,7 +666,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | [Using Shiny to Plot Differential Gene Expression](https://www.coursera.org/projects/shiny-to-plot-differential-gene-expression) | Bgn. | 1 | ○ | × | |
 | Block Chain | [Cryptocurrency Data Visualization using Plotly Express](https://www.coursera.org/projects/cryptocurrency-data-visualization-using-plotly-express) | Bgn. | 1 | ○ | × | Deprecated |
 | | [Introduction to Ethereum DeFi Smart Contract Security & Exploits](https://www.coursera.org/projects/ethereum-smart-contract-security-exploits) | Itm. | 2 | ○ | × | Deprecated |
-| Development | [Automation Scripts Using Bash](https://www.coursera.org/projects/auto-scripts-bash) | Itm. | 2 | ○ | × | |
+| Development | [Absolute Basics of COBOL](https://www.coursera.org/projects/absolute-basics-of-cobol) | Bgn. | 1.5 | ○ | × | |
+| | [Automation Scripts Using Bash](https://www.coursera.org/projects/auto-scripts-bash) | Itm. | 2 | ○ | × | |
 | | [Build a Python GUI with Tkinter](https://www.coursera.org/projects/build-a-python-gui-with-tkinter) | Itm. | 1 | ○ | × | |
 | | [Introduction to Bash Shell Scripting](https://www.coursera.org/projects/introduction-to-bash-shell-scripting) | Bgn. | 1 | ○ | × | |
 | | [Introduction to Github and Visual Studio Code](https://www.coursera.org/projects/github-visual-studio-code-desktop) | Bgn. | 1 | ○ | × | |
