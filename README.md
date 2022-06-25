@@ -9,8 +9,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Master's Degree / Coursera](#masters-degree--coursera)
   - [Master's Degree / Edx](#masters-degree--edx)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
-  - [MicroMaster® Certificate / Edx - Computer Science](#edx--micromaster-certificate)
-  - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate)
+  - [MicroMaster® Certificate / Edx - Computer Science](#edx--micromaster-certificate---computer-science)
+  - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate---computer-science-1)
 
 ### \<Coursera>
   - [Professional Certificate](#coursera--professional-certificate)
@@ -157,7 +157,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 \* They may be discounted.
 
 
-## [Edx / MicroMaster® Certificate - Computer Science](#list)
+## [Edx / MicroMaster® Certificate - Data Science & Analytics](#list)
 
 | Subject | Partner | Course | Title | Payment($) \* | Months | Related Degree |
 |:-:|:-:|:-:|:--|--:|:-:|:-:|
