@@ -9,7 +9,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Master's Degree / Coursera](#masters-degree--coursera)
   - [Master's Degree / Edx](#masters-degree--edx)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
-  - [MicroMaster® Certificate / Edx](#edx--micromaster-certificate)
+  - [MicroMaster® Certificate / Edx - Computer Science](#edx--micromaster-certificate)
+  - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate)
 
 ### \<Coursera>
   - [Professional Certificate](#coursera--professional-certificate)
@@ -109,7 +110,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 \* Take 3 of the 4 courses listed to earn your certificate.
 
 
-## [Edx / MicroMaster® Certificate](#list)
+## [Edx / MicroMaster® Certificate - Computer Science](#list)
 
 | Subject | Partner | Course | Title | Payment($) \* | Months | Related Degree |
 |:-:|:-:|:-:|:--|--:|:-:|:-:|
@@ -152,6 +153,42 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | | 3 | Applied Quantum Computing I: Fundamentals | | | |
 | | | 4 | Applied Quantum Computing II: Hardware | | | |
 | | | 5 | Applied Quantum Computing III: Algorithm and Software | | | |
+
+\* They may be discounted.
+
+
+## [Edx / MicroMaster® Certificate - Computer Science](#list)
+
+| Subject | Partner | Course | Title | Payment($) \* | Months | Related Degree |
+|:-:|:-:|:-:|:--|--:|:-:|:-:|
+| Data Science | The University of California, San Diego |  | [**Data Science**](https://www.edx.org/micromasters/uc-san-diegox-data-science) | 1,400 | 10 | [Master of Science degree in Data Science at Rochester Institute of Technology](https://www.rit.edu/online/pathways/ucsdx-data-science) |
+|  |  | 1 | Python for Data Science |  |  |  |
+|  |  | 2 | Probability and Statistics in Data Science using Python |  |  |  |
+|  |  | 3 | Machine Learning Fundamentals |  |  |  |
+|  |  | 4 | Machine Learning Fundamentals |  |  |  |
+|  | Massachusetts Institute of Technology |  | [**Statistics and Data Science**](https://www.edx.org/micromasters/mitx-statistics-and-data-science) | 1,500 | 14 | [Refer to this link](https://www.edx.org/micromasters/mitx-statistics-and-data-science) |
+|  |  | 1 | Probability - The Science of Uncertainty and Data |  |  |  |
+|  |  | 2 | Fundamentals of Statistics |  |  |  |
+|  |  | 3 | Machine Learning with Python: from Linear Models to Deep Learning |  |  |  |
+|  |  | 4 | Capstone Exam in Statistics and Data Science |  |  |  |
+|  |  | 5 | (Select one) Data Analysis in Social Science—Assessing Your Knowledge |  |  |  |
+|  |  | 5 | (Select one) Data Analysis: Statistical Modeling and Computation in Applications |  |  |  |
+|  | University of Adelaide |  | [**Big Data**](https://www.edx.org/micromasters/adelaidex-big-data) | 985.5 | 12 | [Master of Data Science at the University of Adelaide](https://www.adelaide.edu.au/degree-finder/mdsci_mdatasci.html)<br>[Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/adelaidex-big-data) |
+|  |  | 1 | Programming for Data Science |  |  |  |
+|  |  | 2 | Computational Thinking and Big Data |  |  |  |
+|  |  | 3 | Big Data Fundamentals |  |  |  |
+|  |  | 4 | Big Data Analytics |  |  |  |
+|  |  | 5 | Big Data Capstone Project |  |  |  |
+|  | The Hong Kong University of Science and Technology |  | [**Big Data Technology**](https://www.edx.org/micromasters/hkustx-big-data-technology) | 1,450 | 9 | Master of Science programs in Big Data Technology (BDT) and Information Technology (IT) |
+|  |  | 1 | Foundations of Data Analytics |  |  |  |
+|  |  | 2 | Data Mining and Knowledge Discovery |  |  |  |
+|  |  | 3 | Big Data Computing with Spark |  |  |  |
+|  |  | 4 | Mathematical Methods for Data Analysis |  |  |  |
+|  |  | 5 | Big Data Technology Capstone Project |  |  |  |
+| Analytics | The Georgia Institute of Technology |  | [**Analytics: Essential Tools and Methods**](https://www.edx.org/micromasters/gtx-analytics-essential-tools-and-methods) | 2,475 | 12 | [Online Master of Science in Analytics](https://pe.gatech.edu/degrees/analytics)<br>[Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/gtx-analytics-essential-tools-methods) |
+|  |  | 1 | Introduction to Analytics Modeling |  |  |  |
+|  |  | 2 | Computing for Data Analysis |  |  |  |
+|  |  | 3 | Data Analytics for Business |  |  |  |
 
 \* They may be discounted.
 
