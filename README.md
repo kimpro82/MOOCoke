@@ -6,10 +6,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 ## List
 
 ### \<Master's Degree and Pathway Programs>
-  - [Master's Degree / Coursera](#masters-degree--coursera)
   - [Master's Degree / Edx](#masters-degree--edx)
+  - [Master's Degree / Coursera](#masters-degree--coursera)
+  - [MicroMaster® Certificate / Edx - Computer Science](#edx--micromaster-certificate---computer-science)
+  - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate---data-science--analytics)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
-  - [MicroMaster® Certificate / Edx](#edx--micromaster-certificate)
 
 ### \<Coursera>
   - [Professional Certificate](#coursera--professional-certificate)
@@ -39,6 +40,19 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [ETC / Functional Programming Languages](#etc--functional-programming-languages)
 
 
+## [Master's Degree / Edx](#list)
+
+| Subject | Partner | Title | Tuition (USD) | Months | Credits* | GPA | TOEFL (IBT) |
+|:-:|:-:|:--|:-:|:-:|:-:|:-:|:-:|
+| Computer Science | University of Texas at Austin | [Master’s Degree in Computer Science](https://www.edx.org/masters/online-master-science-computer-science-utaustinx) | 10,000 | 18-36 | 30 | 3.0 | 79 |
+| | Georgia Tech | [Master of Science in Computer Science](https://omscs.gatech.edu/explore-oms-cs) | 9,900 | 12-36 | 36 | 3.0 | 100 |
+| Cybersecurity | Georgia Tech | [Master’s Degree in Cybersecurity](https://www.edx.org/masters/online-master-science-cybersecurity-georgia-tech) | 9,920 | 24-36 | 30 | 3.0 | 100 |
+| Data Science | University of Texas at Austin | [Master’s Degree in Data Science](https://www.edx.org/masters/online-master-data-science-utaustinx) | 10,000 | 18-36 | 30 | 3.0 | 79 |
+| Analytics | Georgia Tech | [Master’s Degree in Analytics](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | 9,900 | 12-36 | 36 | 3.0 | 100 |
+
+\* Credits : It regarded as 3 credits per a course if there is no information.
+
+
 ## [Master's Degree / Coursera](#list)
 
 | Subject | Partner | Title | Total Cost (USD) | Months | Credits* | GPA | TOEFL (IBT) |
@@ -55,61 +69,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 \* Credits : It regarded as 3 credits per a course if there is no information.
 
 
-## [Master's Degree / Edx](#list)
-
-| Subject | Partner | Title | Tuition (USD) | Months | Credits* | GPA | TOEFL (IBT) |
-|:-:|:-:|:--|:-:|:-:|:-:|:-:|:-:|
-| Computer Science | University of Texas at Austin | [Master’s Degree in Computer Science](https://www.edx.org/masters/online-master-science-computer-science-utaustinx) | 10,000 | 18-36 | 30 | 3.0 | 79 |
-| | Georgia Tech | [Master of Science in Computer Science](https://omscs.gatech.edu/explore-oms-cs) | 9,900 | 12-36 | 36 | 3.0 | 100 |
-| Cybersecurity | Georgia Tech | [Master’s Degree in Cybersecurity](https://www.edx.org/masters/online-master-science-cybersecurity-georgia-tech) | 9,920 | 24-36 | 30 | 3.0 | 100 |
-| Data Science | University of Texas at Austin | [Master’s Degree in Data Science](https://www.edx.org/masters/online-master-data-science-utaustinx) | 10,000 | 18-36 | 30 | 3.0 | 79 |
-| Analytics | Georgia Tech | [Master’s Degree in Analytics](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | 9,900 | 12-36 | 36 | 3.0 | 100 |
-
-\* Credits : It regarded as 3 credits per a course if there is no information.
-
-
-## [Coursera / MasterTrack® Certificate](#list)
-
-| Subject | Partner | Course | Title | Payment($) | Months | Related Degree |
-|:-:|:-:|:-:|:--|--:|:-:|:-:|
-| IT | Arizona State University | | [**AI & Machine Learning**](https://www.coursera.org/mastertrack/ai-machine-learning-asu)\* | 4,500 | 6-9 | Master of Computer Science |
-| | | 1 | Statistical Machine Learning | | | |
-| | | 2 | Artificial Intelligence | | | |
-| | | 3 | Knowledge Representation and Reasoning | | | |
-| | | 4 | Intro to Deep Learning in Visual Computing | | | |
-| | Arizona State University | | [**Big Data**](https://www.coursera.org/mastertrack/big-data-asu)\* | 4,500 | 6-9 | Master of Computer Science |
-| | | 1 | Data Processing at Scale | | | |
-| | | 2 | Data Mining | | | |
-| | | 3 | Statistical Machine Learning | | | |
-| | | 4 | Data Visualization | | | |
-| | Arizona State University | | [**Cybersecurity**](https://www.coursera.org/mastertrack/cybersecurity-asu)\* | 4,500 | 6-9 | Master of Computer Science |
-| | | 1 | Information Assurance and Security | | | |
-| | | 2 | Applied Cryptography | | | |
-| | | 3 | Software Security | | | |
-| | | 4 | Advanced Computer and Network Security | | | |
-| | | 5 | Distributed and Multiprocessor Operating Systems | | | |
-| | | 6 | Accelerated Applied Security | | | |
-| | Arizona State University | | [**Software Engineering**](https://www.coursera.org/mastertrack/software-engineering-asu)\* | 4,500 | 6-9 | Master of Computer Science |
-| | | 1 | Software Verification, Validation, and Testing | | | |
-| | | 2 | Advanced Software Analysis and Design | | | |
-| | | 3 | Engineering Blockchain Applications | | | |
-| | | 4 | Mobile Computing | | | |
-| Analytics | The University of Chicago | | [**Machine Learning for Analytics**](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago) | 4,000 | 5 | Master of Science in Analytics |
-| | | 1 | Statistical Thinking for Machine Learning | | | |
-| | | 2 | Advanced Statistical Thinking for Machine Learning | | | |
-| | | 3 | Introduction to Machine Learning | | | |
-| | | 4 | Advanced Applications | | | |
-| | Tufts University | | [**Business Analytics for Managers**](https://www.coursera.org/mastertrack/data-analytics-managers-tufts) | 3,000 | 6 | Master of Science in Engineering Management |
-| | | 1 | Analytics Techniques for Business Insight | | | |
-| | | 2 | Expanding Your Business Analytics Skills | | | |
-| | | 3 | Data Analytics In Product Development and Production | | | |
-| | | 4 | Marketing and Sales Data Decision Making | | | |
-| | | 5 | Data Analytics Applications Finance and Economics | | | |
-
-\* Take 3 of the 4 courses listed to earn your certificate.
-
-
-## [Edx / MicroMaster® Certificate](#list)
+## [Edx / MicroMaster® Certificate - Computer Science](#list)
 
 | Subject | Partner | Course | Title | Payment($) \* | Months | Related Degree |
 |:-:|:-:|:-:|:--|--:|:-:|:-:|
@@ -154,6 +114,83 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | | 5 | Applied Quantum Computing III: Algorithm and Software | | | |
 
 \* They may be discounted.
+
+
+## [Edx / MicroMaster® Certificate - Data Science & Analytics](#list)
+
+| Subject | Partner | Course | Title | Payment($) \* | Months | Related Degree |
+|:-:|:-:|:-:|:--|--:|:-:|:-:|
+| Data Science | The University of California, San Diego |  | [**Data Science**](https://www.edx.org/micromasters/uc-san-diegox-data-science) | 1,400 | 10 | [Master of Science degree in Data Science at Rochester Institute of Technology](https://www.rit.edu/online/pathways/ucsdx-data-science) |
+|  |  | 1 | Python for Data Science |  |  |  |
+|  |  | 2 | Probability and Statistics in Data Science using Python |  |  |  |
+|  |  | 3 | Machine Learning Fundamentals |  |  |  |
+|  |  | 4 | Machine Learning Fundamentals |  |  |  |
+|  | Massachusetts Institute of Technology |  | [**Statistics and Data Science**](https://www.edx.org/micromasters/mitx-statistics-and-data-science) | 1,500 | 14 | [Refer to this link](https://www.edx.org/micromasters/mitx-statistics-and-data-science) |
+|  |  | 1 | Probability - The Science of Uncertainty and Data |  |  |  |
+|  |  | 2 | Fundamentals of Statistics |  |  |  |
+|  |  | 3 | Machine Learning with Python: from Linear Models to Deep Learning |  |  |  |
+|  |  | 4 | Capstone Exam in Statistics and Data Science |  |  |  |
+|  |  | 5 | (Select one) Data Analysis in Social Science—Assessing Your Knowledge |  |  |  |
+|  |  | 5 | (Select one) Data Analysis: Statistical Modeling and Computation in Applications |  |  |  |
+|  | University of Adelaide |  | [**Big Data**](https://www.edx.org/micromasters/adelaidex-big-data) | 985.5 | 12 | [Master of Data Science at the University of Adelaide](https://www.adelaide.edu.au/degree-finder/mdsci_mdatasci.html)<br>[Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/adelaidex-big-data) |
+|  |  | 1 | Programming for Data Science |  |  |  |
+|  |  | 2 | Computational Thinking and Big Data |  |  |  |
+|  |  | 3 | Big Data Fundamentals |  |  |  |
+|  |  | 4 | Big Data Analytics |  |  |  |
+|  |  | 5 | Big Data Capstone Project |  |  |  |
+|  | The Hong Kong University of Science and Technology |  | [**Big Data Technology**](https://www.edx.org/micromasters/hkustx-big-data-technology) | 1,450 | 9 | Master of Science programs in Big Data Technology (BDT) and Information Technology (IT) |
+|  |  | 1 | Foundations of Data Analytics |  |  |  |
+|  |  | 2 | Data Mining and Knowledge Discovery |  |  |  |
+|  |  | 3 | Big Data Computing with Spark |  |  |  |
+|  |  | 4 | Mathematical Methods for Data Analysis |  |  |  |
+|  |  | 5 | Big Data Technology Capstone Project |  |  |  |
+| Analytics | The Georgia Institute of Technology |  | [**Analytics: Essential Tools and Methods**](https://www.edx.org/micromasters/gtx-analytics-essential-tools-and-methods) | 2,475 | 12 | [Online Master of Science in Analytics](https://pe.gatech.edu/degrees/analytics)<br>[Master of Science in Professional Studies at Rochester Institute of Technology](https://www.rit.edu/online/pathways/gtx-analytics-essential-tools-methods) |
+|  |  | 1 | Introduction to Analytics Modeling |  |  |  |
+|  |  | 2 | Computing for Data Analysis |  |  |  |
+|  |  | 3 | Data Analytics for Business |  |  |  |
+
+\* They may be discounted.
+
+
+## [Coursera / MasterTrack® Certificate](#list)
+
+| Subject | Partner | Course | Title | Payment($) | Months | Related Degree |
+|:-:|:-:|:-:|:--|--:|:-:|:-:|
+| IT | Arizona State University | | [**AI & Machine Learning**](https://www.coursera.org/mastertrack/ai-machine-learning-asu)\* | 4,500 | 6-9 | Master of Computer Science |
+| | | 1 | Statistical Machine Learning | | | |
+| | | 2 | Artificial Intelligence | | | |
+| | | 3 | Knowledge Representation and Reasoning | | | |
+| | | 4 | Intro to Deep Learning in Visual Computing | | | |
+| | Arizona State University | | [**Big Data**](https://www.coursera.org/mastertrack/big-data-asu)\* | 4,500 | 6-9 | Master of Computer Science |
+| | | 1 | Data Processing at Scale | | | |
+| | | 2 | Data Mining | | | |
+| | | 3 | Statistical Machine Learning | | | |
+| | | 4 | Data Visualization | | | |
+| | Arizona State University | | [**Cybersecurity**](https://www.coursera.org/mastertrack/cybersecurity-asu)\* | 4,500 | 6-9 | Master of Computer Science |
+| | | 1 | Information Assurance and Security | | | |
+| | | 2 | Applied Cryptography | | | |
+| | | 3 | Software Security | | | |
+| | | 4 | Advanced Computer and Network Security | | | |
+| | | 5 | Distributed and Multiprocessor Operating Systems | | | |
+| | | 6 | Accelerated Applied Security | | | |
+| | Arizona State University | | [**Software Engineering**](https://www.coursera.org/mastertrack/software-engineering-asu)\* | 4,500 | 6-9 | Master of Computer Science |
+| | | 1 | Software Verification, Validation, and Testing | | | |
+| | | 2 | Advanced Software Analysis and Design | | | |
+| | | 3 | Engineering Blockchain Applications | | | |
+| | | 4 | Mobile Computing | | | |
+| Analytics | The University of Chicago | | [**Machine Learning for Analytics**](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago) | 4,000 | 5 | Master of Science in Analytics |
+| | | 1 | Statistical Thinking for Machine Learning | | | |
+| | | 2 | Advanced Statistical Thinking for Machine Learning | | | |
+| | | 3 | Introduction to Machine Learning | | | |
+| | | 4 | Advanced Applications | | | |
+| | Tufts University | | [**Business Analytics for Managers**](https://www.coursera.org/mastertrack/data-analytics-managers-tufts) | 3,000 | 6 | Master of Science in Engineering Management |
+| | | 1 | Analytics Techniques for Business Insight | | | |
+| | | 2 | Expanding Your Business Analytics Skills | | | |
+| | | 3 | Data Analytics In Product Development and Production | | | |
+| | | 4 | Marketing and Sales Data Decision Making | | | |
+| | | 5 | Data Analytics Applications Finance and Economics | | | |
+
+\* Take 3 of the 4 courses listed to earn your certificate.
 
 
 ## [Coursera / Professional Certificate](#list)
