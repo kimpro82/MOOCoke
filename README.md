@@ -671,6 +671,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
+| App Inventor | [Developing Android Apps with App Inventor](https://www.coursera.org/learn/app-inventor-android) | Bgn. | 40 | ○ | × | The Hong Kong University of Science and Technology |
 | Assembly | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Hebrew University of Jerusalem |
 | | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
 | Bash | [The Unix Workbench](https://www.coursera.org/learn/unix) | Bgn. | 19 | ○ | × | Johns Hopkins University |
@@ -747,9 +748,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 | Subject | Title | Level | Weeks | Payment($) | Koean | Partner | Note |
 |:-:|:--|:-:|--:|--:|:-:|:-:|:-:|
-| Haskell | [Introduction to Functional Programming](https://www.edx.org/course/introduction-to-functional-programming) | Intro. | 4 | 50 | × | Delft University of Technology | |
-| C# | [Introduction to C#](https://learning.edx.org/course/course-v1:Microsoft+DEV204.1x+2T2018) | | | | × | Microsoft | Archived |
-| F# | [Programming in F#](https://learning.edx.org/course/course-v1:Microsoft+DEV207.1x+1T2016) | | | | × | Microsoft | Archived |
+| App Inventor | [Mobile Computing with App Inventor – CS Principles](https://www.edx.org/course/mobile-computing-with-app-inventor-cs-principles-2) | Intro. | 6 | 50 | × | Trinity College | Archived |
+|  | [Mobile Computing with App Inventor: CS Principles Part II](https://www.edx.org/course/mobile-computing-with-app-inventor-cs-principles-p) | Itm. | 6 | 50 | × | Trinity College | Archived |
+|  | [MIT App Inventor Certification Exam – Level 1](https://www.edx.org/course/mit-app-inventor-certification-exam-level-1-2) | Intro. | 1 | 49 | × | Massachusetts Institute of Technology | Archived |
+| Haskell | [Introduction to Functional Programming](https://www.edx.org/course/introduction-to-functional-programming) | Intro. | 4 | 50 | × | Delft University of Technology |  |
+| C# | [Introduction to C#](https://learning.edx.org/course/course-v1:Microsoft+DEV204.1x+2T2018) |  |  |  | × | Microsoft | Archived |
+| F# | [Programming in F#](https://learning.edx.org/course/course-v1:Microsoft+DEV207.1x+1T2016) |  |  |  | × | Microsoft | Archived |
 
 
 ## [Sololearn / Course](#list)
