@@ -20,6 +20,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Cloud - AWS](#coursera--specialization--cloud---aws)
+  - [Specialization : Cloud - Azure](#coursera--specialization--cloud---azure)
   - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
@@ -473,6 +474,31 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models) | Adv. | 19 | | | |
 | | &nbsp;&nbsp;· [Build, Train, and Deploy ML Pipelines using BERT](https://www.coursera.org/learn/ml-pipelines-bert) | Adv. | 14 | | | |
 | | &nbsp;&nbsp;· [Optimize ML Models and Deploy Human-in-the-Loop Pipelines](https://www.coursera.org/learn/ml-models-human-in-the-loop-pipelines) | Adv. | 14 | | | |
+
+
+## [Coursera / Specialization : Cloud - Azure](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Microsoft Azure | [**Microsoft Azure Fundamentals AZ-900 Exam Prep**](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900) | Bgn. | 32 | ○ | × | Microsoft |
+|  | &nbsp;&nbsp;· [Introduction to Microsoft Azure Cloud Services](https://www.coursera.org/learn/microsoft-azure-cloud-services) | Bgn. | 10 |  |  |  |
+|  | &nbsp;&nbsp;· [Microsoft Azure Management Tools and Security Solutions](https://www.coursera.org/learn/microsoft-azure-management-security) | Bgn. | 9 |  |  |  |
+|  | &nbsp;&nbsp;· [Microsoft Azure Services and Lifecycles](https://www.coursera.org/learn/microsoft-azure-services-lifecycles) | Bgn. | 7 |  |  |  |
+|  | &nbsp;&nbsp;· [Preparing for the AZ-900 Microsoft Azure Fundamentals Exam](https://www.coursera.org/learn/az-900-exam-prep) | Bgn. | 6 |  |  |  |
+| Microsoft Azure | [**Microsoft Azure Data Fundamentals DP-900 Exam Prep**](https://www.coursera.org/specializations/microsoft-azure-dp-900-data-fundamentals) | Bgn. | 37 | ○ | × | Microsoft |
+|  | &nbsp;&nbsp;· [Explore Core Data Concepts in Microsoft Azure](https://www.coursera.org/learn/explore-core-data-concepts-microsoft-azure) | Bgn. | 9 |  |  |  |
+|  | &nbsp;&nbsp;· [Microsoft Azure SQL](https://www.coursera.org/learn/microsoft-azure-sql) | Bgn. | 7 |  |  |  |
+|  | &nbsp;&nbsp;· [Microsoft Azure Cosmos DB](https://www.coursera.org/learn/microsoft-azure-cosmos-db) | Bgn. | 11 |  |  |  |
+|  | &nbsp;&nbsp;· [Modern Data Warehouse Analytics in Microsoft Azure](https://www.coursera.org/learn/data-warehouse-analytics-microsoft-azure) | Bgn. | 4 |  |  |  |
+|  | &nbsp;&nbsp;· [Preparing for DP-900: Microsoft Azure Data Fundamentals Exam](https://www.coursera.org/learn/microsoft-dp-900-exam-prep) | Bgn. | 6 |  |  |  |
+| Microsoft Azure | [**Microsoft Azure AI Fundamentals AI-900 Exam Prep**](https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals) | Bgn. | 41 | ○ | × | Microsoft |
+|  | &nbsp;&nbsp;· [Artificial Intelligence on Microsoft Azure](https://www.coursera.org/learn/artificial-intelligence-microsoft-azure) | Bgn. | 4 |  |  |  |
+|  | &nbsp;&nbsp;· [Microsoft Azure Machine Learning](https://www.coursera.org/learn/microsoft-azure-machine-learning) | Bgn. | 11 |  |  |  |
+|  | &nbsp;&nbsp;· [Computer Vision in Microsoft Azure](https://www.coursera.org/learn/computer-vision-microsoft-azure) | Bgn. | 8 |  |  |  |
+|  | &nbsp;&nbsp;· [Natural Language Processing in Microsoft Azure](https://www.coursera.org/learn/nlp-microsoft-azure) | Bgn. | 8 |  |  |  |
+|  | &nbsp;&nbsp;· [Preparing for AI-900: Microsoft Azure AI Fundamentals exam](https://www.coursera.org/learn/microsoft-ai-900-exam-prep) | Bgn. | 10 |  |  |  |
 
 
 ## [Coursera / Specialization : Cloud - GCP](#list)
