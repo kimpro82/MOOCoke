@@ -14,7 +14,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 
 ### \<Coursera>
   - [Professional Certificate : General](#coursera--professional-certificate--general)
-  - [Professional Certificate : Could](#coursera--professional-certificate--cloud)
+  - [Professional Certificate : Cloud](#coursera--professional-certificate--cloud)
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
