@@ -13,7 +13,8 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
 
 ### \<Coursera>
-  - [Professional Certificate](#coursera--professional-certificate)
+  - [Professional Certificate : General](#coursera--professional-certificate--general)
+  - [Professional Certificate : Could](#coursera--professional-certificate--cloud)
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
@@ -193,7 +194,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 \* Take 3 of the 4 courses listed to earn your certificate.
 
 
-## [Coursera / Professional Certificate](#list)
+## [Coursera / Professional Certificate : General](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -214,16 +215,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques) | Bgn. | 16 | | × | |
 | | &nbsp;&nbsp;· [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud) | Bgn. | 15 | | × | |
 | | &nbsp;&nbsp;· [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python) | Bgn. | 13 | | × | |
-| Google Cloud<br>Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
-| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
-| | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
-| | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 | | | |
-| | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
-| | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
-| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
-| | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
-| | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
 | IT Support | [**Google IT Support**](https://www.coursera.org/professional-certificates/google-it-support) | Bgn. | 124 | ○ | × | Google |
 | | &nbsp;&nbsp;· [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) | Bgn. | 20 | | | |
 | | &nbsp;&nbsp;· [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) | Bgn. | 25 | | | |
@@ -245,6 +236,50 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google) | Bgn. | 26 | | | |
 | | &nbsp;&nbsp;· [Agile Project Management](https://www.coursera.org/learn/agile-project-management) | Bgn. | 26 | | | |
 | | &nbsp;&nbsp;· [Capstone: Applying Project Management in the Real World](https://www.coursera.org/learn/applying-project-management) | Bgn. | 34 | | | |
+
+
+## [Coursera / Professional Certificate - Cloud](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Microsoft Azure | [**Microsoft Azure Developer Associate (AZ-204)**](https://www.coursera.org/professional-certificates/azure-developer-associate) | Itm. | 89 | ○ | × | Microsoft |
+|  | &nbsp;&nbsp;· [Create Serverless Applications](https://www.coursera.org/learn/create-serverless-applications) | Itm. | 18 |  |  |  |
+|  | &nbsp;&nbsp;· [Connect Your Services with Microsoft Azure Service Bus](https://www.coursera.org/learn/connect-your-services-with-microsoft-azure-service-bus) | Itm. | 10 |  |  |  |
+|  | &nbsp;&nbsp;· [Data Storage in Microsoft Azure for Associate Developers](https://www.coursera.org/learn/data-storage-microsoft-azure-developers) | Itm. | 16 |  |  |  |
+|  | &nbsp;&nbsp;· [Deploy a website with Azure Virtual Machines](https://www.coursera.org/learn/deploy-a-website-with-azure-virtual-machines) | Itm. | 9 |  |  |  |
+|  | &nbsp;&nbsp;· [Manage Resources in Azure](https://www.coursera.org/learn/manage-resources-azure) | Itm. | 11 |  |  |  |
+|  | &nbsp;&nbsp;· [Deploy a website to Azure with Azure App Service](https://www.coursera.org/learn/deploy-a-website-to-azure-with-azure-app-service) | Itm. | 9 |  |  |  |
+|  | &nbsp;&nbsp;· [Secure your Cloud Data](https://www.coursera.org/learn/secure-your-cloud-data) | Itm. | 9 |  |  |  |
+|  | &nbsp;&nbsp;· [Prepare for AZ-204: Developing Solutions for Microsoft Azure](https://www.coursera.org/learn/az-204-developing-solutions-for-microsoft-azure) | Itm. | 7 |  |  |  |
+| Microsoft Azure | [**Microsoft Azure Data Engineering Associate (DP-203)**](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering) | Itm. | 117 | ○ | × | Microsoft |
+|  | &nbsp;&nbsp;· [Microsoft Azure for Data Engineering](https://www.coursera.org/learn/microsoft-azure-dp-203-data-engineering) | Itm. | 6 |  |  |  |
+|  | &nbsp;&nbsp;· [Data Storage in Microsoft Azure](https://www.coursera.org/learn/data-storage-microsoft-azure) | Itm. | 16 |  |  |  |
+|  | &nbsp;&nbsp;· [Data Integration with Microsoft Azure Data Factory](https://www.coursera.org/learn/azure-data-factory-data-integration) | Itm. | 16 |  |  |  |
+|  | &nbsp;&nbsp;· [Introduction to Microsoft Azure Synapse Analytics](https://www.coursera.org/learn/introduction-to-microsoft-azure-synapse-analytics) | Itm. | 8 |  |  |  |
+|  | &nbsp;&nbsp;· [Data Warehousing with Microsoft Azure Synapse Analytics](https://www.coursera.org/learn/data-warehousing-with-microsoft-azure-synapse-analytics) | Itm. | 15 |  |  |  |
+|  | &nbsp;&nbsp;· [Data Engineering with MS Azure Synapse Apache Spark Pools](https://www.coursera.org/learn/data-engineering-with-ms-azure-synapse-apache-spark-pools) | Itm. | 7 |  |  |  |
+|  | &nbsp;&nbsp;· [Operational Analytics with Microsoft Azure Synapse Analytics](https://www.coursera.org/learn/operational-analytics-with-microsoft-azure-synapse-analytics) | Itm. | 12 |  |  |  |
+|  | &nbsp;&nbsp;· [Microsoft Azure Databricks for Data Engineering](https://www.coursera.org/learn/microsoft-azure-databricks-for-data-engineering) | Itm. | 22 |  |  |  |
+|  | &nbsp;&nbsp;· [Azure Data Lake Storage Gen2 and Data Streaming Solution](https://www.coursera.org/learn/azure-data-lake-storage-gen2-and-data-streaming-solution) | Itm. | 9 |  |  |  |
+|  | &nbsp;&nbsp;· [Prepare for DP-203: Data Engineering on Microsoft Azure Exam](https://www.coursera.org/learn/microsoft-dp-203-practice-exam) | Itm. | 6 |  |  |  |
+| Microsoft Azure<br>Machine Learning | [**Microsoft Azure Data Scientist Associate (DP-100)**](https://www.coursera.org/professional-certificates/azure-data-scientist) | Itm. | 90 | ○ | × | Microsoft |
+|  | &nbsp;&nbsp;· [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure) | Itm. | 13 |  |  |  |
+|  | &nbsp;&nbsp;· [Microsoft Azure Machine Learning for Data Scientists](https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scientist) | Itm. | 11 |  |  |  |
+|  | &nbsp;&nbsp;· [Build and Operate Machine Learning Solutions with Azure](https://www.coursera.org/learn/build-and-operate-machine-learning-solutions-with-azure) | Itm. | 31 |  |  |  |
+|  | &nbsp;&nbsp;· [Perform data science with Azure Databricks](https://www.coursera.org/learn/perform-data-science-with-azure-databricks) | Itm. | 26 |  |  |  |
+|  | &nbsp;&nbsp;· [Prepare for DP-100: Data Science on Microsoft Azure Exam](https://www.coursera.org/learn/prepare-for-dp-100-design-a-data-science-solution-on-azure) | Itm. | 9 |  |  |  |
+| Google Cloud<br>Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
+|  | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 |  |  |  |
+|  | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 |  |  |  |
+|  | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 |  |  |  |
+|  | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 |  |  |  |
+|  | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
+|  | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
+|  | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
+|  | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
+|  | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 |  |  |  |
 
 
 ## [Coursera / Specialization : Development - General](#list)
