@@ -734,12 +734,12 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
 | App Inventor | [Developing Android Apps with App Inventor](https://www.coursera.org/learn/app-inventor-android) | Bgn. | 40 | ○ | × | The Hong Kong University of Science and Technology |
 | Assembly | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Hebrew University of Jerusalem |
-| | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
+|  | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
 | Bash | [The Unix Workbench](https://www.coursera.org/learn/unix) | Bgn. | 19 | ○ | × | Johns Hopkins University |
 | Competitive Programming | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
-| | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
+|  | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 | Data Structure & Algorithms (Java) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Itm. | 54 | Free | ○ | Princeton University |
-| | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Itm. | 63 | Free | ○ | Princeton University |
+|  | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Itm. | 63 | Free | ○ | Princeton University |
 | Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
 | (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
 | (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
@@ -747,6 +747,11 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | Java | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | University of California San Diego |
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
+| Microsoft Azure | [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics) | Bgn. | 9 | ○ | ○ | LearnQuest |
+|  | [Getting Started with Azure](https://www.coursera.org/learn/cloud-azure-intro) | Bgn. | 20 | ○ | × | LearnQuest |
+|  | [Data Processing with Azure](https://www.coursera.org/learn/data-processing-with-azure) | Itm. | 13 | ○ | × | LearnQuest |
+|  | [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure) | Adv. | 16 | ○ | × | LearnQuest |
+|  | [Azure Infrastructure Fundamentals](https://www.coursera.org/learn/azure-infrastructure) | Adv. | 30 | ○ | × | LearnQuest |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
 
 
