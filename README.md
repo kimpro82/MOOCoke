@@ -239,7 +239,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Capstone: Applying Project Management in the Real World](https://www.coursera.org/learn/applying-project-management) | Bgn. | 34 | | | |
 
 
-## [Coursera / Professional Certificate - Cloud](#list)
+## [Coursera / Professional Certificate : Cloud](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
