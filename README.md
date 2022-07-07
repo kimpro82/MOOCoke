@@ -26,7 +26,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Mathematics](#coursera--specialization--mathematics)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
   - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
-    - [Specialization : Investment](#coursera--specialization--investment)
+  - [Specialization : Investment](#coursera--specialization--investment)
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Course](#coursera--course)
