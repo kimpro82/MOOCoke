@@ -579,7 +579,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
 | | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
-| Math | [**Expressway to Data Science: Essential Math**](https://www.coursera.org/specializations/expressway-to-data-science-essential-math) | Itm. | 20 | ○ | × | University of Colorado Boulder |
+| Math | [**Expressway to Data Science: Essential Math**](https://www.coursera.org/specializations/expressway-to-data-science-essential-math)<br>* [Associated with the Master of Science in Data Science degree](https://www.coursera.org/degrees/master-of-science-data-science-boulder) | Itm. | 20 | ○ | × | University of Colorado Boulder |
 | | &nbsp;&nbsp;· [Algebra and Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science) | Itm. | 8 | | | |
 | | &nbsp;&nbsp;· [Essential Linear Algebra for Data Science](https://www.coursera.org/learn/essential-linear-algebra-for-data-science) | Itm. | 8 | | | |
 | | &nbsp;&nbsp;· [Integral Calculus and Numerical Analysis for Data Science](https://www.coursera.org/learn/integral-calculus-and-numerical-analysis-for-data-science) | Itm. | 4 | | | |
