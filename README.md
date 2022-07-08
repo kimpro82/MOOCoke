@@ -23,9 +23,9 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Cloud - Azure](#coursera--specialization--cloud---azure)
   - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
+  - [Specialization : Mathematics](#coursera--specialization--mathematics)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
   - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
-  - [Specialization : Data Science - MATLAB](#coursera--specialization--data-science---matlab)
   - [Specialization : Investment](#coursera--specialization--investment)
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
@@ -565,6 +565,37 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Concept Art for Video Games](https://www.coursera.org/learn/concept-art-video-games) | - | 6 | | | |
 
 
+## [Coursera / Specialization : Mathematics](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Math | [**Algebra: Elementary to Advanced**](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Bgn. | 25 | ○ | × | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Algebra: Elementary to Advanced - Equations & Inequalities](https://www.coursera.org/learn/algebra-i) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Algebra: Elementary to Advanced - Functions & Applications](https://www.coursera.org/learn/algebra-ii) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Algebra: Elementary to Advanced - Polynomials and Roots](https://www.coursera.org/learn/polynomials-roots) | Bgn. | 9 | | | |
+| Math Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
+| Math | [**Expressway to Data Science: Essential Math**](https://www.coursera.org/specializations/expressway-to-data-science-essential-math)<br>* [Associated with the Master of Science in Data Science degree](https://www.coursera.org/degrees/master-of-science-data-science-boulder) | Itm. | 20 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Algebra and Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Essential Linear Algebra for Data Science](https://www.coursera.org/learn/essential-linear-algebra-for-data-science) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Integral Calculus and Numerical Analysis for Data Science](https://www.coursera.org/learn/integral-calculus-and-numerical-analysis-for-data-science) | Itm. | 4 | | | |
+| Math MATLAB | [**Mathematics for Engineers**](https://www.coursera.org/specializations/mathematics-engineers) | Bgn. | 127 | ○ | × | The Hong Kong University of Science and Technology |
+| | &nbsp;&nbsp;· [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) | Bgn. | 27 | | | |
+| | &nbsp;&nbsp;· [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) | Bgn. | 28 | | | |
+| | &nbsp;&nbsp;· [Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers) | Itm. | 42 | | | |
+| | &nbsp;&nbsp;· [Mathematics for Engineers: The Capstone Course](https://www.coursera.org/learn/mathematics-engineers-capstone) | Itm. | 10 | | | |
+| Math MATLAB | [**Practical Data Science with MATLAB**](https://www.coursera.org/specializations/practical-data-science-matlab) | Bgn. | 72 | ○ | × | MathWorks |
+| | &nbsp;&nbsp;· [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
+
+
 ## [Coursera / Specialization : Data Science - Python](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
@@ -581,10 +612,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) | Itm. | 34 | | | |
 | | &nbsp;&nbsp;· [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) | Itm. | 29 | | | |
 | | &nbsp;&nbsp;· [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) | Itm. | 29 | | | |
-| Python | [**Mathematics for Machine Learning**](https://www.coursera.org/specializations/mathematics-machine-learning) | Bgn. | 55 | ○ | × | Imperial College London |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) | Bgn. | 18 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) | Itm. | 18 | | | |
 | Python | [**Data Science Fundamentals with Python and SQL**](https://www.coursera.org/specializations/data-science-fundamentals-python-sql) | Bgn. | 101 | × | △ | IBM |
 | | &nbsp;&nbsp;· [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) | Bgn. | 20 | | × | |
 | | &nbsp;&nbsp;· [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | Bgn. | 22 | | ○ | |
@@ -629,25 +656,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
 | (Shiny) | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 10 | | | |
 | | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
-
-
-## [Coursera / Specialization : Data Science - MATLAB](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| MATLAB | [**Mathematics for Engineers**](https://www.coursera.org/specializations/mathematics-engineers) | Bgn. | 127 | ○ | × | The Hong Kong University of Science and Technology |
-| | &nbsp;&nbsp;· [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) | Bgn. | 20 | | | |
-| | &nbsp;&nbsp;· [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) | Bgn. | 27 | | | |
-| | &nbsp;&nbsp;· [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) | Bgn. | 28 | | | |
-| | &nbsp;&nbsp;· [Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers) | Itm. | 42 | | | |
-| | &nbsp;&nbsp;· [Mathematics for Engineers: The Capstone Course](https://www.coursera.org/learn/mathematics-engineers-capstone) | Itm. | 10 | | | |
-| MATLAB | [**Practical Data Science with MATLAB**](https://www.coursera.org/specializations/practical-data-science-matlab) | Bgn. | 72 | ○ | × | MathWorks |
-| | &nbsp;&nbsp;· [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) | Itm. | 18 | | | |
-| | &nbsp;&nbsp;· [Predictive Modeling and Machine Learning with MATLAB](https://www.coursera.org/learn/predictive-modeling-machine-learning) | Itm. | 22 | | | |
-| | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
 
 
 ## [Coursera / Specialization : Investment](#list)
@@ -734,24 +742,26 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
 | App Inventor | [Developing Android Apps with App Inventor](https://www.coursera.org/learn/app-inventor-android) | Bgn. | 40 | ○ | × | The Hong Kong University of Science and Technology |
 | Assembly | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Hebrew University of Jerusalem |
-|  | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
+| | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
 | Bash | [The Unix Workbench](https://www.coursera.org/learn/unix) | Bgn. | 19 | ○ | × | Johns Hopkins University |
 | Competitive Programming | [C/C++ for competitive programming](https://www.coursera.org/learn/c-for-competitive-programming) | Bgn. | 105 | ○ | × | Moscow Institute of Physics and Technology |
-|  | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
+| | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 | Data Structure & Algorithms (Java) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Itm. | 54 | Free | ○ | Princeton University |
-|  | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Itm. | 63 | Free | ○ | Princeton University |
+| | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Itm. | 63 | Free | ○ | Princeton University |
 | Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
 | (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
 | (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
 | Git | [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | ○ | × | Google |
 | Java | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | University of California San Diego |
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
+| Mathemathics | [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) | Itm. | 59 | ○ | × | The University of Sydney |
+| | [Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Itm. | 23 | ○ | × | Johns Hopkins University |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | Microsoft Azure | [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics) | Bgn. | 9 | ○ | ○ | LearnQuest |
-|  | [Getting Started with Azure](https://www.coursera.org/learn/cloud-azure-intro) | Bgn. | 20 | ○ | × | LearnQuest |
-|  | [Data Processing with Azure](https://www.coursera.org/learn/data-processing-with-azure) | Itm. | 13 | ○ | × | LearnQuest |
-|  | [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure) | Adv. | 16 | ○ | × | LearnQuest |
-|  | [Azure Infrastructure Fundamentals](https://www.coursera.org/learn/azure-infrastructure) | Adv. | 30 | ○ | × | LearnQuest |
+| | [Getting Started with Azure](https://www.coursera.org/learn/cloud-azure-intro) | Bgn. | 20 | ○ | × | LearnQuest |
+| | [Data Processing with Azure](https://www.coursera.org/learn/data-processing-with-azure) | Itm. | 13 | ○ | × | LearnQuest |
+| | [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure) | Adv. | 16 | ○ | × | LearnQuest |
+| | [Azure Infrastructure Fundamentals](https://www.coursera.org/learn/azure-infrastructure) | Adv. | 30 | ○ | × | LearnQuest |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
 
 
