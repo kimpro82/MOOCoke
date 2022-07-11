@@ -1,6 +1,6 @@
 # MOOCoke
 
-Learn from MOOC like doing coke, but do not really coke (if your aren't a Californian)
+Learn from MOOC like doing coke, but do not really coke (if you aren't a Californian)
 
 
 ## List
