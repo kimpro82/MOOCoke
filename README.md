@@ -24,6 +24,7 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
   - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Mathematics](#coursera--specialization--mathematics)
+  - [Specialization : Statistics](#coursera--specialization--statistics)
   - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
   - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
   - [Specialization : Investment](#coursera--specialization--investment)
@@ -596,16 +597,47 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) | Itm. | 13 | | | |
 
 
+## [Coursera / Specialization : Statistics](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Excel | [**Business Statistics and Analysis**](https://www.coursera.org/specializations/business-statistics-analysis) | Bgn. | 101 | ○ | × | Rice University |
+| | &nbsp;&nbsp;· [Introduction to Data Analysis Using Excel](https://www.coursera.org/learn/excel-data-analysis) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions](https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application) | - | 21 | | | |
+| | &nbsp;&nbsp;· [Business Applications of Hypothesis Testing and Confidence Interval Estimation](https://www.coursera.org/learn/hypothesis-testing-confidence-intervals) | - | 25 | | | |
+| | &nbsp;&nbsp;· [Linear Regression for Business Statistics](https://www.coursera.org/learn/linear-regression-business-statistics) | - | 28 | | | |
+| | &nbsp;&nbsp;· [Business Statistics and Analysis Capstone](https://www.coursera.org/learn/business-statistics-analysis-capstone) | - | 7 | | | |
+| Python | [**Statistics with Python**](https://www.coursera.org/specializations/statistics-with-python) | Bgn. | 55 | ○ | ○ | University of Michigan |
+| | &nbsp;&nbsp;· [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) | Bgn. | 21 | | | |
+| | &nbsp;&nbsp;· [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) | Itm. | 19 | | | |
+| | &nbsp;&nbsp;· [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) | Itm. | 15 | | | |
+| R | [**Data Science: Statistics and Machine Learning**](https://www.coursera.org/specializations/data-science-statistics-machine-learning) | Itm. | 133 | ○ | ○ | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Statistical Inference](https://www.coursera.org/learn/statistical-inference) | - | 54 | | | |
+| | &nbsp;&nbsp;· [Regression Models](https://www.coursera.org/learn/regression-models) | - | 54 | | | |
+| | &nbsp;&nbsp;· [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) | - | 9 | | | |
+| | &nbsp;&nbsp;· [Developing Data Products](https://www.coursera.org/learn/data-products) | - | 10 | | | |
+| | &nbsp;&nbsp;· [Data Science Capstone](https://www.coursera.org/learn/data-science-project) | - | 6 | | | |
+| R | [**Bayesian Statistics Specialization**](https://www.coursera.org/specializations/bayesian-statistics) | Itm. | 98 | ○ | × | University of California, Santa Cruz |
+| | &nbsp;&nbsp;· [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) | Itm. | 12 | | | |
+| | &nbsp;&nbsp;· [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics) | Itm. | 30 | | | |
+| | &nbsp;&nbsp;· [Bayesian Statistics: Mixture Models](https://www.coursera.org/learn/mixture-models) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Bayesian Statistics: Time Series Analysis](https://www.coursera.org/learn/bayesian-statistics-time-series-analysis) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Bayesian Statistics: Capstone Project](https://www.coursera.org/learn/bayesian-statistics-capstone) | Adv. | 12 | | | |
+| R | [**Advanced Statistics for Data Science**](https://www.coursera.org/specializations/advanced-statistics-data-science) | Adv. | 39 | ○ | × | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Mathematical Biostatistics Boot Camp 1](https://www.coursera.org/learn/biostatistics) | - | 13 | | | |
+| | &nbsp;&nbsp;· [Mathematical Biostatistics Boot Camp 2](https://www.coursera.org/learn/biostatistics-2) | - | 12 | | | |
+| | &nbsp;&nbsp;· [Advanced Linear Models for Data Science 1: Least Squares](https://www.coursera.org/learn/linear-models) | Adv. | 8 | | | |
+| | &nbsp;&nbsp;· [Advanced Linear Models for Data Science 2: Statistical Linear Models](https://www.coursera.org/learn/linear-models-2) | Adv. | 6 | | | |
+
+
 ## [Coursera / Specialization : Data Science - Python](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Python | [**Statistics with Python**](https://www.coursera.org/specializations/statistics-with-python) | Bgn. | 55 | ○ | ○ | University of Michigan |
-| | &nbsp;&nbsp;· [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) | Bgn. | 21 | | | |
-| | &nbsp;&nbsp;· [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) | Itm. | 19 | | | |
-| | &nbsp;&nbsp;· [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) | Itm. | 15 | | | |
 | Python | [**Applied Data Science with Python**](https://www.coursera.org/specializations/data-science-python) | Itm. | 143 | ○ | ○ | University of Michigan |
 | | &nbsp;&nbsp;· [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | Itm. | 31 | | | |
 | | &nbsp;&nbsp;· [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) | Itm. | 20 | | | |
@@ -638,12 +670,6 @@ Learn from MOOC like doing coke, but do not really coke (if your aren't a Califo
 | | &nbsp;&nbsp;· [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) | - | 20 | | | |
 | | &nbsp;&nbsp;· [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) | - | 55 | | | |
 | | &nbsp;&nbsp;· [Reproducible Research](https://www.coursera.org/learn/reproducible-research) | - | 8 | | | |
-| R | [**Data Science: Statistics and Machine Learning**](https://www.coursera.org/specializations/data-science-statistics-machine-learning) | Itm. | 133 | ○ | ○ | Johns Hopkins University |
-| | &nbsp;&nbsp;· [Statistical Inference](https://www.coursera.org/learn/statistical-inference) | - | 54 | | | |
-| | &nbsp;&nbsp;· [Regression Models](https://www.coursera.org/learn/regression-models) | - | 54 | | | |
-| | &nbsp;&nbsp;· [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) | - | 9 | | | |
-| | &nbsp;&nbsp;· [Developing Data Products](https://www.coursera.org/learn/data-products) | - | 10 | | | |
-| | &nbsp;&nbsp;· [Data Science Capstone](https://www.coursera.org/learn/data-science-project) | - | 6 | | | |
 | R | [**Data Visualization & Dashboarding with R**](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r) | Bgn. | 70 | ○ | × | Johns Hopkins University |
 | | &nbsp;&nbsp;· [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r) | Bgn. | 12 | | | |
 | | &nbsp;&nbsp;· [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r) | Itm. | 13 | | | |
