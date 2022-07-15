@@ -14,7 +14,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 ### \<Coursera>
   - [Professional Certificate : General](#coursera--professional-certificate--general)
-  - [Professional Certificate : Cloud](#coursera--professional-certificate--cloud)
+  - [Professional Certificate : Cloud - Azure](#coursera--professional-certificate--cloud---azure)
+  - [Professional Certificate : Cloud - GCP](#coursera--professional-certificate--cloud---gcp)
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
@@ -240,7 +241,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Capstone: Applying Project Management in the Real World](https://www.coursera.org/learn/applying-project-management) | Bgn. | 34 | | | |
 
 
-## [Coursera / Professional Certificate : Cloud](#list)
+## [Coursera / Professional Certificate : Cloud - Azure](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -272,16 +273,35 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 |  | &nbsp;&nbsp;· [Build and Operate Machine Learning Solutions with Azure](https://www.coursera.org/learn/build-and-operate-machine-learning-solutions-with-azure) | Itm. | 31 |  |  |  |
 |  | &nbsp;&nbsp;· [Perform data science with Azure Databricks](https://www.coursera.org/learn/perform-data-science-with-azure-databricks) | Itm. | 26 |  |  |  |
 |  | &nbsp;&nbsp;· [Prepare for DP-100: Data Science on Microsoft Azure Exam](https://www.coursera.org/learn/prepare-for-dp-100-design-a-data-science-solution-on-azure) | Itm. | 9 |  |  |  |
+
+
+## [Coursera / Professional Certificate : Cloud - GCP](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Google Cloud | [**Google Cloud Digital Leader Training**](https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training) | Bgn. | 8 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Introduction to Digital Transformation with Google Cloud](https://www.coursera.org/learn/digital-transformation-google-cloud) | Bgn. | 2 | | | |
+| | &nbsp;&nbsp;· [Innovating with Data and Google Cloud](https://www.coursera.org/learn/innovating-with-data-google-cloud) | Bgn. | 2 | | | |
+| | &nbsp;&nbsp;· [Infrastructure and Application Modernization with Google Cloud](https://www.coursera.org/learn/google-cloud-product-fundamentals) | Bgn. | 2 | | | |
+| | &nbsp;&nbsp;· [Understanding Google Cloud Security and Operations](https://www.coursera.org/learn/understanding-google-cloud-security-and-operations) | Bgn. | 2 | | | |
+| Google Cloud | [**Preparing for Google Cloud Certification: Cloud DevOps Engineer**](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud) | Bgn. | 51 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | Adv. | 8 | | | |
+| | &nbsp;&nbsp;· [Logging, Monitoring and Observability in Google Cloud](https://www.coursera.org/learn/logging-monitoring-observability-google-cloud) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) | Itm. | 11 | | | |
 | Google Cloud<br>Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
-|  | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 |  |  |  |
-|  | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 |  |  |  |
-|  | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 |  |  |  |
-|  | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 |  |  |  |
-|  | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
-|  | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
-|  | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
-|  | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
-|  | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 |  |  |  |
+| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [TensorFlow on Google Cloud](https://www.coursera.org/learn/intro-tensorflow) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Feature Engineering](https://www.coursera.org/learn/feature-engineering) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Machine Learning in the Enterprise](https://www.coursera.org/learn/art-science-ml) | Adv. | 24 | | | |
+| | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
+| | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
 
 
 ## [Coursera / Specialization : Development - General](#list)
