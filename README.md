@@ -343,11 +343,6 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | Bgn. | 18 | | | |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2) | Itm. | 20 | | | |
 | | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 3 (Projects)](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-3-projects) | Adv. | 16 | | | |
-| VHDL Verilog | [**FPGA Design for Embedded Systems**](https://www.coursera.org/specializations/fpga-design) | Itm. | 93 | ○ | × | University of Colorado Boulder |
-| | &nbsp;&nbsp;· [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems) | Itm. | 18 | | | |
-| | &nbsp;&nbsp;· [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) | Itm. | 36 | | | |
-| | &nbsp;&nbsp;· [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) | Itm. | 10 | | | |
-| | &nbsp;&nbsp;· [FPGA Capstone: Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) | Itm. | 29 | | | |
 
 
 ## [Coursera / Specialization : Programming Language - C/C++](#list)
@@ -702,6 +697,33 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
 | (Shiny) | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 10 | | | |
 | | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
+
+
+## [Coursera / Specialization : Electronic Engineering](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Electromagnetism | [**Electrodynamics**](https://www.coursera.org/specializations/electrodynamics) | Itm. | 55 | ○ | × | Korea Advanced Institute of Science and Technology |
+| | &nbsp;&nbsp;· [Electrodynamics: An Introduction](https://www.coursera.org/learn/electrodynamics-introduction) | Itm. | 13 | | | |
+| | &nbsp;&nbsp;· [Electrodynamics: Analysis of Electric Fields](https://www.coursera.org/learn/electrodynamics-analysis-of-electric-fields) | Adv. | 11 | | | |
+| | &nbsp;&nbsp;· [Electrodynamics: Electric and Magnetic Fields](https://www.coursera.org/learn/electrodynamics-electric-magnetic-fields) | Adv. | 12 | | | |
+| | &nbsp;&nbsp;· [Electrodynamics: In-depth Solutions for Maxwell’s Equations](https://www.coursera.org/learn/electrodynamics-solutions-maxwells-equations) | Adv. | 19 | | | |
+| Electromagnetism | [**Introduction to Electricity and Magnetism**](https://www.coursera.org/specializations/introduction-to-electricity-magnetism) | Itm. | 88 | ○ | × | Rice University |
+| | &nbsp;&nbsp;· [Physics 102 - Electric Charges and Fields](https://www.coursera.org/learn/physics-102-electric-charges-fields) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Physics 102 - Electric Potential and DC Circuits](https://www.coursera.org/learn/physics-102-electric-potential-and-dc-circuits) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Physics 102 - Magnetic Fields and Faraday's Law](https://www.coursera.org/learn/physics-102-magnetic-fields-faradays-law) | Itm. | 26 | | | |
+| | &nbsp;&nbsp;· [Physics 102 - AC Circuits and Maxwell's Equations](https://www.coursera.org/learn/physics-102-ac-circuits-maxwell-equations) | Itm. | 18 | | | |
+| Hardware | [**Semiconductor Devices**](https://www.coursera.org/specializations/semiconductor-devices) | Adv. | 43 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) | Adv. | 15 | | | |
+| | &nbsp;&nbsp;· [Diode - pn Junction and Metal Semiconductor Contact](https://www.coursera.org/learn/diode-pn-junction-metal-semiconductor-contact) | Adv. | 16 | | | |
+| | &nbsp;&nbsp;· [Transistor - Field Effect Transistor and Bipolar Junction Transistor](https://www.coursera.org/learn/transistor-field-effect-transistor-bipolar-junction-transistor) | Adv. | 12 | | | |
+| Hardware VHDL Verilog | [**FPGA Design for Embedded Systems**](https://www.coursera.org/specializations/fpga-design) | Itm. | 93 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems) | Itm. | 18 | | | |
+| | &nbsp;&nbsp;· [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) | Itm. | 36 | | | |
+| | &nbsp;&nbsp;· [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [FPGA Capstone: Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) | Itm. | 29 | | | |
 
 
 ## [Coursera / Specialization : Investment](#list)
