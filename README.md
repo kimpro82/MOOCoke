@@ -715,11 +715,11 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Physics 102 - Electric Potential and DC Circuits](https://www.coursera.org/learn/physics-102-electric-potential-and-dc-circuits) | Itm. | 22 | | | |
 | | &nbsp;&nbsp;· [Physics 102 - Magnetic Fields and Faraday's Law](https://www.coursera.org/learn/physics-102-magnetic-fields-faradays-law) | Itm. | 26 | | | |
 | | &nbsp;&nbsp;· [Physics 102 - AC Circuits and Maxwell's Equations](https://www.coursera.org/learn/physics-102-ac-circuits-maxwell-equations) | Itm. | 18 | | | |
-| Hardware | [**Semiconductor Devices**](https://www.coursera.org/specializations/semiconductor-devices) | Adv. | 43 | ○ | × | University of Colorado Boulder |
+| Semiconductor | [**Semiconductor Devices**](https://www.coursera.org/specializations/semiconductor-devices) | Adv. | 43 | ○ | × | University of Colorado Boulder |
 | | &nbsp;&nbsp;· [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) | Adv. | 15 | | | |
 | | &nbsp;&nbsp;· [Diode - pn Junction and Metal Semiconductor Contact](https://www.coursera.org/learn/diode-pn-junction-metal-semiconductor-contact) | Adv. | 16 | | | |
 | | &nbsp;&nbsp;· [Transistor - Field Effect Transistor and Bipolar Junction Transistor](https://www.coursera.org/learn/transistor-field-effect-transistor-bipolar-junction-transistor) | Adv. | 12 | | | |
-| Hardware VHDL Verilog | [**FPGA Design for Embedded Systems**](https://www.coursera.org/specializations/fpga-design) | Itm. | 93 | ○ | × | University of Colorado Boulder |
+| Semiconductor<br>VHDL Verilog | [**FPGA Design for Embedded Systems**](https://www.coursera.org/specializations/fpga-design) | Itm. | 93 | ○ | × | University of Colorado Boulder |
 | | &nbsp;&nbsp;· [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) | Itm. | 36 | | | |
 | | &nbsp;&nbsp;· [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) | Itm. | 10 | | | |
