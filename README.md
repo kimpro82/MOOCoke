@@ -42,7 +42,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 ### \<Others>
   - [Sololearn / Course](#sololearn--course)
   - [Elice Academy / Free Course](#elice-academy--free-course)
-  - [ETC / Functional Programming Languages](#etc--functional-programming-languages)
+  - [ETC](#etc)
 
 
 ## [Master's Degree / Edx](#list)
@@ -977,17 +977,27 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | [주간 알고리즘](https://academy.elice.io/courses/18888) | - | - |
 
 
-## [ETC / Functional Programming Languages](#list)
+## [ETC](#list)
 
-| Category | Language | Organization | Tutorials Point | Wikipedia |
+| Category | Language | Organization | Tutorial | Wikipedia |
 |:-:|:-:|:-:|:-:|:-:|
-| Functional Programming | Clojure | [Link](https://clojure.org/) | [Link](https://www.tutorialspoint.com/clojure/) | [Kr](https://ko.wikipedia.org/wiki/클로저_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Clojure) |
-| | Erlang | [Link](https://www.erlang.org/) | [Link](https://www.tutorialspoint.com/erlang/) | [Kr](https://ko.wikipedia.org/wiki/얼랭) [En](https://en.wikipedia.org/wiki/Erlang_(programming_language)) |
-| | F# | [Link](https://fsharp.org/) | [Link](https://www.tutorialspoint.com/fsharp/) | [Kr](https://ko.wikipedia.org/wiki/F_샤프) [En](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) |
-| | Haskell | [Link](https://www.haskell.org/) | [Link](https://www.tutorialspoint.com/haskell/) | [Kr](https://ko.wikipedia.org/wiki/하스켈) [En](https://en.wikipedia.org/wiki/Haskell) |
-| | Common Lisp | [Link](https://lisp-lang.org/) | [Link](https://www.tutorialspoint.com/lisp/) | [Kr](https://ko.wikipedia.org/wiki/커먼_리스프) [En](https://en.wikipedia.org/wiki/Common_Lisp) |
-| | OCaml | [Link](https://ocaml.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/OCaml) [En](https://en.wikipedia.org/wiki/OCaml) |
-| | Racket | [Link](https://racket-lang.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/래킷_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Racket_(programming_language)) |
-| | Scala | [Link](https://www.scala-lang.org/) | [Link](https://www.tutorialspoint.com/scala/) | [Kr](https://ko.wikipedia.org/wiki/스칼라_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scala_(programming_language)) |
-| | Scheme | [Link](http://scheme-reports.org/) | Link | [Kr](https://ko.wikipedia.org/wiki/스킴_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scheme_(programming_language)) |
-| | SML | [Link](https://smlfamily.github.io/) | Link | [Kr](https://ko.wikipedia.org/wiki/표준_ML) [En](https://en.wikipedia.org/wiki/Standard_ML) |
+| Classic | Ada | [ada2012.org](https://www.ada2012.org/) | link | [Kr](https://ko.wikipedia.org/wiki/에이다_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Ada_(programming_language)) |
+| | Algol | [algol68.org](http://www.algol68.org/) | link | [Kr](https://ko.wikipedia.org/wiki/알골_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/ALGOL) |
+| | B | [Bell Labs](https://www.bell-labs.com/usr/dmr/www/bintro.html) | link | [Kr](https://ko.wikipedia.org/wiki/B_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/B_(programming_language)) |
+| | COBOL | [IBM](https://developer.ibm.com/languages/cobol/) | [tutorialspoint](https://www.tutorialspoint.com/cobol/) | [Kr](https://ko.wikipedia.org/wiki/코볼) [En](https://en.wikipedia.org/wiki/COBOL) |
+| | Delphi | [Enbracadero](https://www.embarcadero.com/products/delphi) | link | [Kr](https://ko.wikipedia.org/wiki/델파이) [En](https://en.wikipedia.org/wiki/Delphi_(software)) |
+| | Fortran | [fortran-lang.org](https://fortran-lang.org/) | [tutorialspoint](https://www.tutorialspoint.com/fortran/) | [Kr](https://ko.wikipedia.org/wiki/포트란) [En](https://en.wikipedia.org/wiki/Fortran) |
+| | GW-BASIC | [gw-basic.com](http://gw-basic.com/) | link | [Kr](https://ko.wikipedia.org/wiki/GW_베이직) [En](https://en.wikipedia.org/wiki/GW-BASIC) |
+| | Pascal | [freepascal.org](https://www.freepascal.org/) | [tutorialspoint](https://www.tutorialspoint.com/pascal/) | [Kr](https://ko.wikipedia.org/wiki/파스칼_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Pascal_(programming_language)) |
+| | QuickBASIC | [MS]() [qbasic.net](https://www.qbasic.net/) | [pittajarn.lpru.ac.th](http://pittajarn.lpru.ac.th/~nukit/basic/tutorial_basic.pdf) | [Kr](https://ko.wikipedia.org/wiki/퀵베이직) [En](https://en.wikipedia.org/wiki/QuickBASIC) |
+| | Small Talk | [gnu.org](https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html) | link | [Kr](https://ko.wikipedia.org/wiki/스몰토크) [En](https://en.wikipedia.org/wiki/Smalltalk) |
+| Functional Programming | Clojure | [clojure.org](https://clojure.org/) | [tutorialspoint](https://www.tutorialspoint.com/clojure/) | [Kr](https://ko.wikipedia.org/wiki/클로저_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Clojure) |
+| | Erlang | [erlang.org](https://www.erlang.org/) | [tutorialspoint](https://www.tutorialspoint.com/erlang/) | [Kr](https://ko.wikipedia.org/wiki/얼랭) [En](https://en.wikipedia.org/wiki/Erlang_(programming_language)) |
+| | F# | [fsharp.org](https://fsharp.org/) | [tutorialspoint](https://www.tutorialspoint.com/fsharp/) | [Kr](https://ko.wikipedia.org/wiki/F_샤프) [En](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) |
+| | Haskell | [haskell.org](https://www.haskell.org/) | [tutorialspoint](https://www.tutorialspoint.com/haskell/) | [Kr](https://ko.wikipedia.org/wiki/하스켈) [En](https://en.wikipedia.org/wiki/Haskell) |
+| | Common Lisp | [lisp-lang.org](https://lisp-lang.org/) | [tutorialspoint](https://www.tutorialspoint.com/lisp/) | [Kr](https://ko.wikipedia.org/wiki/커먼_리스프) [En](https://en.wikipedia.org/wiki/Common_Lisp) |
+| | OCaml | [ocaml.org](https://ocaml.org/) | link | [Kr](https://ko.wikipedia.org/wiki/OCaml) [En](https://en.wikipedia.org/wiki/OCaml) |
+| | Racket | [racket-lang.org](https://racket-lang.org/) | link | [Kr](https://ko.wikipedia.org/wiki/래킷_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Racket_(programming_language)) |
+| | Scala | [scala-lang.org](https://www.scala-lang.org/) | [tutorialspoint](https://www.tutorialspoint.com/scala/) | [Kr](https://ko.wikipedia.org/wiki/스칼라_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scala_(programming_language)) |
+| | Scheme | [scheme-reports.org](http://scheme-reports.org/) | link | [Kr](https://ko.wikipedia.org/wiki/스킴_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Scheme_(programming_language)) |
+| | SML | [smlfamily.github.io](https://smlfamily.github.io/) | link | [Kr](https://ko.wikipedia.org/wiki/표준_ML) [En](https://en.wikipedia.org/wiki/Standard_ML) |
