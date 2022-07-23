@@ -981,7 +981,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 | Category | Language | Organization | Tutorial | Wikipedia |
 |:-:|:-:|:-:|:-:|:-:|
-| Classic | Ada | [ada2012.org](https://www.ada2012.org/) | link | [Kr](https://ko.wikipedia.org/wiki/에이다_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Ada_(programming_language)) |
+| Classic Languages | Ada | [ada2012.org](https://www.ada2012.org/) | link | [Kr](https://ko.wikipedia.org/wiki/에이다_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Ada_(programming_language)) |
 | | Algol | [algol68.org](http://www.algol68.org/) | link | [Kr](https://ko.wikipedia.org/wiki/알골_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/ALGOL) |
 | | B | [Bell Labs](https://www.bell-labs.com/usr/dmr/www/bintro.html) | link | [Kr](https://ko.wikipedia.org/wiki/B_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/B_(programming_language)) |
 | | COBOL | [IBM](https://developer.ibm.com/languages/cobol/) | [tutorialspoint](https://www.tutorialspoint.com/cobol/) | [Kr](https://ko.wikipedia.org/wiki/코볼) [En](https://en.wikipedia.org/wiki/COBOL) |
@@ -989,7 +989,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | Fortran | [fortran-lang.org](https://fortran-lang.org/) | [tutorialspoint](https://www.tutorialspoint.com/fortran/) | [Kr](https://ko.wikipedia.org/wiki/포트란) [En](https://en.wikipedia.org/wiki/Fortran) |
 | | GW-BASIC | [gw-basic.com](http://gw-basic.com/) | link | [Kr](https://ko.wikipedia.org/wiki/GW_베이직) [En](https://en.wikipedia.org/wiki/GW-BASIC) |
 | | Pascal | [freepascal.org](https://www.freepascal.org/) | [tutorialspoint](https://www.tutorialspoint.com/pascal/) | [Kr](https://ko.wikipedia.org/wiki/파스칼_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Pascal_(programming_language)) |
-| | QuickBASIC | [MS]() [qbasic.net](https://www.qbasic.net/) | [pittajarn.lpru.ac.th](http://pittajarn.lpru.ac.th/~nukit/basic/tutorial_basic.pdf) | [Kr](https://ko.wikipedia.org/wiki/퀵베이직) [En](https://en.wikipedia.org/wiki/QuickBASIC) |
+| | QuickBASIC | [qbasic.net](https://www.qbasic.net/) | [pittajarn.lpru.ac.th](http://pittajarn.lpru.ac.th/~nukit/basic/tutorial_basic.pdf) | [Kr](https://ko.wikipedia.org/wiki/퀵베이직) [En](https://en.wikipedia.org/wiki/QuickBASIC) |
 | | Small Talk | [gnu.org](https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html) | link | [Kr](https://ko.wikipedia.org/wiki/스몰토크) [En](https://en.wikipedia.org/wiki/Smalltalk) |
 | Functional Programming | Clojure | [clojure.org](https://clojure.org/) | [tutorialspoint](https://www.tutorialspoint.com/clojure/) | [Kr](https://ko.wikipedia.org/wiki/클로저_(프로그래밍_언어)) [En](https://en.wikipedia.org/wiki/Clojure) |
 | | Erlang | [erlang.org](https://www.erlang.org/) | [tutorialspoint](https://www.tutorialspoint.com/erlang/) | [Kr](https://ko.wikipedia.org/wiki/얼랭) [En](https://en.wikipedia.org/wiki/Erlang_(programming_language)) |
