@@ -33,7 +33,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Course](#coursera--course)
-  - [Project : Dart & Flutter](#list)
+  - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
 
 ### \<Edx>
