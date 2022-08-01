@@ -22,7 +22,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Cloud - AWS](#coursera--specialization--cloud---aws)
   - [Specialization : Cloud - Azure](#coursera--specialization--cloud---azure)
-  - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
+  - [Specialization : Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
+  - [Specialization : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Mathematics](#coursera--specialization--mathematics)
   - [Specialization : Statistics](#coursera--specialization--statistics)
@@ -277,7 +278,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 |  | &nbsp;&nbsp;· [Prepare for DP-100: Data Science on Microsoft Azure Exam](https://www.coursera.org/learn/prepare-for-dp-100-design-a-data-science-solution-on-azure) | Itm. | 9 |  |  |  |
 
 
-## [Coursera / Professional Certificate : Cloud - GCP](#list)
+## [Coursera / Professional Certificate : Cloud - GCP (Beginner)](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -294,6 +295,43 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | Adv. | 8 | | | |
 | | &nbsp;&nbsp;· [Logging, Monitoring and Observability in Google Cloud](https://www.coursera.org/learn/logging-monitoring-observability-google-cloud) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) | Itm. | 11 | | | |
+
+
+## [Coursera / Professional Certificate : Cloud - GCP (Intermediate)](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Google Cloud | [**Preparing for Google Cloud Certification: Cloud Engineer Professional**](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) | Itm. | 44 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Preparing for Your Associate Cloud Engineer Journey](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) | Itm. | 4 | | | |
+| Google Cloud | [**Preparing for Google Cloud Certification: Cloud Architect Professional**](https://www.coursera.org/professional-certificates/gcp-cloud-architect) | Itm. | 61 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | Adv. | 8 | | | |
+| | &nbsp;&nbsp;· [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) | Adv. | 13 | | | |
+| Google Cloud | [**Preparing for Google Cloud Certification: Cloud Security Engineer Professional**](https://www.coursera.org/professional-certificates/google-cloud-security) | Itm. | 67 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Preparing for Your Professional Cloud Security Engineer Journey](https://www.coursera.org/learn/preparing-for-your-professional-cloud-security-engineer-journey) | Bgn. | 7 | | | |
+| | &nbsp;&nbsp;· [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Managing Security in Google Cloud](https://www.coursera.org/learn/managing-security-in-google-cloud-platform) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud) | Itm. | 13 | | | |
+| | &nbsp;&nbsp;· [Mitigating Security Vulnerabilities on Google Cloud](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Hands-On Labs in Google Cloud for Security Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer) | Itm. | 5 | | | |
+| Google Cloud | [**Preparing for Google Cloud Certification: Cloud Network Engineer Professional**](https://www.coursera.org/professional-certificates/google-cloud-networking) | Itm. | 33 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Hands-On Labs in Google Cloud for Networking Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-networking-engineer) | Itm. | 6 | | | |
 | Google Cloud<br>Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
 | | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
 | | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
