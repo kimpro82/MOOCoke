@@ -856,13 +856,21 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 | Data Structure & Algorithms (Java) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Itm. | 54 | Free | ○ | Princeton University |
 | | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Itm. | 63 | Free | ○ | Princeton University |
+| Electronics | [Introduction to Electronics](https://www.coursera.org/learn/electronics) | - | 46 | × | × | Georgia Institute of Technology |
+| | [Linear Circuits 1: DC Analysis](https://www.coursera.org/learn/linear-circuits-dcanalysis) | - | 85 | × | × | Georgia Institute of Technology |
+| | [Linear Circuits 2: AC Analysis](https://www.coursera.org/learn/linear-circuits-ac-analysis) | - | 28 | × | × | Georgia Institute of Technology |
+| | [Introduction to Semiconductor Devices 1](https://www.coursera.org/learn/semiconductor-1) | Itm. | 12 | ○ | × | Korea Advanced Institute of Science and Technology |
+| | [Introduction to Semiconductor Devices 2](https://www.coursera.org/learn/semiconductor-2) | Itm. | 10 | ○ | × | Korea Advanced Institute of Science and Technology |
+| | [VLSI CAD Part I: Logic](https://www.coursera.org/learn/vlsi-cad-logic) | Itm. | 23 | ○ | × | University of Illinois at Urbana-Champaign |
+| | [VLSI CAD Part II: Layout](https://www.coursera.org/learn/vlsi-cad-layout) | Itm. | 24 | ○ | × | University of Illinois at Urbana-Champaign |
+| | [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design) | Itm. | 30 | ○ | × | Eindhoven University of Technology |
 | Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
 | (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
 | (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
 | Git | [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | ○ | × | Google |
 | Java | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | University of California San Diego |
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
-| Mathemathics | [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) | Itm. | 59 | ○ | × | The University of Sydney |
+| Mathematics | [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) | Itm. | 59 | ○ | × | The University of Sydney |
 | | [Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Itm. | 23 | ○ | × | Johns Hopkins University |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
 | Microsoft Azure | [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics) | Bgn. | 9 | ○ | ○ | LearnQuest |
