@@ -34,6 +34,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - Python](#coursera--specialization--investment---python)
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
+  - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
   - [Course](#coursera--course)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
@@ -854,11 +855,6 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Transacting on the Blockchain](https://www.coursera.org/learn/transacting-blockchain) | Itm. | 16 | | | |
 | | &nbsp;&nbsp;· [Blockchain and Business: Applications and Implications](https://www.coursera.org/learn/blockchain-business) | - | 27 | | | |
 | | &nbsp;&nbsp;· [Blockchain Opportunity Analysis](https://www.coursera.org/learn/blockchain-opportunity-analysis) | Itm. | 13 | | | |
-| Blockchain | [**Blockchain Revolution in Financial Services**](https://www.coursera.org/specializations/blockchain-financial-services) | Bgn. | 78 | ○ | × | INSEAD |
-| | &nbsp;&nbsp;· [Introduction to Blockchain for Financial Services](https://www.coursera.org/learn/intro-blockchain-financial-services) | Bgn. | 29 | | | |
-| | &nbsp;&nbsp;· [Blockchain, Cryptoassets, and Decentralized Finance](https://www.coursera.org/learn/blockchain-crypto-decentralized-finance) | Bgn. | 19 | | | |
-| | &nbsp;&nbsp;· [Blockchain Transformations of Financial Services](https://www.coursera.org/learn/blockchain-transformations-financial-services) | Bgn. | 16 | | | |
-| | &nbsp;&nbsp;· [Blockchain in Financial Services: Strategic Action Plan](https://www.coursera.org/learn/blockchain-strategic-action-plan) | Itm. | 14 | | | |
 | Blockchain | [**Introduction to Blockchain**](https://www.coursera.org/specializations/introduction-to-blockchain) | Bgn. | 9 | ○ | × | Association of International Certified Professional Accountants |
 | | &nbsp;&nbsp;· [Blockchain Evolution and Technology Concepts](https://www.coursera.org/learn/blockchain-evolution-and-technology-concepts) | Bgn. | 3 | | | |
 | | &nbsp;&nbsp;· [Blockchain Opportunities Beyond Crypto Assets](https://www.coursera.org/learn/blockchain-opportunities-beyond-crypto-assets) | Bgn. | 3 | | | |
@@ -868,6 +864,44 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Smart Contracts](https://www.coursera.org/learn/smarter-contracts) | Itm. | 17 | | | |
 | | &nbsp;&nbsp;· [Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain) | Itm. | 18 | | | |
 | | &nbsp;&nbsp;· [Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms) | Itm. | 16 | | | |
+
+
+## [Coursera / Specialization : Blockchain - Fintech](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Fintech | [**Fintech: Foundations & Applications of Financial Technology**](https://www.coursera.org/specializations/wharton-fintech) | Bgn. | 19 | ○ | × | University of Pennsylvania |
+| | &nbsp;&nbsp;· [FinTech: Foundations, Payments, and Regulations](https://www.coursera.org/learn/wharton-fintech-overview-payments-regulations) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Cryptocurrency and Blockchain: An Introduction to Digital Currencies](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency) | - | 4 | | | |
+| | &nbsp;&nbsp;· [Lending, Crowdfunding, and Modern Investing](https://www.coursera.org/learn/wharton-crowdfunding-marketplace-lending-modern-investing) | Bgn. | 5 | | | |
+| | &nbsp;&nbsp;· [Application of AI, InsurTech, and Real Estate Technology](https://www.coursera.org/learn/wharton-ai-application-insurtech-real-estate-technology) | - | 4 | | | |
+| Fintech | [**Financial Technology (Fintech) Innovations**](https://www.coursera.org/specializations/financialtechnology) | Bgn. | 34 | ○ | × | University of Michigan |
+| | &nbsp;&nbsp;· [The Future of Payment Technologies](https://www.coursera.org/learn/paytech) | Bgn. | 7 | | | |
+| | &nbsp;&nbsp;· [Blockchain and Cryptocurrency Explained](https://www.coursera.org/learn/crypto-finance) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Raising Capital: Credit Tech, Coin Offerings, and Crowdfunding](https://www.coursera.org/learn/credit-tech) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Innovations in Investment Technology: Artificial Intelligence](https://www.coursera.org/learn/invest-tech) | Bgn. | 10 | | | |
+| Fintech | [**Fintech Startups in Emerging Markets**](https://www.coursera.org/specializations/fintech-startups-emerging-markets) | Bgn. | 55 | ○ | × | University of Cape Town |
+| | &nbsp;&nbsp;· [Financial Regulation in Emerging Markets and the Rise of Fintech Companies](https://www.coursera.org/learn/financial-regulation) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [How Entrepreneurs in Emerging Markets can master the Blockchain Technology](https://www.coursera.org/learn/entrepreneurs-blockchain-technology) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Building Fintech Startups in Emerging Markets](https://www.coursera.org/learn/building-fintech-startups) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Capstone Course: Start Up Your Fintech Future](https://www.coursera.org/learn/startup-fintech-capstone) | Bgn. | 13 | | | |
+| Fintech | [**FinTech: Finance Industry Transformation and Regulation**](https://www.coursera.org/specializations/fintech) | Bgn. | 58 | ○ | × | The Hong Kong University of Science and Technology |
+| | &nbsp;&nbsp;· [FinTech Foundations and Overview](https://www.coursera.org/learn/fintech) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [FinTech Security and Regulation (RegTech)](https://www.coursera.org/learn/regtech) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [FinTech Risk Management](https://www.coursera.org/learn/fintech-risk-management) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [FinTech Disruptive Innovation: Implications for Society](https://www.coursera.org/learn/fintech-disruption) | Bgn. | 13 | | | |
+| Fintech | [**Blockchain Revolution in Financial Services**](https://www.coursera.org/specializations/blockchain-financial-services) | Bgn. | 78 | ○ | × | INSEAD |
+| | &nbsp;&nbsp;· [Introduction to Blockchain for Financial Services](https://www.coursera.org/learn/intro-blockchain-financial-services) | Bgn. | 29 | | | |
+| | &nbsp;&nbsp;· [Blockchain, Cryptoassets, and Decentralized Finance](https://www.coursera.org/learn/blockchain-crypto-decentralized-finance) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Blockchain Transformations of Financial Services](https://www.coursera.org/learn/blockchain-transformations-financial-services) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Blockchain in Financial Services: Strategic Action Plan](https://www.coursera.org/learn/blockchain-strategic-action-plan) | Itm. | 14 | | | |
+| Fintech | [**Decentralized Finance (DeFi): The Future of Finance**](https://www.coursera.org/specializations/decentralized-finance-duke) | Itm. | 26 | ○ | × | Duke University |
+| | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Primitives](https://www.coursera.org/learn/decentralized-finance-primitives-duke) | Itm. | 6 | | | |
+| | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Deep Dive](https://www.coursera.org/learn/decentralized-finance-deep-dive-duke) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
 
 
 ## [Coursera / Course](#list)
