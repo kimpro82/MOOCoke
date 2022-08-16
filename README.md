@@ -12,12 +12,14 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate---data-science--analytics)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
 
-### \<Coursera>
+### \<Coursera : Professional Certificate>
   - [Professional Certificate : General](#coursera--professional-certificate--general)
   - [Professional Certificate : Cloud - Azure](#coursera--professional-certificate--cloud---azure)
   - [Professional Certificate : Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
   - [Professional Certificate : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
   - [Professional Certificate : Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
+
+### \<Coursera : Specialization>
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
@@ -37,6 +39,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
+
+### \<Coursera : Course / Project>
   - [Course](#coursera--course)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
