@@ -12,10 +12,14 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate---data-science--analytics)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
 
-### \<Coursera>
+### \<Coursera : Professional Certificate>
   - [Professional Certificate : General](#coursera--professional-certificate--general)
   - [Professional Certificate : Cloud - Azure](#coursera--professional-certificate--cloud---azure)
-  - [Professional Certificate : Cloud - GCP](#coursera--professional-certificate--cloud---gcp)
+  - [Professional Certificate : Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
+  - [Professional Certificate : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
+  - [Professional Certificate : Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
+
+### \<Coursera : Specialization>
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
@@ -35,6 +39,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
+
+### \<Coursera : Course / Project>
   - [Course](#coursera--course)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
@@ -334,6 +340,21 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks) | Itm. | 9 | | | |
 | | &nbsp;&nbsp;· [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management) | Itm. | 9 | | | |
 | | &nbsp;&nbsp;· [Hands-On Labs in Google Cloud for Networking Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-networking-engineer) | Itm. | 6 | | | |
+
+
+## [Coursera / Professional Certificate : Cloud - GCP (Data Science)](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Google Cloud | [**Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate**](https://www.coursera.org/professional-certificates/gcp-data-engineering) | Itm. | 58 | ○ | × | Google Cloud |
+| | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Building Batch Data Pipelines on Google Cloud](https://www.coursera.org/learn/batch-data-pipelines-gcp) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Building Resilient Streaming Analytics Systems on Google Cloud](https://www.coursera.org/learn/streaming-analytics-systems-gcp) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) | Adv. | 8 | | | |
 | Google Cloud<br>Machine Learning | [**Preparing for Google Cloud Certification: Machine Learning Engineer**](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Itm. | 138 | ○ | × | Google Cloud |
 | | &nbsp;&nbsp;· [Google Cloud Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) | Bgn. | 10 | | | |
 | | &nbsp;&nbsp;· [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) | Bgn. | 13 | | | |
