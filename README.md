@@ -50,8 +50,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Course](#edx--course)
 
 ### \<Others>
-  - [Naver Connect / BoostCourse](#)
   - [Sololearn / Course](#sololearn--course)
+  - [Naver Connect / BoostCourse](#naver-connect--boostcourse)
   - [Elice Academy / Free Course](#elice-academy--free-course)
   - [ETC](#etc)
 
