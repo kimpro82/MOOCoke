@@ -1092,17 +1092,30 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 | Subject | Title | Level | Free | PayCodeReview | Quiz |
 | :-: | :-- | :-: | :-: | :-: | :-: |
-| Web | [웹 접근성 이해](https://www.boostcourse.org/web201) | 입문 | ○ | × | ○ |
-| | [웹 프론트엔드 시작하기 (리액트&리덕스)](https://www.boostcourse.org/web231) | 기본 | ○ | × | ○ |
-| | [웹 프로그래밍(풀스택)](https://www.boostcourse.org/web316) | 심화 | ○ | ○ | × |
-| | [웹 백엔드](https://www.boostcourse.org/web326) | 심화 | ○ | ○ | × |
-| | [웹 UI 개발](https://www.boostcourse.org/web344) | 심화 | ○ | ○ | ○ |
+| Computer Science | [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112) | 입문 | ○ | × | ○ |
+| | [모두를 위한 파이썬 (PY4E)](https://www.boostcourse.org/cs122) | 입문 | ○ | × | ○ |
+| | [Github으로 따라하는 버전 관리](https://www.boostcourse.org/cs102) | - | ○ | × | ○ |
+| | [파이썬을 이용한 웹 스크래핑](https://www.boostcourse.org/cs201) | 기본 | ○ | × | × |
+| | [파이썬을 이용한 데이터베이스 처리](https://www.boostcourse.org/cs202) | 기본 | ○ | × | × |
+| | [캡스톤 : 파이썬을 이용한 데이터 검색, 처리 및 시각화](https://www.boostcourse.org/cs203) | 기본 | ○ | × | × |
+| | [처음 배우는 프로그래밍 (w.파이썬)](https://www.boostcourse.org/cs114) | 입문 | ○ | × | ○ |
+| | [자바로 구현하고 배우는 자료구조](https://www.boostcourse.org/cs204) | 기본 | ○ | × | ○ |
+| | [[MIT]파이썬을 이용한 알고리즘의 이해](https://www.boostcourse.org/cs113) | 입문 | ○ | × | × |
+| | [비전공자를 위한 HTML/CSS](https://www.boostcourse.org/cs120) | 입문 | ○ | × | ○ |
+| | [자바스크립트의 시작](https://www.boostcourse.org/cs124) | 입문 | ○ | × | ○ |
+| | [쉽게 배우는 자바1](https://www.boostcourse.org/cs126) | 입문 | ○ | × | ○ |
+| | [쉽게 배우는 자바2](https://www.boostcourse.org/cs128) | 입문 | ○ | × | ○ |
 | Mobile | [Hello, 코틀린!](https://www.boostcourse.org/mo001) | - | ○ | × | ○ |
 | | [코틀린 프로그래밍 기본 1](https://www.boostcourse.org/mo132) | 입문 | ○ | × | ○ |
 | | [코틀린 프로그래밍 기본 2](https://www.boostcourse.org/mo234) | 기본 | ○ | × | ○ |
 | | [안드로이드 앱 프로그래밍](https://www.boostcourse.org/mo316) | 심화 | ○ | ○ | × |
 | | [iOS 프로그래밍을 위한 스위프트 기초](https://www.boostcourse.org/mo122) | 기본 | ○ | × | ○ |
 | | [iOS 앱 프로그래밍](https://www.boostcourse.org/mo326) | 심화 | ○ | ○ | × |
+| Web | [웹 접근성 이해](https://www.boostcourse.org/web201) | 입문 | ○ | × | ○ |
+| | [웹 프론트엔드 시작하기 (리액트&리덕스)](https://www.boostcourse.org/web231) | 기본 | ○ | × | ○ |
+| | [웹 프로그래밍(풀스택)](https://www.boostcourse.org/web316) | 심화 | ○ | ○ | × |
+| | [웹 백엔드](https://www.boostcourse.org/web326) | 심화 | ○ | ○ | × |
+| | [웹 UI 개발](https://www.boostcourse.org/web344) | 심화 | ○ | ○ | ○ |
 
 
 ## [Elice Academy / Free Course](#list)
