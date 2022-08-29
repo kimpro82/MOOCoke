@@ -1105,6 +1105,15 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | [자바스크립트의 시작](https://www.boostcourse.org/cs124) | 입문 | ○ | × | ○ |
 | | [쉽게 배우는 자바1](https://www.boostcourse.org/cs126) | 입문 | ○ | × | ○ |
 | | [쉽게 배우는 자바2](https://www.boostcourse.org/cs128) | 입문 | ○ | × | ○ |
+| Data Science | [모두를 위한 데이터 사이언스](https://www.boostcourse.org/ds101) | 입문 | ○ | × | ○ |
+| | [데이터 시각화를 위한 태블로](https://www.boostcourse.org/ds121) | 입문 | ○ | × | ○ |
+| | [기초 데이터 분석을 위한 핵심 SQL](https://www.boostcourse.org/ds102) | 입문 | ○ | × | ○ |
+| | [Hello, 데이터 사이언스!](https://www.boostcourse.org/ds001) | - | ○ | × | ○ |
+| | [DataLit : 데이터다루기](https://www.boostcourse.org/ds103) | 입문 | ○ | × | × |
+| | [[MIT] 데이터 사이언스 기초](https://www.boostcourse.org/ds201) | 입문 | ○ | × | × |
+| | [캐글 실습으로 배우는 데이터 사이언스](https://www.boostcourse.org/ds116) | 입문 | ○ | × | ○ |
+| | [파이썬으로 시작하는 데이터 사이언스](https://www.boostcourse.org/ds112) | 입문 | ○ | × | ○ |
+| | [프로젝트로 배우는 데이터사이언스](https://www.boostcourse.org/ds214) | 기본 | ○ | Free | × |
 | Mobile | [Hello, 코틀린!](https://www.boostcourse.org/mo001) | - | ○ | × | ○ |
 | | [코틀린 프로그래밍 기본 1](https://www.boostcourse.org/mo132) | 입문 | ○ | × | ○ |
 | | [코틀린 프로그래밍 기본 2](https://www.boostcourse.org/mo234) | 기본 | ○ | × | ○ |
