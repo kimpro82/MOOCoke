@@ -1092,6 +1092,24 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 | Subject | Title | Level | Free | PayCodeReview | Quiz |
 | :-: | :-- | :-: | :-: | :-: | :-: |
+| AI | [[부스트캠프 AI Tech 4기] Pre-Course](https://www.boostcourse.org/onlyboostcampaitech4) | 입문 | ○ | × | ○ |
+| | [인공지능(AI) 기초 다지기](https://www.boostcourse.org/ai100) | 입문 | ○ | × | ○ |
+| | [딥러닝 기초 다지기](https://www.boostcourse.org/ai111) | 입문 | ○ | × | ○ |
+| | [파이토치로 만드는 딥러닝 이론](https://www.boostcourse.org/ai213) | 기본 | ○ | × | ○ |
+| | [쇼핑데이터를 활용한 머신러닝](https://www.boostcourse.org/ai224) | 기본 | ○ | × | ○ |
+| | [그래프와 추천 시스템](https://www.boostcourse.org/ai211) | 기본 | ○ | × | ○ |
+| | [인공지능 전문가 특강](https://www.boostcourse.org/ai101) | 입문 | ○ | × | ○ |
+| | [머신러닝을 위한 파이썬](https://www.boostcourse.org/ai222) | 기본 | ○ | × | ○ |
+| | [텐서플로우로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai212) | 기본 | ○ | ○ | ○ |
+| | [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214) | 기본 | ○ | ○ | ○ |
+| | [딥러닝을 이용한 자연어 처리](https://www.boostcourse.org/ai331) | 기본 | ○ | × | × |
+| | [딥러닝 1단계: 신경망과 딥러닝](https://www.boostcourse.org/ai215) | 기본 | ○ | × | × |
+| | [딥러닝 2단계: 심층 신경망 성능 향상시키기](https://www.boostcourse.org/ai216) | 기본 | ○ | × | × |
+| | [딥러닝 3단계: 머신러닝 프로젝트 구조화하기](https://www.boostcourse.org/ai217) | 기본 | ○ | × | × |
+| | [딥러닝 4단계: 합성곱 신경망 네트워크 (CNN)](https://www.boostcourse.org/ai218) | 기본 | ○ | × | × |
+| | [[칸아카데미] 모두를 위한 선형대수학](https://www.boostcourse.org/ai151) | 입문 | ○ | × | ○ |
+| | [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251) | 기본 | ○ | × | × |
+| | [[하버드] 확률론 기초: Statistics 110](https://www.boostcourse.org/ai152) | 입문 | ○ | × | × |
 | Computer Science | [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112) | 입문 | ○ | × | ○ |
 | | [모두를 위한 파이썬 (PY4E)](https://www.boostcourse.org/cs122) | 입문 | ○ | × | ○ |
 | | [Github으로 따라하는 버전 관리](https://www.boostcourse.org/cs102) | - | ○ | × | ○ |
