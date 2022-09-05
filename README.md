@@ -41,8 +41,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
 
 ### \<Coursera : Course / Project>
-  - [Course : General](#coursera--course)
-  - [Course : Others](#coursera--course)
+  - [Course : Development](#coursera--course--development)
+  - [Course : Others](#coursera--course--others)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
 
