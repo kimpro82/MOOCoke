@@ -41,7 +41,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
 
 ### \<Coursera : Course / Project>
-  - [Course](#coursera--course)
+  - [Course : Development](#coursera--course--development)
+  - [Course : Others](#coursera--course--others)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
 
@@ -926,7 +927,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
 
 
-## [Coursera / Course](#list)
+## [Coursera / Course : Development](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -963,6 +964,19 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure) | Adv. | 16 | ○ | × | LearnQuest |
 | | [Azure Infrastructure Fundamentals](https://www.coursera.org/learn/azure-infrastructure) | Adv. | 30 | ○ | × | LearnQuest |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
+
+
+## [Coursera / Course : Others](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Health | [Science of Exercise](https://www.coursera.org/learn/science-exercise) | Bgn. | 10 | ○ | ○ | University of Colorado Boulder |
+| | [Stanford Introduction to Food and Health](https://www.coursera.org/learn/food-and-health) | Bgn. | 7 | × | ○ | Stanford University |
+| | [Hacking Exercise For Health. The surprising new science of fitness](https://www.coursera.org/learn/hacking-exercise-health) | Bgn. | 23 | ○ | × | McMaster University |
+| | [Vital Signs: Understanding What the Body Is Telling Us](https://www.coursera.org/learn/vital-signs) | - | 14 | ○ | ○ | University of Pennsylvania |
+| | [Biohacking Your Brain's Health](https://www.coursera.org/learn/biohacking-your-brains-health) | Bgn. | 14 | ○ | × | Emory University |
 
 
 ## [Coursera / Project : Dart & Flutter](#list)
