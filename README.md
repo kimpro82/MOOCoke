@@ -39,6 +39,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
+  - [Specialization : Others](#coursera--specialization--others)
 
 ### \<Coursera : Course / Project>
   - [Course : Development](#coursera--course--development)
@@ -925,6 +926,20 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Primitives](https://www.coursera.org/learn/decentralized-finance-primitives-duke) | Itm. | 6 | | | |
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Deep Dive](https://www.coursera.org/learn/decentralized-finance-deep-dive-duke) | Itm. | 8 | | | |
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
+
+
+## [Coursera / Specialization : Others](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Parenting | [**Newborn Baby Care**](https://www.coursera.org/specializations/newborn-baby-care) | Bgn. | | ○ | × | University of Colorado System |
+| | &nbsp;&nbsp;· [Preventative Healthcare for the Newborn Baby](https://www.coursera.org/learn/preventive-healthcare-newborn-baby) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [The Newborn Assessment](https://www.coursera.org/learn/newborn-assessment) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Guidance to Keep Newborn Babies Safe and Healthy](https://www.coursera.org/learn/keeping-newborn-baby-safe-healthy) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Supporting Parents of a Newborn Baby](https://www.coursera.org/learn/supporting-parents-newborn-baby) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Newborn Capstone](https://www.coursera.org/learn/newborn-capstone) | Bgn. | 16 | | | |
 
 
 ## [Coursera / Course : Development](#list)
