@@ -39,6 +39,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
+  - [Specialization : Others](#coursera--specialization--others)
 
 ### \<Coursera : Course / Project>
   - [Course : Development](#coursera--course--development)
@@ -927,6 +928,20 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
 
 
+## [Coursera / Specialization : Others](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Parenting | [**Newborn Baby Care**](https://www.coursera.org/specializations/newborn-baby-care) | Bgn. | 71 | ○ | × | University of Colorado System |
+| | &nbsp;&nbsp;· [Preventative Healthcare for the Newborn Baby](https://www.coursera.org/learn/preventive-healthcare-newborn-baby) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [The Newborn Assessment](https://www.coursera.org/learn/newborn-assessment) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Guidance to Keep Newborn Babies Safe and Healthy](https://www.coursera.org/learn/keeping-newborn-baby-safe-healthy) | Bgn. | 16 | | | |
+| | &nbsp;&nbsp;· [Supporting Parents of a Newborn Baby](https://www.coursera.org/learn/supporting-parents-newborn-baby) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Newborn Capstone](https://www.coursera.org/learn/newborn-capstone) | Bgn. | 16 | | | |
+
+
 ## [Coursera / Course : Development](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
@@ -972,11 +987,14 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Health | [Science of Exercise](https://www.coursera.org/learn/science-exercise) | Bgn. | 10 | ○ | ○ | University of Colorado Boulder |
-| | [Stanford Introduction to Food and Health](https://www.coursera.org/learn/food-and-health) | Bgn. | 7 | × | ○ | Stanford University |
-| | [Hacking Exercise For Health. The surprising new science of fitness](https://www.coursera.org/learn/hacking-exercise-health) | Bgn. | 23 | ○ | × | McMaster University |
+| Health | [Stanford Introduction to Food and Health](https://www.coursera.org/learn/food-and-health) | Bgn. | 7 | × | ○ | Stanford University |
+| | [Science of Exercise](https://www.coursera.org/learn/science-exercise) | Bgn. | 10 | ○ | ○ | University of Colorado Boulder |
 | | [Vital Signs: Understanding What the Body Is Telling Us](https://www.coursera.org/learn/vital-signs) | - | 14 | ○ | ○ | University of Pennsylvania |
 | | [Biohacking Your Brain's Health](https://www.coursera.org/learn/biohacking-your-brains-health) | Bgn. | 14 | ○ | × | Emory University |
+| | [Hacking Exercise For Health. The surprising new science of fitness](https://www.coursera.org/learn/hacking-exercise-health) | Bgn. | 23 | ○ | × | McMaster University |
+| Parenting | [Stanford's Short Course on Breastfeeding](https://www.coursera.org/learn/breastfeeding) | Bgn. | 5 | × | × | Stanford University |
+| | [Nutrition and Lifestyle in Pregnancy](https://www.coursera.org/learn/nutrition-pregnancy) | Itm. | 7 | × | ○ | Ludwig-Maximilians-Universität München |
+| | [Global Quality Maternal and Newborn Care](https://www.coursera.org/learn/global-quality-maternal-and-newborn-care) | Itm. | 18 | ○ | × | Yale University |
 
 
 ## [Coursera / Project : Dart & Flutter](#list)
