@@ -39,6 +39,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
+  - [Specialization : Music](#coursera--specialization--music)
   - [Specialization : Others](#coursera--specialization--others)
 
 ### \<Coursera : Course / Project>
@@ -926,6 +927,43 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Primitives](https://www.coursera.org/learn/decentralized-finance-primitives-duke) | Itm. | 6 | | | |
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Deep Dive](https://www.coursera.org/learn/decentralized-finance-deep-dive-duke) | Itm. | 8 | | | |
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
+
+
+## [Coursera / Specialization : Music](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Music | [**Developing Your Musicianship**](https://www.coursera.org/specializations/musicianship-specialization) | Bgn. | 51 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Developing Your Musicianship](https://www.coursera.org/learn/develop-your-musicianship) | - | 17 | | | |
+| | &nbsp;&nbsp;· [Musicianship: Chord Charts, Diatonic Chords, and Minor Keys](https://www.coursera.org/learn/musicianship-chords) | Itm. | 13 | | | |
+| | &nbsp;&nbsp;· [Musicianship: Tensions, Harmonic Function, and Modal Interchange](https://www.coursera.org/learn/musicianship-harmony) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Developing Your Musicianship: Final Project](https://www.coursera.org/learn/musicianship-final-project) | Itm. | 10 | | | |
+| Music | [**The Singer Songwriter**](https://www.coursera.org/specializations/singer-songwriter) | Bgn. | 67 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Guitar for Beginners](https://www.coursera.org/learn/guitar) | - | 24 | | | |
+| | &nbsp;&nbsp;· [Singing Popular Music](https://www.coursera.org/learn/singing-popular-music) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Songwriting: Writing the Lyrics](https://www.coursera.org/learn/songwriting-lyrics) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live) | - | 14 | | | |
+| Music | [**How to Play Guitar**](https://www.coursera.org/specializations/play-guitar) | Bgn. | 60 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Guitar for Beginners](https://www.coursera.org/learn/guitar) | - | 24 | | | |
+| | &nbsp;&nbsp;· [Guitar Scales and Chord Progressions](https://www.coursera.org/learn/guitar-scales-chord-progressions) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Guitar Chord Voicings: Playing Up The Neck](https://www.coursera.org/learn/guitar-chords) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Guitar Performance Techniques](https://www.coursera.org/learn/guitar-performance) | Itm. | 11 | | | |
+| Music | [**The DIY Musician**](https://www.coursera.org/specializations/diy-musician) | Bgn. | 54 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Songwriting: Writing the Lyrics](https://www.coursera.org/learn/songwriting-lyrics) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [The Art of Music Production](https://www.coursera.org/learn/producing-music) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Pro Tools Basics](https://www.coursera.org/learn/protools) | - | 13 | | | |
+| | &nbsp;&nbsp;· [Building Your Career in Music: Developing A Brand and Funding Your Music](https://www.coursera.org/learn/navigate-music-industry-independent-artist) | Bgn. | 10 | | | |
+| Music | [**Musician’s Professional Toolbox: Your Portfolio Career**](https://www.coursera.org/specializations/music-career-toolbox-managing-your-portfolio-career) | Itm. | 34 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Strategies for Success in your Music Career](https://www.coursera.org/learn/strategies-for-success-in-your-music-career) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Building Your Artistic Brand](https://www.coursera.org/learn/building-your-artistic-brand) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Promotional Materials Every Musician Needs](https://www.coursera.org/learn/promotional-materials-every-musician-needs) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Launching Your Music Career](https://www.coursera.org/learn/launching-your-music-career) | Itm. | 8 | | | |
+| Music | [**Exploring Piano Literature: The Piano Sonata**](https://www.coursera.org/specializations/exploring-piano-literature) | Itm. | 35 | ○ | × | University of Michigan |
+| | &nbsp;&nbsp;· [The Piano Sonata: Origins to Mozart](https://www.coursera.org/learn/piano-sonata-origins-to-mozart) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [The Piano Sonata: Beethoven and the Romantics](https://www.coursera.org/learn/piano-sonata-beethoven-to-romantics) | Itm. | 12 | | | |
+| | &nbsp;&nbsp;· [The Piano Sonata: Russian and 20th-21st Century Composers](https://www.coursera.org/learn/piano-sonata-russian-20-21-century-composers) | Itm. | 13 | | | |
 
 
 ## [Coursera / Specialization : Others](#list)
