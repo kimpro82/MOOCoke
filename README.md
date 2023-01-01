@@ -26,8 +26,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
   - [Specialization : Cloud - AWS](#coursera--specialization--cloud---aws)
   - [Specialization : Cloud - Azure](#coursera--specialization--cloud---azure)
-  - [Specialization : Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
-  - [Specialization : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
+  - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
   - [Specialization : Game Programming](#coursera--specialization--game-programming)
   - [Specialization : Mathematics](#coursera--specialization--mathematics)
   - [Specialization : Statistics](#coursera--specialization--statistics)
@@ -39,7 +38,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
-  - [Specialization : Music](#coursera--specialization--music)
+  - [Specialization : Music (1)](#coursera--specialization--music-1)
+  - [Specialization : Music (2)](#coursera--specialization--music-2)
   - [Specialization : Others](#coursera--specialization--others)
 
 ### \<Coursera : Course / Project>
@@ -929,7 +929,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
 
 
-## [Coursera / Specialization : Music](#list)
+## [Coursera / Specialization : Music (1)](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -964,6 +964,34 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [The Piano Sonata: Origins to Mozart](https://www.coursera.org/learn/piano-sonata-origins-to-mozart) | Itm. | 10 | | | |
 | | &nbsp;&nbsp;· [The Piano Sonata: Beethoven and the Romantics](https://www.coursera.org/learn/piano-sonata-beethoven-to-romantics) | Itm. | 12 | | | |
 | | &nbsp;&nbsp;· [The Piano Sonata: Russian and 20th-21st Century Composers](https://www.coursera.org/learn/piano-sonata-russian-20-21-century-composers) | Itm. | 13 | | | |
+
+
+## [Coursera / Specialization : Music (2)](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Music | [**The Business of Music Production**](https://www.coursera.org/specializations/business-music-production) | Bgn. | 49 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Music Business Foundations](https://www.coursera.org/learn/music-business-foundations) | - | 12 | | | |
+| | &nbsp;&nbsp;· [The Art of Music Production](https://www.coursera.org/learn/producing-music) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Copyright Law in the Music Business](https://www.coursera.org/learn/copyright-law-music-business) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Pro Tools Basics](https://www.coursera.org/learn/protools) | - | 13 | | | |
+| Music | [**Music Business**](https://www.coursera.org/specializations/music-business) | Bgn. | 40 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Music Business Foundations](https://www.coursera.org/learn/music-business-foundations) | - | 12 | | | |
+| | &nbsp;&nbsp;· [Building Your Career in Music: Developing A Brand and Funding Your Music](https://www.coursera.org/learn/navigate-music-industry-independent-artist) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Copyright Law in the Music Business](https://www.coursera.org/learn/copyright-law-music-business) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Creativity And Entrepreneurship](https://www.coursera.org/learn/creativity-entrepreneurship) | Bgn. | 8 | | | |
+| Music | [**Music Production**](https://www.coursera.org/specializations/music-production) | Bgn. | 56 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [The Art of Music Production](https://www.coursera.org/learn/producing-music) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [The Technology of Music Production](https://www.coursera.org/learn/technology-of-music-production) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Pro Tools Basics](https://www.coursera.org/learn/protools) | - | 13 | | | |
+| | &nbsp;&nbsp;· [Music Production Capstone](https://www.coursera.org/learn/music-production-capstone) | Itm. | 10 | | | |
+| Music | [**Songwriting: Writing, Arranging, and Producing Music**](https://www.coursera.org/specializations/songwriting) | Bgn. | 53 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Songwriting: Writing the Lyrics](https://www.coursera.org/learn/songwriting-lyrics) | Bgn. | 17 | | | |
+| | &nbsp;&nbsp;· [Songwriting: Writing the Music](https://www.coursera.org/learn/songwriting-writing-the-music) | Itm. | 12 | | | |
+| | &nbsp;&nbsp;· [Arranging for Songwriters](https://www.coursera.org/learn/arranging-for-songwriters) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live) | - | 14 | | | |
 
 
 ## [Coursera / Specialization : Others](#list)
