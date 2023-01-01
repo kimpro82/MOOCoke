@@ -973,7 +973,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Music | [**The Business of Music Production**](https://www.coursera.org/specializations/business-music-production) | Bgn. | | ○ | × | Berklee College of Music |
+| Music | [**The Business of Music Production**](https://www.coursera.org/specializations/business-music-production) | Bgn. | 49 | ○ | × | Berklee College of Music |
 | | &nbsp;&nbsp;· [Music Business Foundations](https://www.coursera.org/learn/music-business-foundations) | - | 12 | | | |
 | | &nbsp;&nbsp;· [The Art of Music Production](https://www.coursera.org/learn/producing-music) | Itm. | 14 | | | |
 | | &nbsp;&nbsp;· [Copyright Law in the Music Business](https://www.coursera.org/learn/copyright-law-music-business) | Bgn. | 10 | | | |
