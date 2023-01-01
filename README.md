@@ -988,7 +988,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [The Technology of Music Production](https://www.coursera.org/learn/technology-of-music-production) | Bgn. | 19 | | | |
 | | &nbsp;&nbsp;· [Pro Tools Basics](https://www.coursera.org/learn/protools) | - | 13 | | | |
 | | &nbsp;&nbsp;· [Music Production Capstone](https://www.coursera.org/learn/music-production-capstone) | Itm. | 10 | | | |
-| Music | [**Songwriting: Writing, Arranging, and Producing Music Specialization**](https://www.coursera.org/specializations/songwriting) | Bgn. | 53 | ○ | × | Berklee College of Music |
+| Music | [**Songwriting: Writing, Arranging, and Producing Music**](https://www.coursera.org/specializations/songwriting) | Bgn. | 53 | ○ | × | Berklee College of Music |
 | | &nbsp;&nbsp;· [Songwriting: Writing the Lyrics](https://www.coursera.org/learn/songwriting-lyrics) | Bgn. | 17 | | | |
 | | &nbsp;&nbsp;· [Songwriting: Writing the Music](https://www.coursera.org/learn/songwriting-writing-the-music) | Itm. | 12 | | | |
 | | &nbsp;&nbsp;· [Arranging for Songwriters](https://www.coursera.org/learn/arranging-for-songwriters) | Itm. | 10 | | | |
