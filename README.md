@@ -40,6 +40,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
   - [Specialization : Music (1)](#coursera--specialization--music-1)
   - [Specialization : Music (2)](#coursera--specialization--music-2)
+  - [Specialization : Music (3)](#coursera--specialization--music-3)
   - [Specialization : Others](#coursera--specialization--others)
 
 ### \<Coursera : Course / Project>
@@ -992,6 +993,33 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Songwriting: Writing the Music](https://www.coursera.org/learn/songwriting-writing-the-music) | Itm. | 12 | | | |
 | | &nbsp;&nbsp;· [Arranging for Songwriters](https://www.coursera.org/learn/arranging-for-songwriters) | Itm. | 10 | | | |
 | | &nbsp;&nbsp;· [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live) | - | 14 | | | |
+
+
+## [Coursera / Specialization : Music (3)](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Music | [**Electronic Music Production**](https://www.coursera.org/specializations/electronic-music-production) | Itm. | 54 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [The Technology of Music Production](https://www.coursera.org/learn/technology-of-music-production) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live) | - | 14 | | | |
+| | &nbsp;&nbsp;· [Creating Sounds for Electronic Music](https://www.coursera.org/learn/music-synthesizer) | - | 14 | | | |
+| | &nbsp;&nbsp;· [Electronic Music Performance Techniques](https://www.coursera.org/learn/edi-performance-techniques) | Itm. | 7 | | | |
+| Music | [**Music Education for Teachers**](https://www.coursera.org/specializations/music-education) | Itm. | 47 | ○ | × | Berklee College of Music |
+| | &nbsp;&nbsp;· [Teaching Popular Music in the Classroom](https://www.coursera.org/learn/teaching-popular-music) | Itm. | 8 | | | |
+| | &nbsp;&nbsp;· [Jazz Improvisation](https://www.coursera.org/learn/jazz-improvisation) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Arranging for Songwriters](https://www.coursera.org/learn/arranging-for-songwriters) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [The Art of Music Production](https://www.coursera.org/learn/producing-music) | Itm. | 14 | | | |
+| Music | [**Musician’s Professional Toolbox: Your Portfolio Career**](https://www.coursera.org/specializations/music-career-toolbox-managing-your-portfolio-career) | Itm. | 34 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Strategies for Success in your Music Career](https://www.coursera.org/learn/strategies-for-success-in-your-music-career) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Building Your Artistic Brand](https://www.coursera.org/learn/building-your-artistic-brand) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Promotional Materials Every Musician Needs](https://www.coursera.org/learn/promotional-materials-every-musician-needs) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Launching Your Music Career](https://www.coursera.org/learn/launching-your-music-career) | Itm. | 8 | | | |
+| Music | [**Exploring Piano Literature: The Piano Sonata**](https://www.coursera.org/specializations/exploring-piano-literature) | Itm. | 35 | ○ | × | University of Michigan |
+| | &nbsp;&nbsp;· [The Piano Sonata: Origins to Mozart](https://www.coursera.org/learn/piano-sonata-origins-to-mozart) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [The Piano Sonata: Beethoven and the Romantics](https://www.coursera.org/learn/piano-sonata-beethoven-to-romantics) | Itm. | 12 | | | |
+| | &nbsp;&nbsp;· [The Piano Sonata: Russian and 20th-21st Century Composers](https://www.coursera.org/learn/piano-sonata-russian-20-21-century-composers) | Itm. | 13 | | | |
 
 
 ## [Coursera / Specialization : Others](#list)
