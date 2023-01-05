@@ -956,15 +956,6 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [The Art of Music Production](https://www.coursera.org/learn/producing-music) | Itm. | 14 | | | |
 | | &nbsp;&nbsp;· [Pro Tools Basics](https://www.coursera.org/learn/protools) | - | 13 | | | |
 | | &nbsp;&nbsp;· [Building Your Career in Music: Developing A Brand and Funding Your Music](https://www.coursera.org/learn/navigate-music-industry-independent-artist) | Bgn. | 10 | | | |
-| Music | [**Musician’s Professional Toolbox: Your Portfolio Career**](https://www.coursera.org/specializations/music-career-toolbox-managing-your-portfolio-career) | Itm. | 34 | ○ | × | University of Colorado Boulder |
-| | &nbsp;&nbsp;· [Strategies for Success in your Music Career](https://www.coursera.org/learn/strategies-for-success-in-your-music-career) | Itm. | 10 | | | |
-| | &nbsp;&nbsp;· [Building Your Artistic Brand](https://www.coursera.org/learn/building-your-artistic-brand) | Itm. | 7 | | | |
-| | &nbsp;&nbsp;· [Promotional Materials Every Musician Needs](https://www.coursera.org/learn/promotional-materials-every-musician-needs) | Itm. | 9 | | | |
-| | &nbsp;&nbsp;· [Launching Your Music Career](https://www.coursera.org/learn/launching-your-music-career) | Itm. | 8 | | | |
-| Music | [**Exploring Piano Literature: The Piano Sonata**](https://www.coursera.org/specializations/exploring-piano-literature) | Itm. | 35 | ○ | × | University of Michigan |
-| | &nbsp;&nbsp;· [The Piano Sonata: Origins to Mozart](https://www.coursera.org/learn/piano-sonata-origins-to-mozart) | Itm. | 10 | | | |
-| | &nbsp;&nbsp;· [The Piano Sonata: Beethoven and the Romantics](https://www.coursera.org/learn/piano-sonata-beethoven-to-romantics) | Itm. | 12 | | | |
-| | &nbsp;&nbsp;· [The Piano Sonata: Russian and 20th-21st Century Composers](https://www.coursera.org/learn/piano-sonata-russian-20-21-century-composers) | Itm. | 13 | | | |
 
 
 ## [Coursera / Specialization : Music (2)](#list)
