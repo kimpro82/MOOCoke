@@ -1072,14 +1072,32 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Health | [Stanford Introduction to Food and Health](https://www.coursera.org/learn/food-and-health) | Bgn. | 7 | × | ○ | Stanford University |
-| | [Science of Exercise](https://www.coursera.org/learn/science-exercise) | Bgn. | 10 | ○ | ○ | University of Colorado Boulder |
-| | [Vital Signs: Understanding What the Body Is Telling Us](https://www.coursera.org/learn/vital-signs) | - | 14 | ○ | ○ | University of Pennsylvania |
-| | [Biohacking Your Brain's Health](https://www.coursera.org/learn/biohacking-your-brains-health) | Bgn. | 14 | ○ | × | Emory University |
+| Music | [20世纪西方音乐 Western Music in the 20th Century](https://www.coursera.org/learn/20cnwm) | Bgn. | 14 | ○ | × | Peking University |
+| | [Explore Management Concepts through Metaphor and Music](https://www.coursera.org/learn/explore-management-concepts-through-metaphor-and-music) | Bgn. | 18 | ○ | × | University of London |
+| | [Exploring Beethoven’s Piano Sonatas Part 2](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-2) | Bgn. | 8 | ○ | × | Curtis Institute of Music |
+| | [Exploring Beethoven’s Piano Sonatas](https://www.coursera.org/learn/beethoven-piano-sonatas) | Bgn. | 18 | ○ | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 3](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-3) | Bgn. | 7 | ○ | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 4](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-4) | Itm. | 5 | ○ | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 5](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-5) | Itm. | 7 | ○ | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 6](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-6) | Itm. | 6 | ○ | × | Curtis Institute of Music |
+| | [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | Bgn. | 12 | ○ | × | The University of Edinburgh |
+| | [Getting Started With Music Theory](https://www.coursera.org/learn/music-theory) | Bgn. | 13 | ○ | × | Michigan State University |
+| | [How Music Can Change Your Life](https://www.coursera.org/learn/music-life) | Bgn. | 26 | ○ | × | The University of Melbourne |
+| | [Modern & Contemporary American Poetry (“ModPo”)](https://www.coursera.org/learn/modpo) | Bgn. | 93 | ○ | × | University of Pennsylvania |
+| | [Music for Wellness](https://www.coursera.org/learn/music-for-wellness) | Bgn. | 11 | ○ | × | Berklee College of Music |
+| | [Music's Big Bang: The Genesis of Rock 'n' Roll](https://www.coursera.org/learn/rock-and-roll-music) | Bgn. | 9 | ○ | × | University of Florida |
+| | [Piano Techniques for Modern Music](https://www.coursera.org/learn/piano-techniques-for-modern-music) | Bgn. | 12 | ○ | × | Berklee College of Music |
+| | [So You Think You Know Tango?](https://www.coursera.org/learn/tango) | Bgn. | 6 | ○ | × | Emory University |
+| | [The Art of Vocal Production](https://www.coursera.org/learn/vocal-production) | Bgn. | 12 | ○ | × | Berklee College of Music |
+| | [The Place of Music in 21st Century Education](https://www.coursera.org/learn/music-education) | Bgn. | 22 | ○ | × | The University of Sydney |
+| Health | [Biohacking Your Brain's Health](https://www.coursera.org/learn/biohacking-your-brains-health) | Bgn. | 14 | ○ | × | Emory University |
 | | [Hacking Exercise For Health. The surprising new science of fitness](https://www.coursera.org/learn/hacking-exercise-health) | Bgn. | 23 | ○ | × | McMaster University |
-| Parenting | [Stanford's Short Course on Breastfeeding](https://www.coursera.org/learn/breastfeeding) | Bgn. | 5 | × | × | Stanford University |
+| | [Science of Exercise](https://www.coursera.org/learn/science-exercise) | Bgn. | 10 | ○ | ○ | University of Colorado Boulder |
+| | [Stanford Introduction to Food and Health](https://www.coursera.org/learn/food-and-health) | Bgn. | 7 | × | ○ | Stanford University |
+| | [Vital Signs: Understanding What the Body Is Telling Us](https://www.coursera.org/learn/vital-signs) | - | 14 | ○ | ○ | University of Pennsylvania |
+| Parenting | [Global Quality Maternal and Newborn Care](https://www.coursera.org/learn/global-quality-maternal-and-newborn-care) | Itm. | 18 | ○ | × | Yale University |
 | | [Nutrition and Lifestyle in Pregnancy](https://www.coursera.org/learn/nutrition-pregnancy) | Itm. | 7 | × | ○ | Ludwig-Maximilians-Universität München |
-| | [Global Quality Maternal and Newborn Care](https://www.coursera.org/learn/global-quality-maternal-and-newborn-care) | Itm. | 18 | ○ | × | Yale University |
+| | [Stanford's Short Course on Breastfeeding](https://www.coursera.org/learn/breastfeeding) | Bgn. | 5 | × | × | Stanford University |
 
 
 ## [Coursera / Project : Dart & Flutter](#list)
