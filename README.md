@@ -931,7 +931,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
 
 
-## [Coursera / Specialization : Music (1)](#list)
+## [Coursera / Specialization : Music (1) Beginner - Musicianship](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -959,7 +959,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Building Your Career in Music: Developing A Brand and Funding Your Music](https://www.coursera.org/learn/navigate-music-industry-independent-artist) | Bgn. | 10 | | | |
 
 
-## [Coursera / Specialization : Music (2)](#list)
+## [Coursera / Specialization : Music (2) Beginner - Producing / Business](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -987,7 +987,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live) | - | 14 | | | |
 
 
-## [Coursera / Specialization : Music (3)](#list)
+## [Coursera / Specialization : Music (3) Intermediate](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
