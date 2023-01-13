@@ -38,9 +38,9 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
-  - [Specialization : Music (1)](#coursera--specialization--music-1)
-  - [Specialization : Music (2)](#coursera--specialization--music-2)
-  - [Specialization : Music (3)](#coursera--specialization--music-3)
+  - [Specialization : Music (1) Beginner - Musicianship](#coursera--specialization--music-1-beginner---musicianship)
+  - [Specialization : Music (2) Beginner - Producing / Business](#coursera--specialization--music-2-beginner---producing--business)
+  - [Specialization : Music (3) Intermediate](#coursera--specialization--music-3-intermediate)
   - [Specialization : Writing](#coursera--specialization--writing)
   - [Specialization : Others](#coursera--specialization--others)
 
