@@ -38,9 +38,10 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
   - [Specialization : Blockchain](#coursera--specialization--blockchain)
   - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
-  - [Specialization : Music (1)](#coursera--specialization--music-1)
-  - [Specialization : Music (2)](#coursera--specialization--music-2)
-  - [Specialization : Music (3)](#coursera--specialization--music-3)
+  - [Specialization : Music (1) Beginner - Musicianship](#coursera--specialization--music-1-beginner---musicianship)
+  - [Specialization : Music (2) Beginner - Producing / Business](#coursera--specialization--music-2-beginner---producing--business)
+  - [Specialization : Music (3) Intermediate](#coursera--specialization--music-3-intermediate)
+  - [Specialization : Writing](#coursera--specialization--writing)
   - [Specialization : Others](#coursera--specialization--others)
 
 ### \<Coursera : Course / Project>
@@ -930,7 +931,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Decentralized Finance (DeFi) Opportunities and Risks](https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke) | Itm. | 6 | | | |
 
 
-## [Coursera / Specialization : Music (1)](#list)
+## [Coursera / Specialization : Music (1) Beginner - Musicianship](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -958,7 +959,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Building Your Career in Music: Developing A Brand and Funding Your Music](https://www.coursera.org/learn/navigate-music-industry-independent-artist) | Bgn. | 10 | | | |
 
 
-## [Coursera / Specialization : Music (2)](#list)
+## [Coursera / Specialization : Music (2) Beginner - Producing / Business](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -986,7 +987,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live) | - | 14 | | | |
 
 
-## [Coursera / Specialization : Music (3)](#list)
+## [Coursera / Specialization : Music (3) Intermediate](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -1011,6 +1012,52 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [The Piano Sonata: Origins to Mozart](https://www.coursera.org/learn/piano-sonata-origins-to-mozart) | Itm. | 10 | | | |
 | | &nbsp;&nbsp;· [The Piano Sonata: Beethoven and the Romantics](https://www.coursera.org/learn/piano-sonata-beethoven-to-romantics) | Itm. | 12 | | | |
 | | &nbsp;&nbsp;· [The Piano Sonata: Russian and 20th-21st Century Composers](https://www.coursera.org/learn/piano-sonata-russian-20-21-century-composers) | Itm. | 13 | | | |
+
+
+## [Coursera / Specialization : Writing](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Writing | [**Academic English: Writing**](https://www.coursera.org/specializations/academic-english) | Bgn. | 87 | ○ | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [Grammar and Punctuation](https://www.coursera.org/learn/grammar-punctuation) | - | 17 | | | |
+| | &nbsp;&nbsp;· [Getting Started with Essay Writing](https://www.coursera.org/learn/getting-started-with-essay-writing) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Advanced Writing](https://www.coursera.org/learn/advanced-writing) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Introduction to Research for Essay Writing](https://www.coursera.org/learn/introduction-to-research-for-essay-writing) | - | 20 | | | |
+| | &nbsp;&nbsp;· [Project: Writing a Research Paper](https://www.coursera.org/learn/academic-writing-capstone) | - | 10 | | | |
+| Writing | [**Content Strategy for Professionals**](https://www.coursera.org/specializations/content-strategy) | Bgn. | 24 | ○ | × | Northwestern University |
+| | &nbsp;&nbsp;· [Content Strategy for Professionals: Engaging Audiences](https://www.coursera.org/learn/engagement-strategy) | - | 6 | | | |
+| | &nbsp;&nbsp;· [Content Strategy for Professionals: Managing Content](https://www.coursera.org/learn/content-management-strategy) | - | 6 | | | |
+| | &nbsp;&nbsp;· [Content Strategy for Professionals: Expanding Your Content’s Reach](https://www.coursera.org/learn/increase-reach) | - | 5 | | | |
+| | &nbsp;&nbsp;· [Content Strategy for Professionals: Ensuring Your Content's Impact](https://www.coursera.org/learn/effective-content-strategy) | - | 5 | | | |
+| | &nbsp;&nbsp;· [Content Strategy for Professionals: Capstone Project](https://www.coursera.org/learn/content-strategy-project) | Itm. | 2 | | | |
+| Writing | [**Creative Writing**](https://www.coursera.org/specializations/creative-writing) | Bgn. | 34 | ○ | × | Wesleyan University |
+| | &nbsp;&nbsp;· [Creative Writing: The Craft of Plot](https://www.coursera.org/learn/craft-of-plot) | - | 6 | | | |
+| | &nbsp;&nbsp;· [Creative Writing: The Craft of Character](https://www.coursera.org/learn/craft-of-character) | - | 6 | | | |
+| | &nbsp;&nbsp;· [Creative Writing: The Craft of Setting and Description](https://www.coursera.org/learn/craft-of-setting-and-description) | - | 7 | | | |
+| | &nbsp;&nbsp;· [Creative Writing: The Craft of Style](https://www.coursera.org/learn/craft-of-style) | - | 8 | | | |
+| | &nbsp;&nbsp;· [Capstone: Your Story](https://www.coursera.org/learn/story-writing-project) | - | 7 | | | |
+| Writing | [**Good with Words: Writing and Editing**](https://www.coursera.org/specializations/good-with-words) | Bgn. | 63 | ○ | × | University of Michigan |
+| | &nbsp;&nbsp;· [Writing and Editing: Word Choice and Word Order](https://www.coursera.org/learn/writing-editing-words) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [Writing and Editing: Structure and Organization](https://www.coursera.org/learn/writing-editing-structure) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Writing and Editing: Drafting](https://www.coursera.org/learn/writing-editing-drafting) | Bgn. | 14 | | | |
+| | &nbsp;&nbsp;· [Writing and Editing: Revising](https://www.coursera.org/learn/writing-editing-revising) | Bgn. | 14 | | | |
+| Writing | [**Memoir and Personal Essay: Write About Yourself**](https://www.coursera.org/specializations/memoir-personal-essay) | Bgn. | 28 | ○ | × | Wesleyan University |
+| | &nbsp;&nbsp;· [Memoir and Personal Essay: Managing Your Relationship with the Reader](https://www.coursera.org/learn/memoir-reader-relationship) | Bgn. | 5 | | | |
+| | &nbsp;&nbsp;· [Writing in First Person Point of View](https://www.coursera.org/learn/first-person-pov) | - | 6 | | | |
+| | &nbsp;&nbsp;· [Writing a Personal Essay](https://www.coursera.org/learn/personal-essay) | - | 7 | | | |
+| | &nbsp;&nbsp;· [Writing Stories About Ourselves](https://www.coursera.org/learn/writing-about-ourselves) | Bgn. | 10 | | | |
+| Writing | [**Storying the Self for Leadership and Creativity**](https://www.coursera.org/specializations/storying-the-self-for-leadership-and-creativity) | Bgn. | 23 | ○ | × | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Storying the Self: How Stories Shape our Identities](https://www.coursera.org/learn/storying-the-self-how-stories-shape-our-identities) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Storying the Self: (Re)Claiming our Voices](https://www.coursera.org/learn/storying-the-self-re-claiming-our-voices) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Storying the Self: Telling our Stories](https://www.coursera.org/learn/storying-the-self-telling-our-stories) | Bgn. | 6 | | | |
+| Writing | [**Teaching Writing**](https://www.coursera.org/specializations/teaching-writing) | Bgn. | 99 | ○ | × | Johns Hopkins University |
+| | &nbsp;&nbsp;· [Teaching Writing Process](https://www.coursera.org/learn/teaching-writing-process) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [Teaching Reluctant Writers](https://www.coursera.org/learn/teaching-reluctant-writers) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Teaching Texts and Forms](https://www.coursera.org/learn/teaching-texts-forms) | Bgn. | 21 | | | |
+| | &nbsp;&nbsp;· [Responding, Revising and Assessing Student Writings](https://www.coursera.org/learn/responding-revising-assessing-student-writings) | Bgn. | 21 | | | |
+| | &nbsp;&nbsp;· [Teaching Writing Final Project](https://www.coursera.org/learn/teaching-writing-final-project) | Bgn. | 22 | | | |
 
 
 ## [Coursera / Specialization : Others](#list)
