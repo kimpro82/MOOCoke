@@ -41,7 +41,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Music (1) Beginner - Musicianship](#coursera--specialization--music-1-beginner---musicianship)
   - [Specialization : Music (2) Beginner - Producing / Business](#coursera--specialization--music-2-beginner---producing--business)
   - [Specialization : Music (3) Intermediate](#coursera--specialization--music-3-intermediate)
-  - [Specialization : Writing](#coursera--specialization--writing)
+  - [Specialization : English](#coursera--specialization--english)
+  - [Specialization : English - Writing](#coursera--specialization--english---writing)
   - [Specialization : Others](#coursera--specialization--others)
 
 ### \<Coursera : Course / Project>
@@ -1014,7 +1015,48 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [The Piano Sonata: Russian and 20th-21st Century Composers](https://www.coursera.org/learn/piano-sonata-russian-20-21-century-composers) | Itm. | 13 | | | |
 
 
-## [Coursera / Specialization : Writing](#list)
+## [Coursera / Specialization : English](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| English | [**Essential English for University Success**](https://www.coursera.org/specializations/essential-english-for-university-success) | Bgn. | 24 | ○ | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [Speaking Skills for University Success](https://www.coursera.org/learn/speaking-skills-for-university-success) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Writing Skills for University Success](https://www.coursera.org/learn/writing-skills-for-success) | Bgn. | 7 | | | |
+| | &nbsp;&nbsp;· [Study Skills for University Success](https://www.coursera.org/learn/study-skills-for-university-success) | Bgn. | 9 | | | |
+| English | [**Improve Your English Communication Skills**](https://www.coursera.org/specializations/improve-english) | Bgn. | 55 | ○ | △ | Georgia Institute of Technology |
+| | &nbsp;&nbsp;· [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english) | - | 14 | | ○ | |
+| | &nbsp;&nbsp;· [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally) | - | 16 | | × | |
+| | &nbsp;&nbsp;· [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english) | - | 13 | | × | |
+| | &nbsp;&nbsp;· [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone) | - | 12 | | × | |
+| English | [**Learn English: Beginning Grammar**](https://www.coursera.org/specializations/learn-english-beginning-grammar) | Bgn. | 27 | ○ | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [Word Forms and Simple Present Tense](https://www.coursera.org/learn/word-forms-simple-present-tense) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Questions, Present Progressive and Future Tenses](https://www.coursera.org/learn/questions-present-progressive-future-tenses) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Simple Past Tense](https://www.coursera.org/learn/simple-past-tense) | Bgn. | 9 | | | |
+| English | [**Learn English: Intermediate Grammar**](https://www.coursera.org/specializations/intermediate-grammar) | Itm. | 104 | ○ | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [Perfect Tenses and Modals](https://www.coursera.org/learn/perfect-tenses-modals) | Itm. | 29 | | | |
+| | &nbsp;&nbsp;· [Adjectives and Adjective Clauses](https://www.coursera.org/learn/adjective-clauses) | - | 25 | | | |
+| | &nbsp;&nbsp;· [Tricky English Grammar](https://www.coursera.org/learn/tricky-english-grammar) | - | 25 | | | |
+| | &nbsp;&nbsp;· [Intermediate Grammar Project](https://www.coursera.org/learn/intermediate-grammar-capstone) | Itm. | 25 | | | |
+| English | [**Learn English: Advanced Grammar and Punctuation**](https://www.coursera.org/specializations/advanced-grammar-punctuation) | Adv. | 88 | ○ | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [Verb Tenses and Passives](https://www.coursera.org/learn/verb-passives) | Itm. | 25 | | | |
+| | &nbsp;&nbsp;· [Conjunctions, Connectives, and Adverb Clauses](https://www.coursera.org/learn/conjunctions-connectives-adverb-clauses) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Noun Clauses and Conditionals](https://www.coursera.org/learn/noun-clauses-conditionals) | Itm. | 21 | | | |
+| | &nbsp;&nbsp;· [Advanced Grammar & Punctuation Project](https://www.coursera.org/learn/advanced-grammar-project) | Adv. | 20 | | | |
+| English | [**Learn English: Advanced Academic Speaking and Listening**](https://www.coursera.org/specializations/speaklistenenglish) | Itm. | 102 | ○ | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [Academic Listening and Note-Taking](https://www.coursera.org/learn/note-taking) | Itm. | 32 | | | |
+| | &nbsp;&nbsp;· [Presentations: Speaking so that People Listen](https://www.coursera.org/learn/presentations-speaking-so-that-people-listen) | Itm. | 25 | | | |
+| | &nbsp;&nbsp;· [Academic Discussions in English](https://www.coursera.org/learn/academic-discussion-english) | Itm. | 25 | | | |
+| | &nbsp;&nbsp;· [Advanced Speaking and Listening Project](https://www.coursera.org/learn/speaking-listening-capstone) | Itm. | 20 | | | |
+| English | [**The Pronunciation of American English**](https://www.coursera.org/specializations/american-english-pronunciation) | Bgn. | 85 | ○ | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [Consonants of American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-consonant-sounds) | Bgn. | 22 | | | |
+| | &nbsp;&nbsp;· [Vowels of American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-vowel-sounds) | Bgn. | 23 | | | |
+| | &nbsp;&nbsp;· [The Music of American English Pronunciation](https://www.coursera.org/learn/american-english-pronunciation-music) | Bgn. | 23 | | | |
+| | &nbsp;&nbsp;· [The Pronunciation of American English Project](https://www.coursera.org/learn/pronunciation-american-english-project) | Bgn. | 17 | | | |
+
+
+## [Coursera / Specialization : English - Writing](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
