@@ -47,8 +47,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 ### \<Coursera : Course / Project>
   - [Course : Development](#coursera--course--development)
-  - [Course : Music (Beginner, Itermedate)](#coursera--course--music-beginner-itermedate)
-  - [Course : Music (Mixed)](#coursera--course--music-mixed)
+  - [Course : Music (1) Beginner, Itermedate](#coursera--course--music-1-beginner-itermedate)
+  - [Course : Music (2) Mixed](#coursera--course--music-2-mixed)
   - [Course : Others](#coursera--course--others)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
@@ -1157,7 +1157,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
 
 
-## [Coursera / Course : Music (Beginner, Itermedate)](#list)
+## [Coursera / Course : Music (1) Beginner, Itermedate](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -1183,7 +1183,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | [Piano Scales for Modern Music](https://www.coursera.org/learn/piano-scales-for-modern-music) | Itm. | 12 | | × | Berklee College of Music |
 
 
-## [Coursera / Course : Music (Mixed)](#list)
+## [Coursera / Course : Music (2) Mixed](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
