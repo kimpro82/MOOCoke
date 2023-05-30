@@ -5,7 +5,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 ## List
 
-<details open>
+<details>
   <summary>Master's Degree and Pathway Programs</summary>
 
   - [Master's Degree / Edx](#masters-degree--edx)
@@ -14,7 +14,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate---data-science--analytics)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
 </details>
-<details open>
+<details>
   <summary>Coursera : Professional Certificate</summary>
 
   - [Professional Certificate : General](#coursera--professional-certificate--general)
@@ -23,7 +23,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Professional Certificate : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
   - [Professional Certificate : Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
 </details>
-<details open>
+<details>
   <summary>Coursera : Specialization</summary>
 
   - [Specialization : Development - General](#coursera--specialization--development---general)
@@ -51,7 +51,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : English - Writing](#coursera--specialization--english---writing)
   - [Specialization : Others](#coursera--specialization--others)
 </details>
-<details open>
+<details>
   <summary>Coursera : Course / Project</summary>
 
   - [Course : Development](#coursera--course--development)
@@ -61,13 +61,13 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
 </details>
-<details open>
+<details>
   <summary>Edx</summary>
 
   - [Professional Certificate](#edx--professional-certificate)
   - [Course](#edx--course)
 </details>
-<details open>
+<details>
   <summary>Others</summary>
 
   - [Sololearn / Course](#sololearn--course)
