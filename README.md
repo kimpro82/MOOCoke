@@ -5,21 +5,27 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 ## List
 
-### \<Master's Degree and Pathway Programs>
+<details open>
+  <summary>Master's Degree and Pathway Programs</summary>
+
   - [Master's Degree / Edx](#masters-degree--edx)
   - [Master's Degree / Coursera](#masters-degree--coursera)
   - [MicroMaster® Certificate / Edx - Computer Science](#edx--micromaster-certificate---computer-science)
   - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate---data-science--analytics)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
+</details>
+<details open>
+  <summary>Coursera : Professional Certificate</summary>
 
-### \<Coursera : Professional Certificate>
   - [Professional Certificate : General](#coursera--professional-certificate--general)
   - [Professional Certificate : Cloud - Azure](#coursera--professional-certificate--cloud---azure)
   - [Professional Certificate : Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
   - [Professional Certificate : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
   - [Professional Certificate : Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
+</details>
+<details open>
+  <summary>Coursera : Specialization</summary>
 
-### \<Coursera : Specialization>
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
@@ -44,24 +50,31 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : English](#coursera--specialization--english)
   - [Specialization : English - Writing](#coursera--specialization--english---writing)
   - [Specialization : Others](#coursera--specialization--others)
+</details>
+<details open>
+  <summary>Coursera : Course / Project</summary>
 
-### \<Coursera : Course / Project>
   - [Course : Development](#coursera--course--development)
   - [Course : Music (1) Beginner, Itermedate](#coursera--course--music-1-beginner-itermedate)
   - [Course : Music (2) Mixed](#coursera--course--music-2-mixed)
   - [Course : Others](#coursera--course--others)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
+</details>
+<details open>
+  <summary>Edx</summary>
 
-### \<Edx>
   - [Professional Certificate](#edx--professional-certificate)
   - [Course](#edx--course)
+</details>
+<details open>
+  <summary>Others</summary>
 
-### \<Others>
   - [Sololearn / Course](#sololearn--course)
   - [Naver Connect / BoostCourse](#naver-connect--boostcourse)
   - [Elice Academy / Free Course](#elice-academy--free-course)
   - [ETC](#etc)
+</details>
 
 
 ## [Master's Degree / Edx](#list)
