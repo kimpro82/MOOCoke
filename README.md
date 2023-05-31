@@ -5,21 +5,27 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 
 ## List
 
-### \<Master's Degree and Pathway Programs>
+<details>
+  <summary>Master's Degree and Pathway Programs</summary>
+
   - [Master's Degree / Edx](#masters-degree--edx)
   - [Master's Degree / Coursera](#masters-degree--coursera)
   - [MicroMaster® Certificate / Edx - Computer Science](#edx--micromaster-certificate---computer-science)
   - [MicroMaster® Certificate / Edx - Data Science & Analytics](#edx--micromaster-certificate---data-science--analytics)
   - [MasterTrack® Certificate / Coursera](#coursera--mastertrack-certificate)
+</details>
+<details>
+  <summary>Coursera : Professional Certificate</summary>
 
-### \<Coursera : Professional Certificate>
   - [Professional Certificate : General](#coursera--professional-certificate--general)
   - [Professional Certificate : Cloud - Azure](#coursera--professional-certificate--cloud---azure)
   - [Professional Certificate : Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
   - [Professional Certificate : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
   - [Professional Certificate : Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
+</details>
+<details>
+  <summary>Coursera : Specialization</summary>
 
-### \<Coursera : Specialization>
   - [Specialization : Development - General](#coursera--specialization--development---general)
   - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
   - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
@@ -44,22 +50,31 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : English](#coursera--specialization--english)
   - [Specialization : English - Writing](#coursera--specialization--english---writing)
   - [Specialization : Others](#coursera--specialization--others)
+</details>
+<details>
+  <summary>Coursera : Course / Project</summary>
 
-### \<Coursera : Course / Project>
   - [Course : Development](#coursera--course--development)
+  - [Course : Music (1) Beginner, Itermedate](#coursera--course--music-1-beginner-itermedate)
+  - [Course : Music (2) Mixed](#coursera--course--music-2-mixed)
   - [Course : Others](#coursera--course--others)
   - [Project : Dart & Flutter](#coursera--project--dart--flutter)
   - [Guided Project](#coursera--guided-project)
+</details>
+<details>
+  <summary>Edx</summary>
 
-### \<Edx>
   - [Professional Certificate](#edx--professional-certificate)
   - [Course](#edx--course)
+</details>
+<details>
+  <summary>Others</summary>
 
-### \<Others>
   - [Sololearn / Course](#sololearn--course)
   - [Naver Connect / BoostCourse](#naver-connect--boostcourse)
   - [Elice Academy / Free Course](#elice-academy--free-course)
   - [ETC](#etc)
+</details>
 
 
 ## [Master's Degree / Edx](#list)
@@ -1155,30 +1170,69 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
 
 
+## [Coursera / Course : Music (1) Beginner, Itermedate](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Music (Bgn.) | [20世纪西方音乐 Western Music in the 20th Century](https://www.coursera.org/learn/20cnwm) | Bgn. | 14 | Free | × | Peking University |
+| | [Art of the MOOC: Experiments with Sound](https://www.coursera.org/learn/experiments-with-sound) | Bgn. | 10 | Free | × | Duke University<br>Berlin University of the Arts |
+| | [Explore Management Concepts through Metaphor and Music](https://www.coursera.org/learn/explore-management-concepts-through-metaphor-and-music) | Bgn. | 18 | Free | × | University of London |
+| | [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | Bgn. | 12 | ○ | × | The University of Edinburgh |
+| | [Getting Started With Music Theory](https://www.coursera.org/learn/music-theory) | Bgn. | 13 | Free | × | Michigan State University |
+| | [How Music Can Change Your Life](https://www.coursera.org/learn/music-life) | Bgn. | 26 | Free | × | The University of Melbourne |
+| | [Modern & Contemporary American Poetry (“ModPo”)](https://www.coursera.org/learn/modpo) | Bgn. | 93 | ○ | × | University of Pennsylvania |
+| | [Music for Wellness](https://www.coursera.org/learn/music-for-wellness) | Bgn. | 11 | ○ | × | Berklee College of Music |
+| | [Music's Big Bang: The Genesis of Rock 'n' Roll](https://www.coursera.org/learn/rock-and-roll-music) | Bgn. | 9 | Free | × | University of Florida |
+| | [Piano Techniques for Modern Music](https://www.coursera.org/learn/piano-techniques-for-modern-music) | Bgn. | 12 | ○ | × | Berklee College of Music |
+| | [So You Think You Know Tango?](https://www.coursera.org/learn/tango) | Bgn. | 6 | ○ | × | Emory University |
+| | [The Art of Vocal Production](https://www.coursera.org/learn/vocal-production) | Bgn. | 12 | ○ | × | Berklee College of Music |
+| | [The Place of Music in 21st Century Education](https://www.coursera.org/learn/music-education) | Bgn. | 22 | Free | × | The University of Sydney |
+| Music (Itm.) | [Approaching Music Theory: Melodic Forms and Simple Harmony](https://www.coursera.org/learn/melodic-forms-simple-harmony) | Itm. | 22 | | × | California Institute of the Arts |
+| | [Audio Signal Processing for Music Applications](https://www.coursera.org/learn/audio-signal-processing) | Itm. | 49 | Free | × | Universitat Pompeu Fabra of Barcelona<br>Stanford University |
+| | [FL Studio Basics](https://www.coursera.org/learn/fl-studio-basics) | Itm. | 12 | | × | Berklee College of Music |
+| | [Intimacy of Creativity: Entering the Minds of Composers](https://www.coursera.org/learn/intimacy-creativity-entering-minds-composers) | Itm. | 5 | Free | × | The Hong Kong University of Science and Technology |
+| | [Piano Scales for Modern Music](https://www.coursera.org/learn/piano-scales-for-modern-music) | Itm. | 12 | | × | Berklee College of Music |
+
+
+## [Coursera / Course : Music (2) Mixed](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Music (Mix.) | [Copyright for Multimedia](https://www.coursera.org/learn/copyright-for-multimedia) | Mix. | 11 | Free | × | Duke University<br>Emory University<br>The University of North Carolina at Chapel Hill |
+| | [Exploring Beethoven’s Piano Sonatas](https://www.coursera.org/learn/beethoven-piano-sonatas) | Bgn. | 18 | Free | × | Curtis Institute of Music |
+| | [Exploring Beethoven’s Piano Sonatas Part 2](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-2) | Bgn. | 8 | Free | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 3](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-3) | Bgn. | 7 | Free | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 4](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-4) | Itm. | 5 | Free | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 5](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-5) | Itm. | 7 | Free | × | Curtis Institute of Music |
+| | [Exploring Beethoven's Piano Sonatas Part 6](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-6) | Itm. | 6 | Free | × | Curtis Institute of Music |
+| | [Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics](https://www.coursera.org/learn/audio-engineering) | Mix. | 14 | Free | × | University of Rochester |
+| | [Fundamentals of Rehearsing Music Ensembles](https://www.coursera.org/learn/music-ensembles) | Mix. | 21 | Free | × | The University of North Carolina at Chapel Hill |
+| | [History of Rock, Part One](https://www.coursera.org/learn/history-of-rock) | Mix. | 13 | Free | × | University of Rochester |
+| | [History of Rock, Part Two](https://www.coursera.org/learn/history-of-rock-2) | Mix. | 12 | Free | × | University of Rochester |
+| | [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) | Mix. | 65 | Free | ○ | Yale University |
+| | [Music and Social Action](https://www.coursera.org/learn/music-and-social-action) | Mix. | 25 | Free | × | Yale University |
+| | [Music as Biology: What We Like to Hear and Why](https://www.coursera.org/learn/music-as-biology) | Mix. | 17 | Free | × | Duke University |
+| | [Teaching the Violin and Viola: Creating a Healthy Foundation](https://www.coursera.org/learn/teach-violin-lessons) | Mix. | 12 | Free | × | Northwestern University |
+| | [The American South: Its Stories, Music, and Art](https://www.coursera.org/learn/the-south) | Mix. | 7 | | × | The University of North Carolina at Chapel Hill |
+| | [The Beauty of Kunqu Opera](https://www.coursera.org/learn/kunqu-opera) | Mix. | 9 | Free | × | The Chinese University of Hong Kong |
+| | [The Blues: Understanding and Performing an American Art Form](https://www.coursera.org/learn/the-blues) | Mix. | 11 | Free | × | University of Rochester |
+| | [The Music of the Beatles](https://www.coursera.org/learn/the-beatles) | Mix. | 14 | Free | × | University of Rochester |
+| | [The Music of the Rolling Stones, 1962-1974](https://www.coursera.org/learn/rolling-stones) | Mix. | 13 | Free | × | University of Rochester |
+| | [Today’s Music Industry](https://www.coursera.org/learn/music-industry) | Mix. | 14 | Free | × | West Virginia University |
+| | [Understanding the Music Business: What is Music Worth?](https://www.coursera.org/learn/musicbiz) | Mix. | 18 | | × | Vanderbilt University |
+| | [Write Like Mozart: An Introduction to Classical Music Composition](https://www.coursera.org/learn/classical-composition) | Mix. | 15 | Free | × | National University of Singapore |
+
+
 ## [Coursera / Course : Others](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| Music | [20世纪西方音乐 Western Music in the 20th Century](https://www.coursera.org/learn/20cnwm) | Bgn. | 14 | ○ | × | Peking University |
-| | [Explore Management Concepts through Metaphor and Music](https://www.coursera.org/learn/explore-management-concepts-through-metaphor-and-music) | Bgn. | 18 | ○ | × | University of London |
-| | [Exploring Beethoven’s Piano Sonatas Part 2](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-2) | Bgn. | 8 | ○ | × | Curtis Institute of Music |
-| | [Exploring Beethoven’s Piano Sonatas](https://www.coursera.org/learn/beethoven-piano-sonatas) | Bgn. | 18 | ○ | × | Curtis Institute of Music |
-| | [Exploring Beethoven's Piano Sonatas Part 3](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-3) | Bgn. | 7 | ○ | × | Curtis Institute of Music |
-| | [Exploring Beethoven's Piano Sonatas Part 4](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-4) | Itm. | 5 | ○ | × | Curtis Institute of Music |
-| | [Exploring Beethoven's Piano Sonatas Part 5](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-5) | Itm. | 7 | ○ | × | Curtis Institute of Music |
-| | [Exploring Beethoven's Piano Sonatas Part 6](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-6) | Itm. | 6 | ○ | × | Curtis Institute of Music |
-| | [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) | Bgn. | 12 | ○ | × | The University of Edinburgh |
-| | [Getting Started With Music Theory](https://www.coursera.org/learn/music-theory) | Bgn. | 13 | ○ | × | Michigan State University |
-| | [How Music Can Change Your Life](https://www.coursera.org/learn/music-life) | Bgn. | 26 | ○ | × | The University of Melbourne |
-| | [Modern & Contemporary American Poetry (“ModPo”)](https://www.coursera.org/learn/modpo) | Bgn. | 93 | ○ | × | University of Pennsylvania |
-| | [Music for Wellness](https://www.coursera.org/learn/music-for-wellness) | Bgn. | 11 | ○ | × | Berklee College of Music |
-| | [Music's Big Bang: The Genesis of Rock 'n' Roll](https://www.coursera.org/learn/rock-and-roll-music) | Bgn. | 9 | ○ | × | University of Florida |
-| | [Piano Techniques for Modern Music](https://www.coursera.org/learn/piano-techniques-for-modern-music) | Bgn. | 12 | ○ | × | Berklee College of Music |
-| | [So You Think You Know Tango?](https://www.coursera.org/learn/tango) | Bgn. | 6 | ○ | × | Emory University |
-| | [The Art of Vocal Production](https://www.coursera.org/learn/vocal-production) | Bgn. | 12 | ○ | × | Berklee College of Music |
-| | [The Place of Music in 21st Century Education](https://www.coursera.org/learn/music-education) | Bgn. | 22 | ○ | × | The University of Sydney |
 | Health | [Biohacking Your Brain's Health](https://www.coursera.org/learn/biohacking-your-brains-health) | Bgn. | 14 | ○ | × | Emory University |
 | | [Hacking Exercise For Health. The surprising new science of fitness](https://www.coursera.org/learn/hacking-exercise-health) | Bgn. | 23 | ○ | × | McMaster University |
 | | [Science of Exercise](https://www.coursera.org/learn/science-exercise) | Bgn. | 10 | ○ | ○ | University of Colorado Boulder |
