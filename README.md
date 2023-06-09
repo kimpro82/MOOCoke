@@ -47,8 +47,9 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Specialization : Music (1) Beginner - Musicianship](#coursera--specialization--music-1-beginner---musicianship)
   - [Specialization : Music (2) Beginner - Producing / Business](#coursera--specialization--music-2-beginner---producing--business)
   - [Specialization : Music (3) Intermediate](#coursera--specialization--music-3-intermediate)
-  - [Specialization : English](#coursera--specialization--english)
-  - [Specialization : English - Writing](#coursera--specialization--english---writing)
+  - [Specialization : English (1)](#coursera--specialization--english-1)
+  - [Specialization : English (2) Business English](#coursera--specialization--english-2-business-english)
+  - [Specialization : English (3) Writing](#coursera--specialization--english-3-writing)
   - [Specialization : Others](#coursera--specialization--others)
 </details>
 <details>
@@ -1030,7 +1031,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [The Piano Sonata: Russian and 20th-21st Century Composers](https://www.coursera.org/learn/piano-sonata-russian-20-21-century-composers) | Itm. | 13 | | | |
 
 
-## [Coursera / Specialization : English](#list)
+## [Coursera / Specialization : English (1)](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -1040,11 +1041,6 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Speaking Skills for University Success](https://www.coursera.org/learn/speaking-skills-for-university-success) | Bgn. | 8 | | | |
 | | &nbsp;&nbsp;· [Writing Skills for University Success](https://www.coursera.org/learn/writing-skills-for-success) | Bgn. | 7 | | | |
 | | &nbsp;&nbsp;· [Study Skills for University Success](https://www.coursera.org/learn/study-skills-for-university-success) | Bgn. | 9 | | | |
-| English | [**Improve Your English Communication Skills**](https://www.coursera.org/specializations/improve-english) | Bgn. | 55 | ○ | △ | Georgia Institute of Technology |
-| | &nbsp;&nbsp;· [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english) | - | 14 | | ○ | |
-| | &nbsp;&nbsp;· [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally) | - | 16 | | × | |
-| | &nbsp;&nbsp;· [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english) | - | 13 | | × | |
-| | &nbsp;&nbsp;· [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone) | - | 12 | | × | |
 | English | [**Learn English: Beginning Grammar**](https://www.coursera.org/specializations/learn-english-beginning-grammar) | Bgn. | 27 | ○ | × | University of California, Irvine |
 | | &nbsp;&nbsp;· [Word Forms and Simple Present Tense](https://www.coursera.org/learn/word-forms-simple-present-tense) | Bgn. | 9 | | | |
 | | &nbsp;&nbsp;· [Questions, Present Progressive and Future Tenses](https://www.coursera.org/learn/questions-present-progressive-future-tenses) | Bgn. | 9 | | | |
@@ -1071,7 +1067,41 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [The Pronunciation of American English Project](https://www.coursera.org/learn/pronunciation-american-english-project) | Bgn. | 17 | | | |
 
 
-## [Coursera / Specialization : English - Writing](#list)
+## [Coursera / Specialization : English (2) Business English](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| English | [**Business English**](https://www.coursera.org/specializations/english-for-business) | Itm. | 122 | | × | Arizona State University |
+| | &nbsp;&nbsp;· [Business English: Management and Leadership](https://www.coursera.org/learn/management-leadership-english) | Itm. | 30 | | | |
+| | &nbsp;&nbsp;· [Business English: Finance and Economics](https://www.coursera.org/learn/finance-economics-english) | Itm. | 29 | | | |
+| | &nbsp;&nbsp;· [Business English: Marketing and Sales](https://www.coursera.org/learn/marketing-sales-english) | Itm. | 31 | | | |
+| | &nbsp;&nbsp;· [Business English: Final Project](https://www.coursera.org/learn/english-for-business-project) | Itm. | 32 | | | |
+| English | [**Business English Communication Skills**](https://www.coursera.org/specializations/business-english) | Itm. | 124 | | × | University of Washington |
+| | &nbsp;&nbsp;· [Business English: Networking](https://www.coursera.org/learn/business-english-intro) | Itm. | 28 | | | |
+| | &nbsp;&nbsp;· [Business English: Meetings](https://www.coursera.org/learn/business-english-meetings) | Itm. | 23 | | | |
+| | &nbsp;&nbsp;· [Business English: Planning & Negotiating](https://www.coursera.org/learn/business-english-negotiating) | Itm. | 29 | | | |
+| | &nbsp;&nbsp;· [Business English: Making Presentations](https://www.coursera.org/learn/business-english-presentations) | Itm. | 14 | | | |
+| | &nbsp;&nbsp;· [Business English: Capstone Project](https://www.coursera.org/learn/business-english-capstone) | Itm. | 30 | | | |
+| English | [**Business English for Non-Native Speakers**](https://www.coursera.org/specializations/business-english-speakers) | Bgn. | 110 | | × | The Hong Kong University of Science and Technology |
+| | &nbsp;&nbsp;· [Business English: Basics](https://www.coursera.org/learn/business-english) | - | 20 | | | |
+| | &nbsp;&nbsp;· [English for Effective Business Writing](https://www.coursera.org/learn/english-for-business-writing) | - | 25 | | | |
+| | &nbsp;&nbsp;· [English for Effective Business Speaking](https://www.coursera.org/learn/business-english-vocabulary) | - | 23 | | | |
+| | &nbsp;&nbsp;· [Business English for Cross-cultural Communication](https://www.coursera.org/learn/cross-cultural-communication-business) | - | 22 | | | |
+| | &nbsp;&nbsp;· [Business Case Analysis](https://www.coursera.org/learn/business-case-analysis) | - | 20 | | | |
+| English | [**Essential English for Business Professionals**](https://www.coursera.org/specializations/essential-english-business-professionals) | Itm. | 47 | | × | University of California, Irvine |
+| | &nbsp;&nbsp;· [English for Developing a Business](https://www.coursera.org/learn/english-developing-business) | - | 16 | | | |
+| | &nbsp;&nbsp;· [English for Effective Business Communications](https://www.coursera.org/learn/english-for-working-together-in-business) | - | 15 | | | |
+| | &nbsp;&nbsp;· [English for Running a Successful Business](https://www.coursera.org/learn/english-for-getting-down-to-business) | - | 16 | | | |
+| English | [**Improve Your English Communication Skills**](https://www.coursera.org/specializations/improve-english) | Bgn. | 55 | ○ | △ | Georgia Institute of Technology |
+| | &nbsp;&nbsp;· [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english) | - | 14 | | ○ | |
+| | &nbsp;&nbsp;· [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally) | - | 16 | | × | |
+| | &nbsp;&nbsp;· [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english) | - | 13 | | × | |
+| | &nbsp;&nbsp;· [Take Your English Communication Skills to the Next Level](https://www.coursera.org/learn/english-communication-capstone) | - | 12 | | × | |
+
+
+## [Coursera / Specialization : English (3) Writing](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
