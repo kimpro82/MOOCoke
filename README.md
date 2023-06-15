@@ -17,40 +17,41 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 <details>
   <summary>Coursera : Professional Certificate</summary>
 
-  - [Professional Certificate : General](#coursera--professional-certificate--general)
-  - [Professional Certificate : Cloud - Azure](#coursera--professional-certificate--cloud---azure)
-  - [Professional Certificate : Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
-  - [Professional Certificate : Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
-  - [Professional Certificate : Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
+  - [General](#coursera--professional-certificate--general)
+  - [Cloud - Azure](#coursera--professional-certificate--cloud---azure)
+  - [Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
+  - [Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
+  - [Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
 </details>
 <details>
   <summary>Coursera : Specialization</summary>
 
-  - [Specialization : Development - General](#coursera--specialization--development---general)
-  - [Specialization : Programming Language - C/C++](#coursera--specialization--programming-language---cc)
-  - [Specialization : Programming Language - Python](#coursera--specialization--programming-language---python)
-  - [Specialization : Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
-  - [Specialization : Cloud - AWS](#coursera--specialization--cloud---aws)
-  - [Specialization : Cloud - Azure](#coursera--specialization--cloud---azure)
-  - [Specialization : Cloud - GCP](#coursera--specialization--cloud---gcp)
-  - [Specialization : Game Programming](#coursera--specialization--game-programming)
-  - [Specialization : Mathematics](#coursera--specialization--mathematics)
-  - [Specialization : Statistics](#coursera--specialization--statistics)
-  - [Specialization : Data Science - Python](#coursera--specialization--data-science---python)
-  - [Specialization : Data Science - R](#coursera--specialization--data-science---r)
-  - [Specialization : Electronic Engineering](#coursera--specialization--electronic-engineering)
-  - [Specialization : Investment](#coursera--specialization--investment)
-  - [Specialization : Investment - Python](#coursera--specialization--investment---python)
-  - [Specialization : Investment - ESG](#coursera--specialization--investment---esg)
-  - [Specialization : Blockchain](#coursera--specialization--blockchain)
-  - [Specialization : Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
-  - [Specialization : Music (1) Beginner - Musicianship](#coursera--specialization--music-1-beginner---musicianship)
-  - [Specialization : Music (2) Beginner - Producing / Business](#coursera--specialization--music-2-beginner---producing--business)
-  - [Specialization : Music (3) Intermediate](#coursera--specialization--music-3-intermediate)
-  - [Specialization : English (1)](#coursera--specialization--english-1)
-  - [Specialization : English (2) Business English](#coursera--specialization--english-2-business-english)
-  - [Specialization : English (3) Writing](#coursera--specialization--english-3-writing)
-  - [Specialization : Others](#coursera--specialization--others)
+  - [Development - General](#coursera--specialization--development---general)
+  - [Programming Language - C/C++](#coursera--specialization--programming-language---cc)
+  - [Programming Language - Python](#coursera--specialization--programming-language---python)
+  - [Data Structure & Algorithms](#coursera--specialization--data-structure--algorithms)
+  - [Cloud - AWS](#coursera--specialization--cloud---aws)
+  - [Cloud - Azure](#coursera--specialization--cloud---azure)
+  - [Cloud - GCP](#coursera--specialization--cloud---gcp)
+  - [Game Programming](#coursera--specialization--game-programming)
+  - [Mathematics](#coursera--specialization--mathematics)
+  - [Statistics](#coursera--specialization--statistics)
+  - [Data Science - Python](#coursera--specialization--data-science---python)
+  - [Data Science - R](#coursera--specialization--data-science---r)
+  - [Data Science - SAS](#coursera--specialization--data-science---sas)
+  - [Electronic Engineering](#coursera--specialization--electronic-engineering)
+  - [Investment](#coursera--specialization--investment)
+  - [Investment - Python](#coursera--specialization--investment---python)
+  - [Investment - ESG](#coursera--specialization--investment---esg)
+  - [Blockchain](#coursera--specialization--blockchain)
+  - [Blockchain - Fintech](#coursera--specialization--blockchain---fintech)
+  - [Music (1) Beginner - Musicianship](#coursera--specialization--music-1-beginner---musicianship)
+  - [Music (2) Beginner - Producing / Business](#coursera--specialization--music-2-beginner---producing--business)
+  - [Music (3) Intermediate](#coursera--specialization--music-3-intermediate)
+  - [English (1)](#coursera--specialization--english-1)
+  - [English (2) Business English](#coursera--specialization--english-2-business-english)
+  - [English (3) Writing](#coursera--specialization--english-3-writing)
+  - [Others](#coursera--specialization--others)
 </details>
 <details>
   <summary>Coursera : Course / Project</summary>
@@ -778,6 +779,33 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
 | (Shiny) | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 10 | | | |
 | | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
+
+
+## [Coursera / Specialization : Data Science - SAS](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| SAS | [**SAS Programmer**](https://www.coursera.org/professional-certificates/sas-programming) | Bgn. | 74 | | × | SAS |
+| | &nbsp;&nbsp;· [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics) | Bgn. | 24 | | | |
+| | &nbsp;&nbsp;· [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced) | Itm. | 25 | | | |
+| | &nbsp;&nbsp;· [Preparing for the SAS Programming Certification Exam](https://www.coursera.org/learn/preparing-sas-programming-certification) | Itm. | 16 | | | |
+| | &nbsp;&nbsp;· [Practicing for the SAS Programming Certification Exam](https://www.coursera.org/learn/practicing-sas-programming-certification) | Itm. | 9 | | | |
+| SAS | [**SAS Advanced Programmer**](https://www.coursera.org/professional-certificates/sas-advanced-programmer) | Itm. | 63 | | × | SAS |
+| | &nbsp;&nbsp;· [Structured Query Language (SQL) using SAS](https://www.coursera.org/learn/sas-sql) | - | 26 | | | |
+| | &nbsp;&nbsp;· [SAS Macro Language](https://www.coursera.org/learn/sas-macro-language) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [Advanced SAS Programming Techniques](https://www.coursera.org/learn/advanced-sas-programming-techniques) | Itm. | 17 | | | |
+| SAS | [**SAS Statistical Business Analyst**](https://www.coursera.org/professional-certificates/sas-statistical-business-analyst) | Itm. | 37 | | × | SAS |
+| | &nbsp;&nbsp;· [Introduction to Statistical Analysis: Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Regression Modeling Fundamentals](https://www.coursera.org/learn/regression-modeling-sas) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) | Itm. | 16 | | | |
+| SAS | [**SAS Visual Business Analytics**](https://www.coursera.org/professional-certificates/sas-visual-business-analytics) | Bgn. | 29 | | × | SAS |
+| | &nbsp;&nbsp;· [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va) | Bgn. | 4 | | | |
+| | &nbsp;&nbsp;· [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va) | - | 9 | | | |
+| | &nbsp;&nbsp;· [Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics](https://www.coursera.org/learn/using-data-geographic-mapping-sas-va) | Itm. | 4 | | | |
+| | &nbsp;&nbsp;· [Performing Network, Path, and Text Analyses in SAS Visual Analytics](https://www.coursera.org/learn/network-path-text-analyses-sas-va) | Itm. | 4 | | | |
+| | &nbsp;&nbsp;· [Creating Advanced Reports with SAS Visual Analytics](https://www.coursera.org/learn/advanced-reports-sas-va) | Itm. | 8 | | | |
 
 
 ## [Coursera / Specialization : Electronic Engineering](#list)
