@@ -22,6 +22,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
   - [Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
   - [Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
+  - [SAS](#coursera--professional-certificate--sas)
 </details>
 <details>
   <summary>Coursera : Specialization</summary>
@@ -38,7 +39,6 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Statistics](#coursera--specialization--statistics)
   - [Data Science - Python](#coursera--specialization--data-science---python)
   - [Data Science - R](#coursera--specialization--data-science---r)
-  - [Data Science - SAS](#coursera--specialization--data-science---sas)
   - [Electronic Engineering](#coursera--specialization--electronic-engineering)
   - [Investment](#coursera--specialization--investment)
   - [Investment - Python](#coursera--specialization--investment---python)
@@ -389,6 +389,33 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) | Adv. | 21 | | | |
 | | &nbsp;&nbsp;· [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals) | Itm. | 15 | | | |
 | | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
+
+
+## [Coursera / Professional Certificate : SAS](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| SAS | [**SAS Programmer**](https://www.coursera.org/professional-certificates/sas-programming) | Bgn. | 74 | | × | SAS |
+| | &nbsp;&nbsp;· [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics) | Bgn. | 24 | | | |
+| | &nbsp;&nbsp;· [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced) | Itm. | 25 | | | |
+| | &nbsp;&nbsp;· [Preparing for the SAS Programming Certification Exam](https://www.coursera.org/learn/preparing-sas-programming-certification) | Itm. | 16 | | | |
+| | &nbsp;&nbsp;· [Practicing for the SAS Programming Certification Exam](https://www.coursera.org/learn/practicing-sas-programming-certification) | Itm. | 9 | | | |
+| SAS | [**SAS Advanced Programmer**](https://www.coursera.org/professional-certificates/sas-advanced-programmer) | Itm. | 63 | | × | SAS |
+| | &nbsp;&nbsp;· [Structured Query Language (SQL) using SAS](https://www.coursera.org/learn/sas-sql) | - | 26 | | | |
+| | &nbsp;&nbsp;· [SAS Macro Language](https://www.coursera.org/learn/sas-macro-language) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [Advanced SAS Programming Techniques](https://www.coursera.org/learn/advanced-sas-programming-techniques) | Itm. | 17 | | | |
+| SAS | [**SAS Statistical Business Analyst**](https://www.coursera.org/professional-certificates/sas-statistical-business-analyst) | Itm. | 37 | | × | SAS |
+| | &nbsp;&nbsp;· [Introduction to Statistical Analysis: Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Regression Modeling Fundamentals](https://www.coursera.org/learn/regression-modeling-sas) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) | Itm. | 16 | | | |
+| SAS | [**SAS Visual Business Analytics**](https://www.coursera.org/professional-certificates/sas-visual-business-analytics) | Bgn. | 29 | | × | SAS |
+| | &nbsp;&nbsp;· [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va) | Bgn. | 4 | | | |
+| | &nbsp;&nbsp;· [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va) | - | 9 | | | |
+| | &nbsp;&nbsp;· [Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics](https://www.coursera.org/learn/using-data-geographic-mapping-sas-va) | Itm. | 4 | | | |
+| | &nbsp;&nbsp;· [Performing Network, Path, and Text Analyses in SAS Visual Analytics](https://www.coursera.org/learn/network-path-text-analyses-sas-va) | Itm. | 4 | | | |
+| | &nbsp;&nbsp;· [Creating Advanced Reports with SAS Visual Analytics](https://www.coursera.org/learn/advanced-reports-sas-va) | Itm. | 8 | | | |
 
 
 ## [Coursera / Specialization : Development - General](#list)
@@ -779,33 +806,6 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 15 | | | |
 | (Shiny) | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 10 | | | |
 | | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
-
-
-## [Coursera / Specialization : Data Science - SAS](#list)
-
-(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
-
-| Subject | Title | Level | Hours | Plus | Korean | Partner |
-|:-:|:--|:-:|--:|:-:|:-:|:-:|
-| SAS | [**SAS Programmer**](https://www.coursera.org/professional-certificates/sas-programming) | Bgn. | 74 | | × | SAS |
-| | &nbsp;&nbsp;· [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics) | Bgn. | 24 | | | |
-| | &nbsp;&nbsp;· [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced) | Itm. | 25 | | | |
-| | &nbsp;&nbsp;· [Preparing for the SAS Programming Certification Exam](https://www.coursera.org/learn/preparing-sas-programming-certification) | Itm. | 16 | | | |
-| | &nbsp;&nbsp;· [Practicing for the SAS Programming Certification Exam](https://www.coursera.org/learn/practicing-sas-programming-certification) | Itm. | 9 | | | |
-| SAS | [**SAS Advanced Programmer**](https://www.coursera.org/professional-certificates/sas-advanced-programmer) | Itm. | 63 | | × | SAS |
-| | &nbsp;&nbsp;· [Structured Query Language (SQL) using SAS](https://www.coursera.org/learn/sas-sql) | - | 26 | | | |
-| | &nbsp;&nbsp;· [SAS Macro Language](https://www.coursera.org/learn/sas-macro-language) | Itm. | 20 | | | |
-| | &nbsp;&nbsp;· [Advanced SAS Programming Techniques](https://www.coursera.org/learn/advanced-sas-programming-techniques) | Itm. | 17 | | | |
-| SAS | [**SAS Statistical Business Analyst**](https://www.coursera.org/professional-certificates/sas-statistical-business-analyst) | Itm. | 37 | | × | SAS |
-| | &nbsp;&nbsp;· [Introduction to Statistical Analysis: Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) | Itm. | 10 | | | |
-| | &nbsp;&nbsp;· [Regression Modeling Fundamentals](https://www.coursera.org/learn/regression-modeling-sas) | Itm. | 11 | | | |
-| | &nbsp;&nbsp;· [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) | Itm. | 16 | | | |
-| SAS | [**SAS Visual Business Analytics**](https://www.coursera.org/professional-certificates/sas-visual-business-analytics) | Bgn. | 29 | | × | SAS |
-| | &nbsp;&nbsp;· [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va) | Bgn. | 4 | | | |
-| | &nbsp;&nbsp;· [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va) | - | 9 | | | |
-| | &nbsp;&nbsp;· [Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics](https://www.coursera.org/learn/using-data-geographic-mapping-sas-va) | Itm. | 4 | | | |
-| | &nbsp;&nbsp;· [Performing Network, Path, and Text Analyses in SAS Visual Analytics](https://www.coursera.org/learn/network-path-text-analyses-sas-va) | Itm. | 4 | | | |
-| | &nbsp;&nbsp;· [Creating Advanced Reports with SAS Visual Analytics](https://www.coursera.org/learn/advanced-reports-sas-va) | Itm. | 8 | | | |
 
 
 ## [Coursera / Specialization : Electronic Engineering](#list)
