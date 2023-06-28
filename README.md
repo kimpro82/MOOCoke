@@ -808,6 +808,26 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 16 | | | |
 
 
+## [Coursera / Specialization : Data Science - SAS](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| SAS | [**Machine Learning Rock Star – the End-to-End Practice**](https://www.coursera.org/specializations/machine-learning-for-everyone) | Bgn. | 44 | | × | SAS |
+| | &nbsp;&nbsp;· [The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats](https://www.coursera.org/learn/the-power-of-machine-learning) | Bgn. | 14 | | | |
+| | &nbsp;&nbsp;· [Launching Machine Learning: Delivering Operational Success with Gold Standard ML Leadership](https://www.coursera.org/learn/launching-machine-learning-leadership) | Bgn. | 13 | | | |
+| | &nbsp;&nbsp;· [Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls](https://www.coursera.org/learn/machine-learning-under-the-hood) | Bgn. | 17 | | | |
+| SAS | [**Analyzing Time Series and Sequential Data**](https://www.coursera.org/specializations/time-series-sequential-data) | Itm. | 27 | | × | SAS |
+| | &nbsp;&nbsp;· [Creating Features for Time Series Data](https://www.coursera.org/learn/time-series-features) | Itm. | 7 | | | |
+| | &nbsp;&nbsp;· [Building a Large-Scale, Automated Forecasting System](https://www.coursera.org/learn/large-scale-forecasting-sas-viya) | Itm. | 10 | | | |
+| | &nbsp;&nbsp;· [Modeling Time Series and Sequential Data](https://www.coursera.org/learn/modeling-time-series-and-sequential-data) | Itm. | 10 | | | |
+| SAS | [**Distributed Programming in SAS® Viya® for Data Analysts**](https://www.coursera.org/specializations/distributed-programming-sas-viya-for-data-analysts) | Adv. | 54 | | × | SAS |
+| | &nbsp;&nbsp;· [SAS® Programming for Distributed Computing in SAS® Viya®](https://www.coursera.org/learn/sas-viya-programming-distributed-computing) | Adv. | 13 | | | |
+| | &nbsp;&nbsp;· [CASL Programming for Distributed Computing in SAS® Viya®](https://www.coursera.org/learn/casl-programming-sas-viya-distributed-computing) | Adv. | 29 | | | |
+| | &nbsp;&nbsp;· [Preparing for the SAS® Viya® Programming Certification Exam](https://www.coursera.org/learn/sas-viya-programming-certification-prep) | Adv. | 12 | | | |
+
+
 ## [Coursera / Specialization : Electronic Engineering](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
