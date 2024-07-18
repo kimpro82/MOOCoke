@@ -22,7 +22,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Cloud - GCP (Beginner)](#coursera--professional-certificate--cloud---gcp-beginner)
   - [Cloud - GCP (Intermediate)](#coursera--professional-certificate--cloud---gcp-intermediate)
   - [Cloud - GCP (Data Science)](#coursera--professional-certificate--cloud---gcp-data-science)
-  - [SAS](#coursera--professional-certificate--sas)
+  - [Data Science - SAS, R](#coursera--professional-certificate--data-science---sas-r)
 </details>
 <details>
   <summary>Coursera : Specialization</summary>
@@ -40,6 +40,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Data Science - Python](#coursera--specialization--data-science---python)
   - [Data Science - R](#coursera--specialization--data-science---r)
   - [Data Science - SAS](#coursera--specialization--data-science---sas)
+  - [Office Automation - Excel](#coursera--specialization--office-automation---excel)
   - [Electronic Engineering](#coursera--specialization--electronic-engineering)
   - [Investment](#coursera--specialization--investment)
   - [Investment - Python](#coursera--specialization--investment---python)
@@ -392,31 +393,41 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [ML Pipelines on Google Cloud](https://www.coursera.org/learn/ml-pipelines-google-cloud) | Adv. | 11 | | | |
 
 
-## [Coursera / Professional Certificate : SAS](#list)
+## [Coursera / Professional Certificate : Data Science - SAS, R](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| SAS | [**SAS Programmer**](https://www.coursera.org/professional-certificates/sas-programming) | Bgn. | 74 | | × | SAS |
+| SAS | [**SAS Programmer**](https://www.coursera.org/professional-certificates/sas-programming) | Bgn. | 74 | ○ | ○ | SAS |
 | | &nbsp;&nbsp;· [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics) | Bgn. | 24 | | | |
 | | &nbsp;&nbsp;· [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced) | Itm. | 25 | | | |
 | | &nbsp;&nbsp;· [Preparing for the SAS Programming Certification Exam](https://www.coursera.org/learn/preparing-sas-programming-certification) | Itm. | 16 | | | |
 | | &nbsp;&nbsp;· [Practicing for the SAS Programming Certification Exam](https://www.coursera.org/learn/practicing-sas-programming-certification) | Itm. | 9 | | | |
-| SAS | [**SAS Advanced Programmer**](https://www.coursera.org/professional-certificates/sas-advanced-programmer) | Itm. | 63 | | × | SAS |
+| SAS | [**SAS Advanced Programmer**](https://www.coursera.org/professional-certificates/sas-advanced-programmer) | Itm. | 63 | ○ | ○ | SAS |
 | | &nbsp;&nbsp;· [Structured Query Language (SQL) using SAS](https://www.coursera.org/learn/sas-sql) | - | 26 | | | |
 | | &nbsp;&nbsp;· [SAS Macro Language](https://www.coursera.org/learn/sas-macro-language) | Itm. | 20 | | | |
 | | &nbsp;&nbsp;· [Advanced SAS Programming Techniques](https://www.coursera.org/learn/advanced-sas-programming-techniques) | Itm. | 17 | | | |
-| SAS | [**SAS Statistical Business Analyst**](https://www.coursera.org/professional-certificates/sas-statistical-business-analyst) | Itm. | 37 | | × | SAS |
+| SAS | [**SAS Statistical Business Analyst**](https://www.coursera.org/professional-certificates/sas-statistical-business-analyst) | Itm. | 37 | ○ | ○ | SAS |
 | | &nbsp;&nbsp;· [Introduction to Statistical Analysis: Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) | Itm. | 10 | | | |
 | | &nbsp;&nbsp;· [Regression Modeling Fundamentals](https://www.coursera.org/learn/regression-modeling-sas) | Itm. | 11 | | | |
 | | &nbsp;&nbsp;· [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) | Itm. | 16 | | | |
-| SAS | [**SAS Visual Business Analytics**](https://www.coursera.org/professional-certificates/sas-visual-business-analytics) | Bgn. | 29 | | × | SAS |
+| SAS | [**SAS Visual Business Analytics**](https://www.coursera.org/professional-certificates/sas-visual-business-analytics) | Bgn. | 29 | ○ | ○ | SAS |
 | | &nbsp;&nbsp;· [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va) | Bgn. | 4 | | | |
 | | &nbsp;&nbsp;· [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va) | - | 9 | | | |
 | | &nbsp;&nbsp;· [Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics](https://www.coursera.org/learn/using-data-geographic-mapping-sas-va) | Itm. | 4 | | | |
 | | &nbsp;&nbsp;· [Performing Network, Path, and Text Analyses in SAS Visual Analytics](https://www.coursera.org/learn/network-path-text-analyses-sas-va) | Itm. | 4 | | | |
 | | &nbsp;&nbsp;· [Creating Advanced Reports with SAS Visual Analytics](https://www.coursera.org/learn/advanced-reports-sas-va) | Itm. | 8 | | | |
+| Excel<br>R | [**IBM Data Analytics with Excel and R**](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel) | Bgn. | 127 | ○ | ○ | IBM |
+| | &nbsp;&nbsp;· [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/learn/data-analysis-visualization-foundations-assessment) | Bgn. | 1 | | | |
+| | &nbsp;&nbsp;· [Introduction to R Programming for Data Science](https://www.coursera.org/learn/introducton-r-programming-data-science) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [SQL for Data Science with R](https://www.coursera.org/learn/sql-data-science-r) | Bgn. | 27 | | | |
+| | &nbsp;&nbsp;· [Data Analysis with R](https://www.coursera.org/learn/data-analysis-with-r) | Itm. | 16 | | | |
+| | &nbsp;&nbsp;· [Data Visualization with R](https://www.coursera.org/learn/data-visualization-r) | Bgn. | 12 | | | |
+| | &nbsp;&nbsp;· [Data Science with R - Capstone Project](https://www.coursera.org/learn/data-science-with-r-capstone-project) | Itm. | 24 | | | |
 
 
 ## [Coursera / Specialization : Development - General](#list)
@@ -449,10 +460,6 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Introduction to Visual Basic Programming](https://www.coursera.org/learn/visual-basic-programming-introduction) | Bgn. | 28 | | | |
 | | &nbsp;&nbsp;· [Visual Basic Programming: Classes and Collections](https://www.coursera.org/learn/visual-basic-classes-collections) | Itm. | 28 | | | |
 | | &nbsp;&nbsp;· [Visual Basic Programming: Inheritance and Polymorphism](https://www.coursera.org/learn/visual-basic-inheritance-polymorphism) | Itm. | 23 | | | |
-| VBA | [**Excel/VBA for Creative Problem Solving**](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) | Bgn. | 54 | ○ | × | University of Colorado Boulder |
-| | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | Bgn. | 18 | | | |
-| | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2) | Itm. | 20 | | | |
-| | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 3 (Projects)](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-3-projects) | Adv. | 16 | | | |
 
 
 ## [Coursera / Specialization : Programming Language - C/C++](#list)
@@ -827,6 +834,45 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [SAS® Programming for Distributed Computing in SAS® Viya®](https://www.coursera.org/learn/sas-viya-programming-distributed-computing) | Adv. | 13 | | | |
 | | &nbsp;&nbsp;· [CASL Programming for Distributed Computing in SAS® Viya®](https://www.coursera.org/learn/casl-programming-sas-viya-distributed-computing) | Adv. | 29 | | | |
 | | &nbsp;&nbsp;· [Preparing for the SAS® Viya® Programming Certification Exam](https://www.coursera.org/learn/sas-viya-programming-certification-prep) | Adv. | 12 | | | |
+
+
+## [Coursera / Specialization : Office Automation - Excel](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Excel | [**Excel Skills for Business**](https://www.coursera.org/specializations/excel) | Bgn. | 106 | ○ | ○ | Macquarie University |
+| | &nbsp;&nbsp;· [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials) | Bgn. | 26 | | | |
+| | &nbsp;&nbsp;· [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1) | Itm. | 27 | | | |
+| | &nbsp;&nbsp;· [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2) | Itm. | 28 | | | |
+| | &nbsp;&nbsp;· [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced) | Itm. | 25 | | | |
+| Excel | [**Excel Skills for Data Analytics and Visualization**](https://www.coursera.org/specializations/excel-data-analytics-visualization) | Itm. | 47 | ○ | ○ | Macquarie University |
+| | &nbsp;&nbsp;· [Excel Fundamentals for Data Analysis](https://www.coursera.org/learn/excel-data-analysis-fundamentals) | Itm. | 15 | | | |
+| | &nbsp;&nbsp;· [Data Visualization in Excel](https://www.coursera.org/learn/excel-data-visualization) | Itm. | 17 | | | |
+| | &nbsp;&nbsp;· [Excel Power Tools for Data Analysis](https://www.coursera.org/learn/excel-power-tools) | Itm. | 15 | | | |
+| Excel | [**Excel Skills for Business Forecasting**](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Itm. | 30 | ○ | ○ | Macquarie University |
+| | &nbsp;&nbsp;· [Excel Time Series Models for Business Forecasting](https://www.coursera.org/learn/excel-business-forecasting-time-series) | Itm. | 11 | | | |
+| | &nbsp;&nbsp;· [Excel Regression Models for Business Forecasting](https://www.coursera.org/learn/excel-business-forecasting-regression) | Itm. | 9 | | | |
+| | &nbsp;&nbsp;· [Judgmental Business Forecasting in Excel](https://www.coursera.org/learn/judgmental-business-forecasting-in-excel) | Itm. | 10 | | | |
+| Excel | [**Everyday Excel**](https://www.coursera.org/specializations/everyday-excel) | Bgn. | 59 | ○ | ○ | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Everyday Excel, Part 1](https://www.coursera.org/learn/everyday-excel-part-1) | Bgn. | 23 | | | |
+| | &nbsp;&nbsp;· [Everyday Excel, Part 2](https://www.coursera.org/learn/everyday-excel-part-2) | Itm. | 22 | | | |
+| | &nbsp;&nbsp;· [Everyday Excel, Part 3 (Projects)](https://www.coursera.org/learn/everyday-excel-projects) | Adv. | 14 | | | |
+| Excel<br>VBA | [**Excel/VBA for Creative Problem Solving**](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) | Bgn. | 55 | ○ | ○ | University of Colorado Boulder |
+| | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 1](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1) | Bgn. | 19 | | | |
+| | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 2](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2) | Itm. | 20 | | | |
+| | &nbsp;&nbsp;· [Excel/VBA for Creative Problem Solving, Part 3 (Projects)](https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-3-projects) | Adv. | 16 | | | |
+| Excel | [**Data Analysis and Presentation Skills: the PwC Approach**](https://www.coursera.org/specializations/pwc-analytics) | Bgn. | 64 | × | ○ | PwC |
+| | &nbsp;&nbsp;· [Data-driven Decision Making](https://www.coursera.org/learn/decision-making) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [Problem Solving with Excel](https://www.coursera.org/learn/excel-analysis) | Bgn. | 20 | | | |
+| | &nbsp;&nbsp;· [Data Visualization with Advanced Excel](https://www.coursera.org/learn/advanced-excel) | Bgn. | 15 | | | |
+| | &nbsp;&nbsp;· [Effective Business Presentations with Powerpoint](https://www.coursera.org/learn/powerpoint-presentations) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Data Analysis and Presentation Skills: the PwC Approach Final Project](https://www.coursera.org/learn/data-analysis-project-pwc) | Bgn. | 10 | | | |
+| Excel | [**Data Skills for Excel Professionals**](https://www.coursera.org/specializations/data-skills-for-excel) | Bgn. | 14 | ○ | × | Corporate Finance Institute |
+| | &nbsp;&nbsp;· [Fundamentals of Data Analysis in Excel](https://www.coursera.org/learn/excel-data-analysis-course) | Bgn. | 5 | | | |
+| | &nbsp;&nbsp;· [Power Query Fundamentals](https://www.coursera.org/learn/power-query-fundamentals) | Bgn. | 5 | | | |
+| | &nbsp;&nbsp;· [Power Pivot Fundamentals](https://www.coursera.org/learn/learn-power-pivot) | Bgn. | 4 | | | |
 
 
 ## [Coursera / Specialization : Electronic Engineering](#list)
