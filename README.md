@@ -845,12 +845,12 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | Excel | [**Excel Skills for Business**](https://www.coursera.org/specializations/excel) | Bgn. | 106 | ○ | ○ | Macquarie University |
 | | &nbsp;&nbsp;· [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials) | Bgn. | 26 | | | |
 | | &nbsp;&nbsp;· [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1) | Itm. | 27 | | | |
-| | &nbsp;&nbsp;· [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2) | Itm. | 28 | | | |
+| (VBA) | &nbsp;&nbsp;· [Excel Skills for Business: Intermediate II](https://www.coursera.org/learn/excel-intermediate-2) | Itm. | 28 | | | |
 | | &nbsp;&nbsp;· [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced) | Itm. | 25 | | | |
 | Excel | [**Excel Skills for Data Analytics and Visualization**](https://www.coursera.org/specializations/excel-data-analytics-visualization) | Itm. | 47 | ○ | ○ | Macquarie University |
 | | &nbsp;&nbsp;· [Excel Fundamentals for Data Analysis](https://www.coursera.org/learn/excel-data-analysis-fundamentals) | Itm. | 15 | | | |
 | | &nbsp;&nbsp;· [Data Visualization in Excel](https://www.coursera.org/learn/excel-data-visualization) | Itm. | 17 | | | |
-| | &nbsp;&nbsp;· [Excel Power Tools for Data Analysis](https://www.coursera.org/learn/excel-power-tools) | Itm. | 15 | | | |
+| (Power BI) | &nbsp;&nbsp;· [Excel Power Tools for Data Analysis](https://www.coursera.org/learn/excel-power-tools) | Itm. | 15 | | | |
 | Excel | [**Excel Skills for Business Forecasting**](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Itm. | 30 | ○ | ○ | Macquarie University |
 | | &nbsp;&nbsp;· [Excel Time Series Models for Business Forecasting](https://www.coursera.org/learn/excel-business-forecasting-time-series) | Itm. | 11 | | | |
 | | &nbsp;&nbsp;· [Excel Regression Models for Business Forecasting](https://www.coursera.org/learn/excel-business-forecasting-regression) | Itm. | 9 | | | |
@@ -868,7 +868,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Problem Solving with Excel](https://www.coursera.org/learn/excel-analysis) | Bgn. | 20 | | | |
 | | &nbsp;&nbsp;· [Data Visualization with Advanced Excel](https://www.coursera.org/learn/advanced-excel) | Bgn. | 15 | | | |
 | | &nbsp;&nbsp;· [Effective Business Presentations with Powerpoint](https://www.coursera.org/learn/powerpoint-presentations) | Bgn. | 10 | | | |
-| | &nbsp;&nbsp;· [Data Analysis and Presentation Skills: the PwC Approach Final Project](https://www.coursera.org/learn/data-analysis-project-pwc) | Bgn. | 10 | | | |
+| (PowerPoint) | &nbsp;&nbsp;· [Data Analysis and Presentation Skills: the PwC Approach Final Project](https://www.coursera.org/learn/data-analysis-project-pwc) | Bgn. | 10 | | | |
 | Excel | [**Data Skills for Excel Professionals**](https://www.coursera.org/specializations/data-skills-for-excel) | Bgn. | 14 | ○ | × | Corporate Finance Institute |
 | | &nbsp;&nbsp;· [Fundamentals of Data Analysis in Excel](https://www.coursera.org/learn/excel-data-analysis-course) | Bgn. | 5 | | | |
 | | &nbsp;&nbsp;· [Power Query Fundamentals](https://www.coursera.org/learn/power-query-fundamentals) | Bgn. | 5 | | | |
