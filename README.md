@@ -59,9 +59,9 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 <details>
   <summary>Coursera : Course / Project</summary>
 
-  - [Course : Development - General](#coursera--course--development---general)
-  - [Course : Development - Applications](#coursera--course--development---applications)
-  - [Course : Development - Electronics](#coursera--course--development---electronics)
+  - [Course : Development (1) General](#coursera--course--development-1-general)
+  - [Course : Development (2) Applications](#coursera--course--development-2-applications)
+  - [Course : Development (3) Electronics](#coursera--course--development-3-electronics)
   - [Course : Music (1) Beginner, Itermedate](#coursera--course--music-1-beginner-itermedate)
   - [Course : Music (2) Mixed](#coursera--course--music-2-mixed)
   - [Course : Others](#coursera--course--others)
@@ -1279,7 +1279,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Newborn Capstone](https://www.coursera.org/learn/newborn-capstone) | Bgn. | 16 | | | |
 
 
-## [Coursera / Course : Development - General](#list)
+## [Coursera / Course : Development (1) General](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -1299,7 +1299,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
 
 
-## [Coursera / Course : Development - Applications](#list)
+## [Coursera / Course : Development (2) Applications](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -1322,7 +1322,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | (Automation 360) | [Getting Started with Automation 360](https://www.coursera.org/learn/automation-360) | Itm. | 4 | × | ○ | Automation Anywhere |
 
 
-## [Coursera / Course : Development - Electronics](#list)
+## [Coursera / Course : Development (3) Electronics](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
