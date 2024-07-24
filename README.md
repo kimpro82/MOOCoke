@@ -40,7 +40,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Data Science - Python](#coursera--specialization--data-science---python)
   - [Data Science - R](#coursera--specialization--data-science---r)
   - [Data Science - SAS](#coursera--specialization--data-science---sas)
-  - [Office Automation - Excel](#coursera--specialization--office-automation---excel)
+  - [Excel](#coursera--specialization--excel)
+  - [RPA](#coursera--specialization--rpa)
   - [Electronic Engineering](#coursera--specialization--electronic-engineering)
   - [Investment](#coursera--specialization--investment)
   - [Investment - Python](#coursera--specialization--investment---python)
@@ -836,7 +837,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Preparing for the SAS® Viya® Programming Certification Exam](https://www.coursera.org/learn/sas-viya-programming-certification-prep) | Adv. | 12 | | | |
 
 
-## [Coursera / Specialization : Office Automation - Excel](#list)
+## [Coursera / Specialization : Excel](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -873,6 +874,26 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Fundamentals of Data Analysis in Excel](https://www.coursera.org/learn/excel-data-analysis-course) | Bgn. | 5 | | | |
 | | &nbsp;&nbsp;· [Power Query Fundamentals](https://www.coursera.org/learn/power-query-fundamentals) | Bgn. | 5 | | | |
 | | &nbsp;&nbsp;· [Power Pivot Fundamentals](https://www.coursera.org/learn/learn-power-pivot) | Bgn. | 4 | | | |
+
+
+## [Coursera / Specialization : RPA](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| UiPath | [**Robotic Process Automation (RPA)**](https://www.coursera.org/specializations/roboticprocessautomation) | Bgn. | 48 | ○ | ○ | UiPath |
+| | &nbsp;&nbsp;· [RPA Basics and Introduction to UiPath](https://www.coursera.org/learn/rpa-basics-and-introduction-to-uipath) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Data Manipulation in RPA](https://www.coursera.org/learn/data-manipulation-in-rpa) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [UI Automation and Selectors](https://www.coursera.org/learn/ui-automation-and-selectors) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Control Flow in RPA](https://www.coursera.org/learn/control-flow-in-rpa) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Automation Techniques in RPA](https://www.coursera.org/learn/automation-techniques-in-rpa) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [UiPath Orchestrator and Capstone Projects](https://www.coursera.org/learn/uipath-orchestrator-and-capstone-projects) | Bgn. | 6 | | | |
+| Automation Anywhere | [**Implementing RPA with Cognitive Automation and Analytics**](https://www.coursera.org/specializations/rpa-cognitive-analytics) | Bgn. | 23 | × | ○ | Automation Anywhere |
+| | &nbsp;&nbsp;· [RPA Lifecycle: Introduction, Discovery and Design](https://www.coursera.org/learn/rpa-introduction) | Bgn. | 4 | | | |
+| | &nbsp;&nbsp;· [RPA Lifecycle: Development and Testing](https://www.coursera.org/learn/rpa-development-testing) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [RPA Lifecycle: Deployment and Maintenance](https://www.coursera.org/learn/rpa-deployment-maintenance) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Cognitive Solutions and RPA Analytics](https://www.coursera.org/learn/cognitive-solutions-rpa-analytics) | Bgn. | 4 | | | |
 
 
 ## [Coursera / Specialization : Electronic Engineering](#list)
