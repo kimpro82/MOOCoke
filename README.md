@@ -40,7 +40,8 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
   - [Data Science - Python](#coursera--specialization--data-science---python)
   - [Data Science - R](#coursera--specialization--data-science---r)
   - [Data Science - SAS](#coursera--specialization--data-science---sas)
-  - [Office Automation - Excel](#coursera--specialization--office-automation---excel)
+  - [Excel](#coursera--specialization--excel)
+  - [RPA](#coursera--specialization--rpa)
   - [Electronic Engineering](#coursera--specialization--electronic-engineering)
   - [Investment](#coursera--specialization--investment)
   - [Investment - Python](#coursera--specialization--investment---python)
@@ -58,7 +59,9 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 <details>
   <summary>Coursera : Course / Project</summary>
 
-  - [Course : Development](#coursera--course--development)
+  - [Course : Development (1) General](#coursera--course--development-1-general)
+  - [Course : Development (2) Applications](#coursera--course--development-2-applications)
+  - [Course : Development (3) Electronics](#coursera--course--development-3-electronics)
   - [Course : Music (1) Beginner, Itermedate](#coursera--course--music-1-beginner-itermedate)
   - [Course : Music (2) Mixed](#coursera--course--music-2-mixed)
   - [Course : Others](#coursera--course--others)
@@ -836,7 +839,7 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Preparing for the SAS® Viya® Programming Certification Exam](https://www.coursera.org/learn/sas-viya-programming-certification-prep) | Adv. | 12 | | | |
 
 
-## [Coursera / Specialization : Office Automation - Excel](#list)
+## [Coursera / Specialization : Excel](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
@@ -873,6 +876,26 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Fundamentals of Data Analysis in Excel](https://www.coursera.org/learn/excel-data-analysis-course) | Bgn. | 5 | | | |
 | | &nbsp;&nbsp;· [Power Query Fundamentals](https://www.coursera.org/learn/power-query-fundamentals) | Bgn. | 5 | | | |
 | | &nbsp;&nbsp;· [Power Pivot Fundamentals](https://www.coursera.org/learn/learn-power-pivot) | Bgn. | 4 | | | |
+
+
+## [Coursera / Specialization : RPA](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| UiPath | [**Robotic Process Automation (RPA)**](https://www.coursera.org/specializations/roboticprocessautomation) | Bgn. | 48 | ○ | ○ | UiPath |
+| | &nbsp;&nbsp;· [RPA Basics and Introduction to UiPath](https://www.coursera.org/learn/rpa-basics-and-introduction-to-uipath) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Data Manipulation in RPA](https://www.coursera.org/learn/data-manipulation-in-rpa) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [UI Automation and Selectors](https://www.coursera.org/learn/ui-automation-and-selectors) | Bgn. | 8 | | | |
+| | &nbsp;&nbsp;· [Control Flow in RPA](https://www.coursera.org/learn/control-flow-in-rpa) | Bgn. | 10 | | | |
+| | &nbsp;&nbsp;· [Automation Techniques in RPA](https://www.coursera.org/learn/automation-techniques-in-rpa) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [UiPath Orchestrator and Capstone Projects](https://www.coursera.org/learn/uipath-orchestrator-and-capstone-projects) | Bgn. | 6 | | | |
+| Automation Anywhere | [**Implementing RPA with Cognitive Automation and Analytics**](https://www.coursera.org/specializations/rpa-cognitive-analytics) | Bgn. | 23 | × | ○ | Automation Anywhere |
+| | &nbsp;&nbsp;· [RPA Lifecycle: Introduction, Discovery and Design](https://www.coursera.org/learn/rpa-introduction) | Bgn. | 4 | | | |
+| | &nbsp;&nbsp;· [RPA Lifecycle: Development and Testing](https://www.coursera.org/learn/rpa-development-testing) | Bgn. | 9 | | | |
+| | &nbsp;&nbsp;· [RPA Lifecycle: Deployment and Maintenance](https://www.coursera.org/learn/rpa-deployment-maintenance) | Bgn. | 6 | | | |
+| | &nbsp;&nbsp;· [Cognitive Solutions and RPA Analytics](https://www.coursera.org/learn/cognitive-solutions-rpa-analytics) | Bgn. | 4 | | | |
 
 
 ## [Coursera / Specialization : Electronic Engineering](#list)
@@ -1256,13 +1279,12 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | &nbsp;&nbsp;· [Newborn Capstone](https://www.coursera.org/learn/newborn-capstone) | Bgn. | 16 | | | |
 
 
-## [Coursera / Course : Development](#list)
+## [Coursera / Course : Development (1) General](#list)
 
 (Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
 
 | Subject | Title | Level | Hours | Plus | Korean | Partner |
 |:-:|:--|:-:|--:|:-:|:-:|:-:|
-| App Inventor | [Developing Android Apps with App Inventor](https://www.coursera.org/learn/app-inventor-android) | Bgn. | 40 | ○ | × | The Hong Kong University of Science and Technology |
 | Assembly | [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | - | 44 | ○ | × | Hebrew University of Jerusalem |
 | | [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/d2tetris2) | - | 90 | ○ | × | Hebrew University of Jerusalem |
 | Bash | [The Unix Workbench](https://www.coursera.org/learn/unix) | Bgn. | 19 | ○ | × | Johns Hopkins University |
@@ -1270,20 +1292,21 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills) | Itm. | 32 | × | × | Saint Petersburg State University |
 | Data Structure & Algorithms (Java) | [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Itm. | 54 | Free | ○ | Princeton University |
 | | [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Itm. | 63 | Free | ○ | Princeton University |
-| Electronics | [Introduction to Electronics](https://www.coursera.org/learn/electronics) | - | 46 | × | × | Georgia Institute of Technology |
-| | [Linear Circuits 1: DC Analysis](https://www.coursera.org/learn/linear-circuits-dcanalysis) | - | 85 | × | × | Georgia Institute of Technology |
-| | [Linear Circuits 2: AC Analysis](https://www.coursera.org/learn/linear-circuits-ac-analysis) | - | 28 | × | × | Georgia Institute of Technology |
-| | [Introduction to Semiconductor Devices 1](https://www.coursera.org/learn/semiconductor-1) | Itm. | 12 | ○ | × | Korea Advanced Institute of Science and Technology |
-| | [Introduction to Semiconductor Devices 2](https://www.coursera.org/learn/semiconductor-2) | Itm. | 10 | ○ | × | Korea Advanced Institute of Science and Technology |
-| | [VLSI CAD Part I: Logic](https://www.coursera.org/learn/vlsi-cad-logic) | Itm. | 23 | ○ | × | University of Illinois at Urbana-Champaign |
-| | [VLSI CAD Part II: Layout](https://www.coursera.org/learn/vlsi-cad-layout) | Itm. | 24 | ○ | × | University of Illinois at Urbana-Champaign |
-| | [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design) | Itm. | 30 | ○ | × | Eindhoven University of Technology |
-| Functional Programming (SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
+| Functional Programming<br>(SML) | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Itm. | 30 | ○ | × | University of Washington |
 | (Racket) | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Itm. | 17 | ○ | × | University of Washington |
 | (Ruby) | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | 18 | ○ | × | University of Washington |
-| Git | [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | ○ | × | Google |
 | Java | [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | Itm. | 42 | ○ | ○ | University of California San Diego |
 | Julia | [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming) | Bgn. | 18 | ○ | × | University of Cape Town |
+
+
+## [Coursera / Course : Development (2) Applications](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| App Inventor | [Developing Android Apps with App Inventor](https://www.coursera.org/learn/app-inventor-android) | Bgn. | 40 | ○ | × | The Hong Kong University of Science and Technology |
+| Git | [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) | Bgn. | 16 | ○ | × | Google |
 | Mathematics | [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) | Itm. | 59 | ○ | × | The University of Sydney |
 | | [Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | Itm. | 23 | ○ | × | Johns Hopkins University |
 | MATLAB Octave | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | 61 | × | × | Stanford University |
@@ -1293,6 +1316,26 @@ Learn from MOOC like doing coke, but do not really coke (if you aren't a Califor
 | | [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure) | Adv. | 16 | ○ | × | LearnQuest |
 | | [Azure Infrastructure Fundamentals](https://www.coursera.org/learn/azure-infrastructure) | Adv. | 30 | ○ | × | LearnQuest |
 | OpenCV | [2D image processing](https://www.coursera.org/learn/2d-image-processing) | Bgn. | 14 | × | × | HSE University |
+| RPA<br>(UiPath) | [Automation Business Analysis - Concepts and Principles](https://www.coursera.org/learn/automation-business-analyst) | Bgn. | 14 | ○ | ○ | UiPath |
+| (UiPath) | [Robotics Process Automation for Smart Manufacturing](https://www.coursera.org/learn/robotics-process-automation-for-smart-manufacturing) | Bgn. | 6 | ○ | × | Starweaver |
+| (Blue Prism) | [Blue Prism Foundation Training](https://www.coursera.org/learn/blue-prism-foundation-training) | Bgn. | 19 | ○ | ○ | Blue Prism |
+| (Automation 360) | [Getting Started with Automation 360](https://www.coursera.org/learn/automation-360) | Itm. | 4 | × | ○ | Automation Anywhere |
+
+
+## [Coursera / Course : Development (3) Electronics](#list)
+
+(Bgn.: Beginner / Itm.: Intermediate / Adv.: Advanced)
+
+| Subject | Title | Level | Hours | Plus | Korean | Partner |
+|:-:|:--|:-:|--:|:-:|:-:|:-:|
+| Electronics | [Introduction to Electronics](https://www.coursera.org/learn/electronics) | - | 46 | × | × | Georgia Institute of Technology |
+| | [Linear Circuits 1: DC Analysis](https://www.coursera.org/learn/linear-circuits-dcanalysis) | - | 85 | × | × | Georgia Institute of Technology |
+| | [Linear Circuits 2: AC Analysis](https://www.coursera.org/learn/linear-circuits-ac-analysis) | - | 28 | × | × | Georgia Institute of Technology |
+| | [Introduction to Semiconductor Devices 1](https://www.coursera.org/learn/semiconductor-1) | Itm. | 12 | ○ | × | Korea Advanced Institute of Science and Technology |
+| | [Introduction to Semiconductor Devices 2](https://www.coursera.org/learn/semiconductor-2) | Itm. | 10 | ○ | × | Korea Advanced Institute of Science and Technology |
+| | [VLSI CAD Part I: Logic](https://www.coursera.org/learn/vlsi-cad-logic) | Itm. | 23 | ○ | × | University of Illinois at Urbana-Champaign |
+| | [VLSI CAD Part II: Layout](https://www.coursera.org/learn/vlsi-cad-layout) | Itm. | 24 | ○ | × | University of Illinois at Urbana-Champaign |
+| | [RF and millimeter-Wave Circuit Design](https://www.coursera.org/learn/rf-mmwave-circuit-design) | Itm. | 30 | ○ | × | Eindhoven University of Technology |
 
 
 ## [Coursera / Course : Music (1) Beginner, Itermedate](#list)
